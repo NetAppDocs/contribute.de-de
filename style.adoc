@@ -1,0 +1,668 @@
+---
+sidebar: sidebar 
+permalink: style.html 
+---
+= Style Guide für NetApp Dokumentationen
+:toc: macro
+:hardbreaks:
+:allow-uri-read: 
+:toc: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Unser Stil ist umgangssprachlich und einfühlsam, aber wir bleiben professionell und kommen zum Punkt. Folgen Sie beim Schreiben der Inhalte für NetApp Dokumentationen diesen Richtlinien.
+
+
+
+== Konvergieren
+
+Schreiben Sie so, als würden Sie sprechen, wenn Sie einem professionellen Kollegen etwas erklären. Schreiben in einem Gesprächston hilft Ihnen, mit Ihrem Publikum zu verbinden.
+
+
+TIP: Lesen Sie Ihr Schreiben laut. Elmore Leonard, ein amerikanischer Schriftsteller und Drehbuchautor, sagte: „Wenn es wie Schreiben klingt, dann schreibe ich es neu.“
+
+|===
+| Zu formell | Zu lässig | Unser Stil 
+
+
+| Wenn bei Cloud Tiering Probleme auftreten, können Sie den Integritätsstatus auf der Cluster Dashboard anzeigen, um festzustellen, warum der Fehler aufgetreten ist. Der Systemzustand gibt den Status des ONTAP-Systems und des Servicesteckers wieder. | Es macht keinen Spaß, wenn Ausfälle passieren. Machen Sie sich keine Sorgen, aber schauen Sie sich einfach das Cluster Dashboard um zu sehen, was passiert ist und was betroffen ist. | Wenn ein Fehler auftritt, zeigt Cloud Tiering auf dem Cluster Dashboard einen „fehlgeschlagenen“ Integritätsstatus an. Zeigen Sie den Status an, um Informationen über den Fehler zu erhalten. 
+
+
+| Sie können für Cloud Tiering auf unterschiedliche Weise bezahlen. Sie können für Cloud Tiering über ein Pay-as-you-go-Abonnement bezahlen, über eine ONTAP Tiering-Lizenz bezahlen oder über eine Kombination beider Möglichkeiten bezahlen. Sie können keine Lizenzierung in Cloud Manager erhalten, Sie müssen direkt zum Cloud Tiering Service gehen, um ihn einzurichten. | Wir haben drei Möglichkeiten, wie Sie für Cloud Tiering bezahlen können. Natürlich ein Pay-as-you-go-Abonnement, aber auch eine ONTAP Tiering-Lizenz oder sogar eine Kombination von beiden. Aber Sie können nicht die Lizenzierung von Cloud-Manager erhalten, so gehen Sie einfach direkt zum Cloud-Tiering-Service, um es einzurichten. | Sie bezahlen für Cloud Tiering über ein Pay-as-you-go-Abonnement, eine ONTAP Tiering-Lizenz oder eine Kombination aus beidem. Lizenzierung ist nicht verfügbar in Cloud Manager, aber Sie können direkt zu den Cloud Tiering Service gehen, um es einzurichten. 
+
+
+| Bevor Sie Storage bereitstellen können, müssen Sie das ONTAP Cluster aus Cloud Manager erkennen. Nach Abschluss der Bestandsaufnahme müssen Sie die Arbeitsumgebung öffnen, um Storage bereitzustellen. | Erst erkennen Sie den ONTAP Cluster vom Cloud Manager, dann öffnen Sie die Arbeitsumgebung, in der Sie mit dem Bereitstellen von Speicher beginnen können. Ganz Einfach! | Nachdem Sie den ONTAP Cluster von Cloud Manager entdeckt haben, öffnen Sie die Arbeitsumgebung für die Bereitstellung von Storage. 
+
+
+| Die Wellness-Attribute Ihres Speichersystems können je nach Analyse auf zwei Arten analysiert werden: Wählen Sie entweder das Widget „Wellness-Attribut“ auf dem Dashboard oder wählen Sie „Alle anzeigen“, um die gesamte Liste der Wellness-Attribute anzuzeigen. | Sie haben zwei Möglichkeiten, die Wellness-Attribute Ihres Systems zu analysieren: Wählen Sie einfach das Wellness-Attribut-Widget auf dem Dashboard. Oder, wenn Sie lieber die gesamte Liste der Wellness-Attribute in einer Ansicht sehen würden, wählen Sie Alle anzeigen. | Wählen Sie im Dashboard das Widget „Wellness-Attribut“ oder „Alle anzeigen“ aus, um die Liste aller Aktionen und Risiken anzuzeigen. 
+
+
+| Befolgen Sie beim Starten des Setup-Assistenten die Anweisungen im Assistenten, um den Node einzurichten und dem Cluster beizutreten. Die folgenden Schritte führen Sie durch die Schritte im Assistenten. | Der Setup-Assistent wird angezeigt (fast wie Magic), um Sie durch den einfachen Prozess der Einrichtung des Node und der Verbindung mit dem Cluster zu führen. | Befolgen Sie die Anweisungen im Setup-Assistenten, um den Node einzurichten und dem Cluster beizutreten. 
+
+
+| Sie können zwischen verschiedenen Inhaltstypen wählen, um Ihr neues System zu installieren und einzurichten. Jeder Formattyp enthält vollständige Anweisungen. Wählen Sie den Formattyp aus, der am ehesten der Art entspricht, die Sie lernen möchten. | Wie möchten Sie Ihr System einrichten und installieren? Wir stellen Anweisungen in verschiedenen Inhaltstypen zur Verfügung, aber nur Sie wissen, wie Sie lernen möchten. | Wählen Sie einen Inhaltstyp aus, der Sie bei der Installation und Einrichtung des Systems unterstützt. 
+|===
+
+
+== Schreiben Sie einfach
+
+Vermeiden Sie große und verwirrende Worte. Einfach Sie erklären etwas einem professionellen Kollegen, nicht zeigen Sie Ihren Wortschatz.
+
+**Statt dessen**: „Dissoziieren Sie den Benutzer von Ihrem NetApp Cloud Central Konto.“
+
+**Do this**: „Entfernen Sie den Benutzer aus Ihrem NetApp Cloud Central Konto.“
+
+
+
+== Minimale Schreibvorgänge
+
+Kurze, einfache Sätze erleichtern das Lesen oder Scannen von Inhalten. Es ist okay, immer einen längeren Satz zu verwenden, aber folgen Sie ihm mit einem kürzeren. So.
+
+**Statt dessen**: „Um Daten zwischen einem Cloud Volumes ONTAP-System in AWS und ONTAP-Systemen in anderen Netzwerken zu replizieren, benötigen Sie eine VPN-Verbindung zwischen dem Amazon VPC und dem anderen Netzwerk – beispielsweise ein Azure vnet oder Ihr Unternehmensnetzwerk.“
+
+**Do this**: „Die Datenreplikation zwischen Netzwerken erfordert eine Verbindung über ein VPN. Beispielsweise zwischen Amazon VPC und Ihrem Unternehmensnetzwerk oder zwischen AWS und Azure.“
+
+Siehe auch .
+
+
+
+== Aktiv schreiben
+
+Die Vermeidung passiver Stimme ist eine Standardregel für das technische Schreiben, aber es ist besonders wichtig, aktive Stimme zu verwenden, wenn Sie umgangssprachlich klingen wollen.
+
+**Statt dessen**: „Vor der Bereitstellung des ersten Clusters müssen die erforderlichen Berechtigungen bereitgestellt werden.“
+
+**Do this**: „Bereitstellen der erforderlichen Berechtigungen, bevor Sie Ihr erstes Cluster bereitstellen.“
+
+Siehe auch  voice (versus “passive voice”).
+
+
+
+== Verwenden Sie eine inklusiv Sprache
+
+NetApp ist der Ansicht, dass die Produktdokumentation nicht diskriminierende, exklusive Inhalte enthalten sollte. Die Worte, die wir benutzen, können einen Unterschied machen zwischen einer positiven Beziehung zu unseren Kunden oder ihrer Entfremdung. Vor allem bei geschriebenen Worten ist die Wirkung wichtiger als die Absicht.
+
+Beim Erstellen von Inhalten für NetApp Produkte vermeiden Sie eine Sprache, die als entniedrigend, rassistisch, sexistisch oder anderweitig bedrückend interpretiert werden kann. Verwenden Sie stattdessen Sprache, die allen zugänglich ist und die die Dokumentation verwenden müssen. Verwenden Sie zum Beispiel anstelle von „Master/Slave“ „Primary/Secondary“.
+
+Wir wissen, dass wir zu tun haben, um alle nicht-inklusiven Sprachen aus unserer Dokumentation und unseren Produkten zu entfernen. Wir arbeiten aktiv an unseren Standards und Best Practices und erwarten, dass wir diesen Abschnitt zukünftig mit weiteren Anleitungen aktualisieren werden.
+
+
+
+== Kommen Sie zum Punkt
+
+Beginnen Sie mit dem, was für den Benutzer wichtig ist. Finden Sie heraus, was der Benutzer zu tun versucht, und konzentrieren Sie sich darauf, ihm dabei zu helfen, dieses Ziel zu erreichen.
+
+**Statt dessen**: „Cloud Sync kann Daten von einem NFS-Server mit Data-in-Flight-Verschlüsselung auf einen anderen NFS-Server synchronisieren. Die Verschlüsselung der Daten kann bei strengen Sicherheitsrichtlinien für die Datenübertragung über Netzwerke hilfreich sein.“
+
+**Do this**: „Wenn Ihr Unternehmen strenge Sicherheitsrichtlinien hat, verwenden Sie die Data-in-Flight-Verschlüsselung, um Daten zwischen NFS-Servern in verschiedenen Netzwerken zu synchronisieren.“
+
+
+
+== Verwenden Sie viele Visuals
+
+Die meisten Menschen sind visuelle Lernende. Nutzen Sie Videos, Diagramme und Screenshots, um das Lernen zu verbessern. Außerdem helfen Visualisierungen dabei, Textblöcke aufzubrechen.
+
+.Beispiele
+* https://docs.netapp.com/us-en/occm/concept_accounts_aws.html["Beispiel #1"^]
+* https://docs.netapp.com/us-en/occm/task_getting_started_azure.html["Beispiel #2"^]
+
+
+Siehe auch .
+
+
+
+== Erstellen Sie scannbare Inhalte
+
+Verwenden Sie Überschriften, Listen und Tabellen, damit Benutzer nach gewünschten Informationen suchen können.
+
+.Beispiele
+* https://docs.netapp.com/us-en/cloud_volumes/aws/task_activating_support_entitlement.html["Beispiel #1"^]
+* https://docs.netapp.com/us-en/cloud_volumes/aws/reference_selecting_service_level_and_quota.html["Beispiel #2"^]
+
+
+
+
+== Konzentrieren Sie sich auf ein Benutzerziel oder einen bestimmten Aspekt dieses Ziels
+
+Wenn Sie beschreiben, wie Sie eine Reihe von Aufgaben, setzen Sie alles auf einer Seite in einer Reihe von Abschnitten, einschließlich konzeptuellen und referenbasierten Informationen. Zerlegen Sie Ihre Seite nicht in mehrere Mini-Seiten – das erfordert zu viel Klicken. Zur gleichen Zeit, nicht lange erstellen, einschüchternde Seiten. Verwenden Sie nach bestem Ermessen, um zu entscheiden, wann eine Seite zu lang ist.
+
+.Beispiele
+* https://docs.netapp.com/us-en/cloud_volumes/aws/task_activating_support_entitlement.html["Beispiel #1"^]
+* https://docs.netapp.com/us-en/occm/concept_ha.html["Beispiel #2"^]
+
+
+
+
+== Organisieren von Inhalten rund um das Ziel des Benutzers
+
+Helfen Sie Benutzern, die benötigten Informationen zu finden, wann sie sie sie benötigen. Sie so schnell wie möglich in und aus den Dokumenten zu bekommen, indem Sie den Inhalt wie folgt organisieren:
+
+Der erste Eintrag in der linken Navigation (High Level):: Organisieren von Inhalten rund um die Ziele, die der Benutzer zu erreichen versucht. Beispielsweise sind erste Schritte oder die Sicherung von Daten.
+Die zweiten Einträge in der Navigation (mittlere Ebene):: Organisieren Sie Inhalte rund um die umfassenden Aufgaben, die die Ziele bilden. Beispielsweise Einrichtung von Disaster Recovery oder Einrichtung von Datensicherung.
+Einzelne Seiten (detaillierte Ebene):: Organisieren Sie Inhalte rund um die einzelnen Aufgaben, die die umfassenden Aufgaben bilden, wobei jeder sich auf ein einzelnes Lernen oder einen Aspekt dieser breiten Aufgabe konzentriert. Beispielsweise sind die Aufgaben, die zum Einrichten der Disaster Recovery erforderlich sind.
+
+
+
+
+== Schreiben Sie für ein globales Publikum
+
+Wir schreiben für unsere Kunden und Partner auf der ganzen Welt, und ein Großteil unserer Inhalte wird mit Neural Machine Translation Tools oder Human Translation übersetzt. Beachten Sie die folgenden Richtlinien, um ein übersichtliches Schreiben und eine einfachere Übersetzung zu erstellen:
+
+* Schreiben Sie kurze, einfache Sätze.
+* Verwenden Sie die Standardgrammatik und Satzzeichen.
+* Verwenden Sie ein Wort für eine Bedeutung und eine Bedeutung für ein Wort.
+* Verwenden Sie allgemeine Kontraktionen.
+* Verwenden Sie Grafiken, um Text zu klären oder zu ersetzen.
+* Vermeiden Sie das Einbetten von Text in Grafiken.
+* Vermeiden Sie es, drei oder mehr Substantive in einer Zeichenkette zu haben.
+* Unklare Vorläufer vermeiden.
+* Vermeiden Sie Jargon, Kolloquialismen und Metaphern.
+* Vermeiden Sie nicht-technische Beispiele.
+* Verwenden Sie keine harten Rückstände und Abstände.
+* Verwenden Sie keinen Humor oder Ironie.
+* Verwenden Sie keine diskriminierenden Inhalte.
+* Verwenden Sie keine geschlechtsspezifische Sprache, es sei denn, Sie schreiben für eine bestimmte Persona.
+
+
+
+
+== Richtlinien von A bis Z
+
+
+
+=== Aktive Stimme (im Vergleich zu „passiver Stimme“)
+
+In aktiver Stimme ist das Thema des Satzes der Täter der Aktion:
+
+* Wenn Sie das System nicht ordnungsgemäß herunterfahren, wird auf der Schnittstelle eine Warnmeldung angezeigt.
+* NetApp hat den Vertrag erhalten.
+
+
+Aktive Stimme hält das Schreiben scharf und klar. Verwenden Sie aktive sprach- und Adressbenutzer direkt als „Sie“, es sei denn, Sie haben einen bestimmten Grund, passive Stimme zu verwenden.
+
+In passiver Stimme ist der Täter der Aktion unklar:
+
+* Wenn das System nicht ordnungsgemäß heruntergefahren wird, wird eine Warnmeldung angezeigt.
+* NetApp erhielt den Auftrag.
+
+
+Passive Stimme verwenden, wenn:
+
+* Sie wissen nicht, wer oder was die Aktion durchgeführt hat.
+* Sie möchten vermeiden, den Benutzern die Schuld für die Ergebnisse einer Aktion zu geben.
+* Man kann nicht um sie schreiben, wie für einige Vorbedingung Informationen.
+
+
+Weitere Verbkonventionen finden Sie unter:
+
+* https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+* https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
+* https://www.merriam-webster.com/["Merriam-Webster Wörterbuch Online"^]
+
+
+
+
+=== Ermahnungen
+
+Verwenden Sie die folgenden Beschriftungen, um Inhalte getrennt vom Haupt-Content-Flow zu identifizieren:
+
+* HINWEIS
++
+VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie die Verwendung VON NOTE für „Nice to Know“ Informationen, die für Benutzer nicht erforderlich ist, um über die Aufgabe zu lernen oder die Aufgabe abzuschließen.
+
+* TIPP
++
+Verwenden SIE TIPP nur sparsam, wenn überhaupt, weil es unsere Richtlinie ist, die Informationen zu Best Practices immer standardmäßig zu dokumentieren. Verwenden SIE BEI Bedarf TIPP, um Informationen zu Best Practices zu enthalten, mit denen Benutzer einfach und effizient ein Produkt verwenden oder einen Schritt oder eine Aufgabe durchführen können.
+
+* ACHTUNG
++
+SEIEN SIE VORSICHTIG, um die Benutzer über Bedingungen oder Verfahren zu warnen, die zu Verletzungen führen können, die nicht tödlich oder extrem gefährlich sind.
+
+
+
+
+
+=== Nachher (im Vergleich zu „einmal“)
+
+* Verwenden Sie „nach“, um eine Chronologie anzuzeigen: „Schalten Sie Ihren Computer ein, nachdem Sie ihn angeschlossen haben.“
+* Verwenden Sie „einmal“ nur um „ein Mal“ zu bedeuten.
+
+
+
+
+=== Außerdem
+
+* Verwenden Sie „auch“, um „zusätzlich“ zu bedeuten.
+* Verwenden Sie nicht "auch", um "alternativ" zu bedeuten.
+
+
+
+
+=== Und/oder
+
+Wählen Sie den präziseren Begriff aus, wenn es einen gibt. Wenn keiner der Begriffe präziser ist als der andere, verwenden Sie „und/oder“.
+
+
+
+=== Als
+
+Verwenden Sie nicht „als“, um „weil“ zu bedeuten.
+
+
+
+=== Durch Verwendung (im Vergleich zu „Verwendung“ oder „mit“)
+
+* Verwenden Sie „mit“, wenn das Element, das die Verwendung tut, das Thema ist: „Sie können neue Komponenten zum Repository hinzufügen, indem Sie das Menü Komponenten verwenden.“
+* Sie können einen Satz mit „Verwenden“ oder „mit“ beginnen, der manchmal mit Produktnamen akzeptabel ist: „Mit SnapDrive können Sie virtuelle Festplatten und Snapshot-Kopien in einer Windows-Umgebung verwalten.“
+
+
+
+
+=== Can (im Gegensatz zu „könnte“, „darf“, „sollte“ oder „muss“)
+
+* Verwenden Sie „CAN“, um die Fähigkeit anzuzeigen: „Sie können Ihre Änderungen jederzeit während dieses Verfahrens durchführen.“
+* Verwenden Sie „könnte“, um die Möglichkeit anzuzeigen: „Das Herunterladen mehrerer Programme könnte sich auf die Verarbeitungszeit auswirken.“
+* Verwenden Sie „May“ nicht, was zweideutig ist, weil es entweder die Fähigkeit oder die Erlaubnis bedeuten könnte.
+* Verwenden Sie „sollte“, um eine empfohlene, aber optionale Aktion anzuzeigen. Ziehen Sie stattdessen die Verwendung eines alternativen Satzes in Betracht, z. B. „Wir empfehlen“.
+* Vermeiden Sie es, „muss“ zu verwenden, weil es passiv ist. Überlegen Sie, den Gedanken als eine Anweisung mit zwingender Stimme zu rerestieren. Wenn Sie „muss“ verwenden, zeigen Sie mit ihr eine erforderliche Aktion oder Bedingung an.
+
+
+
+
+=== Großschreibung
+
+Verwenden Sie für fast alles eine Kapitalisierung im Stil von Satz (klein geschrieben). Nur Kapital:
+
+* Das erste Wort aus Sätzen und Überschriften, einschließlich Tabellenüberschriften
+* Das erste Wort der Listenelemente, einschließlich Satzfragmente
+* Richtige Substantive
+* DOC-Titel und Untertitel (Kapitalisierung aller wichtigsten Wörter und Präpositionen von fünf oder mehr Buchstaben)
+* UI-Elemente, aber nur, wenn sie in der Schnittstelle groß geschrieben werden. Verwenden Sie andernfalls Kleinbuchstaben.
+
+
+
+
+=== WARNHINWEISE
+
+SEIEN SIE VORSICHTIG, um die Benutzer über Bedingungen oder Verfahren zu warnen, die zu Verletzungen führen können, die nicht tödlich oder extrem gefährlich sind.
+
+Siehe  Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
+
+
+
+=== Konsistenz
+
+„Schreiben Sie, wie Sie sprechen, wenn Sie einem professionellen Kollegen etwas erklären“ bedeutet etwas anderes für jeden. Unser professioneller Gesprächsstil hilft uns mit den Nutzern zu verbinden – und erhöht die Häufigkeit kleinerer Inkonsistenzen bei mehreren Autoren:
+
+* Konzentrieren Sie sich darauf, den Inhalt klar und einfach zu gestalten. Wenn alle Inhalte klar und einfach zu bedienen sind, spielen kleine Inkonsistenzen keine Rolle.
+* Seien Sie in der Seite, die Sie schreiben konsistent.
+* Befolgen Sie immer die Richtlinien unter  for a global audience.
+
+
+
+
+=== Kontraktionen
+
+Kontraktionen verstärken einen Gesprächston, und viele Kontraktionen sind leicht zu verstehen und zu übersetzen.
+
+* Verwenden Sie Kontraktionen wie diese, die leicht zu verstehen und zu übersetzen sind:
++
+|===
+
+
+| Sind es nicht | Du bist 
+
+
+| Ist nicht | Wir sind 
+
+
+| War nicht | Es ist 
+
+
+| Waren Sie nicht | Lass uns 
+
+
+| Nicht | Wir werden (wenn eine zukünftige Spannung erforderlich ist) 
+
+
+| Das nicht | Wird nicht (wenn eine zukünftige Spannung erforderlich ist) 
+
+
+| Nicht | Sie werden (wenn eine ZukunftspInfrastruktur erforderlich ist) 
+|===
+* Verwenden Sie keine Kontraktionen wie diese, die schwer zu verstehen und zu übersetzen sind:
++
+|===
+
+
+| Das wäre schon | Sollte haben 
+
+
+| Hätte ich nicht | Sollte nicht haben 
+
+
+| Könnte schon | Hätte nicht können 
+|===
+
+
+
+
+=== Stellen Sie sicher (im Vergleich zur „Bestätigung“ oder „Überprüfung“)
+
+* Verwenden Sie „Sicherstellen“, um „sicher zu machen“. Fügen Sie „das“ hinzu, wenn es angebracht ist: „Stellen Sie sicher, dass genügend weißer Raum um Illustrationen herum vorhanden ist.“
+* Niemals „sicherstellen“ verwenden, um ein Versprechen oder eine Garantie zu implizieren: „Verwenden Sie Cloud Manager, um sicherzustellen, dass Sie NFS- und CIFS-Volumes auf ONTAP-Clustern bereitstellen können.“
+* Verwenden Sie „Bestätigen“ oder „Verifizieren“, wenn Sie meinen, dass der Benutzer etwas überprüfen sollte, das bereits existiert oder bereits geschehen ist: „Überprüfen Sie, ob NFS auf dem Cluster eingerichtet ist.“
+
+
+
+
+=== Grafik
+
+Prüfen Sie kontinuierlich Inhalte, um hilfreiche Illustrationen, Diagramme, Flussdiagramme, Bildschirmaufnahmen oder andere visuelle Referenzen zu erhalten. Grafiken vermitteln oft komplexe Konzepte und Schritte deutlicher als Text.
+
+* Fügen Sie eine Beschreibung ein, was die Abbildung soll kommunizieren: „Die folgende Abbildung zeigt die Netzteil-LEDs auf der Rückseite.
+* Beziehen Sie sich auf die Position der Abbildung als „folgt“ oder „vorstehend“, nicht „oben“ oder „darunter“.
+
+
+
+
+=== Grammatik
+
+Wenn nicht anders angegeben, befolgen Sie die Grammatik-, Zeichensetzung- und Rechtschreibkonventionen, die in aufgeführt sind:
+
+* https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+* https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
+* https://www.merriam-webster.com/["Merriam-Webster Wörterbuch Online"^]
+
+
+
+
+=== Wenn nicht
+
+Verwenden Sie „Wenn nicht“ allein nicht, um sich auf den vorherigen Satz zu beziehen:
+
+**Statt dessen**: „Der Computer sollte ausgeschaltet sein. Wenn nicht, schalten Sie es aus.“
+
+**Do this**: "Stellen Sie sicher, dass der Computer ausgeschaltet ist."
+
+
+
+=== Wenn (im Vergleich zu „ob“ oder „Wann“)
+
+* Verwenden Sie „ob“, um eine Bedingung anzugeben, wie in „wenn dies, dann das“ Konstruktionen.
+* Verwenden Sie „ob“, wenn eine angegebene oder implizite „oder nicht“ Bedingung vorhanden ist. Um die Übersetzung zu erleichtern, ist es oft am besten, „ob“ oder „nicht“ mit „ob“ allein zu ersetzen.
+* Verwenden Sie „Wann“, um einen Zeitdurchgang anzuzeigen.
+
+
+
+
+=== Eine zwingende Stimme
+
+* Verwenden Sie Imperativ Voice für Schritte, Direktiven, Anforderungen und Überschriften für Listen von Benutzeraktionen:
++
+** „Klicken Sie auf der Seite Arbeitsumgebungen auf Entdecken und wählen Sie ONTAP Cluster.“
+** „Drehen Sie den Nockengriff so, dass er gegen die Stromversorgung bündig ist.“
+
+
+* Ziehen Sie in Betracht, die passive Stimme durch eine zwingende Stimme zu ersetzen:
++
+**Statt dessen**: „Vor der Bereitstellung des ersten Clusters müssen die erforderlichen Berechtigungen bereitgestellt werden.“
+
++
+**Do this**: „Bereitstellen der erforderlichen Berechtigungen, bevor Sie Ihr erstes Cluster bereitstellen.“
+
+* Vermeiden Sie die Verwendung von Imperativ Voice, um Schritte in konzeptionelle und Referenzinformationen einzubetten.
+
+
+
+
+=== IP- und IPv6-Adressen
+
+Für IP-Adressen (einschließlich IPv6) in Beispielen ist es sicher, jede Adresse, die mit „10.x“ beginnt, einzuschließen.
+
+
+
+=== Funktionen und Releases werden zukünftig veröffentlicht
+
+Beziehen Sie sich nicht auf den Zeitpunkt oder Inhalt der kommenden Produktversionen oder Funktionen, außer zu sagen, dass eine Funktion oder Funktion „derzeit nicht unterstützt“.
+
+
+
+=== KB-Artikel: Verweisen auf
+
+Greifen Sie gegebenenfalls auf Inhalte in KB (NetApp Knowledgebase)-Artikeln zu. Für Ressourcen-Seiten und GitHub-Inhalte, setzen Sie den Link in Running Text.
+
+
+
+=== Listen
+
+Listen von Informationen sind in der Regel einfacher zu scannen und absorbieren als Textblöcke. Überlegen Sie, wie Sie komplexe Informationen vereinfachen können, indem Sie sie in Listenform präsentieren. Hier sind einige allgemeine Richtlinien, aber nutzen Sie Ihr Urteil:
+
+* Stellen Sie sicher, dass der Grund für die Liste klar ist. Führen Sie die Liste mit einem vollständigen Satz, einem Satzfragment mit einem Doppelpunkt oder einer Überschrift ein.
+* Listen sollten zwei bis sieben Einträge enthalten. Im Allgemeinen, je kürzer die Informationen in jedem Eintrag, desto mehr Einträge können Sie hinzufügen, während die Liste scannable.
+* Listeneinträge sollten so scannbar wie möglich sein. Vermeiden Sie Textblöcke, die in der Art und Weise, Listen Einträge scannable erhalten.
+* Listeneinträge sollten mit einem Großbuchstaben beginnen, und Listeneinträge sollten grammatikalisch parallel sein. Beginnen Sie beispielsweise jeden Eintrag mit einem Substantiv oder einem Verb:
++
+** Wenn es sich bei allen Listeneinträgen um vollständige Sätze handelt, beenden Sie diese mit Perioden.
+** Wenn alle Listeneinträge Satzfragmente sind, beenden Sie sie nicht mit Perioden.
+
+
+* Listeneinträge sollten auf logische Weise geordnet werden, z. B. alphabetisch oder chronologisch.
+
+
+
+
+=== Lokalisierung
+
+Siehe  for a global audience.
+
+
+
+=== Minimalismus
+
+* Benötigen die Benutzer diese Inhalte zur Zeit an diesem Ort?
+* Kann ich den Inhalt in weniger Worten darstellen, ohne zu formell oder zu lässig zu klingen?
+* Kann ich einen langen Satz verkürzen oder vereinfachen oder in zwei oder mehr Sätze unterteilen?
+* Kann ich eine Liste verwenden, um den Inhalt scannbarer zu machen?
+* Kann ich eine Grafik verwenden, um einen Textblock zu erweitern oder zu ersetzen?
+
+
+
+
+=== NOTIEREN Sie sich die Informationen
+
+VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie die Verwendung VON NOTE für „Nice to Know“ Informationen, die für Benutzer nicht erforderlich ist, um über die Aufgabe zu lernen oder die Aufgabe abzuschließen.
+
+Siehe  Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
+
+
+
+=== Ziffern enthalten
+
+* Verwenden Sie arabische Ziffern für 10 und alle Zahlen größer als 10, mit folgenden Ausnahmen:
++
+** Wenn Sie einen Satz mit einer Zahl beginnen, verwenden Sie ein Wort, nicht eine arabische Zahl.
+** Verwenden Sie Wörter (keine Ziffern) für ungefähre Zahlen.
+
+
+* Verwenden Sie Wörter für Zahlen, die weniger als 10 sind.
+* Wenn ein Satz eine Mischung aus Zahlen kleiner als 10 und größer als 10 enthält, verwenden Sie arabische Ziffern für alle Zahlen.
+* Weitere Zahlenkonventionen finden Sie unter:
++
+** https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+** https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
+
+
+
+
+
+
+=== Plagiat
+
+Wir dokumentieren NetApp Produkte und die Interaktion von NetApp Produkten mit Produkten von Drittanbietern. Wir dokumentieren keine Produkte von Drittanbietern. Niemals sollten wir Inhalte von Drittanbietern in unsere Dokumentation kopieren und einfügen müssen, und das sollten wir niemals tun.
+
+
+
+=== Voraussetzungen
+
+Die Voraussetzungen bestimmen die Bedingungen, die vorhanden sein müssen oder die Aktionen, die Benutzer vor dem Start der aktuellen Aufgabe abgeschlossen haben müssen.
+
+* Identifizieren Sie die Art des Inhalts mit einer Überschrift, wie z. B. „Voraussetzungen“, „bevor Sie beginnen“ oder „bevor Sie beginnen“.
+* Verwenden Sie passive Stimme als Vorformulierung, wenn es sinnvoll ist, dies zu tun:
++
+** „NFS oder CIFS muss auf dem Cluster eingerichtet werden.“
+** „Sie müssen über die Cluster-Management-IP-Adresse und das Passwort verfügen, damit das Admin-Benutzerkonto den Cluster zu Cloud Manager hinzufügen kann.“
+
+
+* Klärung der Voraussetzung nach Bedarf: „NFS oder CIFS muss auf dem Cluster eingerichtet werden. Sie können NFS und CIFS mit System Manager oder der CLI einrichten.“
+* Überlegen Sie andere Möglichkeiten, um die Informationen zu präsentieren, zum Beispiel, ob es sinnvoll wäre, den Inhalt als ersten Schritt in der aktuellen Aufgabe zu resagen:
++
+** Voraussetzung: „Vor der Bereitstellung des ersten Clusters müssen Sie über die erforderlichen Berechtigungen verfügen.“
+** Schritt: "Stellen Sie die erforderlichen Berechtigungen für die Bereitstellung Ihres ersten Clusters."
+
+
+
+
+
+
+=== Vorher (gegenüber „vorher“, „früher“ oder „vorher“)
+
+* Ersetzen Sie nach Möglichkeit „vorher“ durch „vorher“.
+* Wenn Sie „vorher“ nicht verwenden können, verwenden Sie „Prior“ als Adjektiv, um sich auf etwas zu beziehen, das früher oder mit einer höheren Reihenfolge von Bedeutung aufgetreten ist.
+* Verwenden Sie „Previous“, um etwas anzugeben, das zu einer nicht festgelegten Zeit früher aufgetreten ist.
+* Verwenden Sie „vorhergehende“, um auf etwas hinzuweisen, das unmittelbar zuvor aufgetreten ist.
+
+
+
+
+=== Satzzeichen
+
+Einfach Im Allgemeinen, je mehr Satzzeichen enthalten sind, desto mehr Gehirnzellen, die es braucht, um zu verstehen.
+
+* Verwenden Sie vor der Verbindung („und“ oder „oder“) ein serielles Komma (Oxford Komma) in einer Erzählliste mit drei oder mehr Elementen.
+* Beschränken Sie die Verwendung von Semikolons und Doppelpunkte.
+* Wenn nicht anders angegeben, befolgen Sie die Grammatik-, Zeichensetzung- und Rechtschreibkonventionen, die in aufgeführt sind:
++
+** https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+** https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
+** https://www.merriam-webster.com/["Merriam-Webster Wörterbuch Online"^]
+
+
+
+
+
+
+=== Seit
+
+Verwenden Sie „seit“, um einen Zeitabgang anzuzeigen. Verwenden Sie nicht "da", um "weil."
+
+
+
+=== Rechtschreibung
+
+Wenn nicht anders angegeben, befolgen Sie die Grammatik-, Zeichensetzung- und Rechtschreibkonventionen, die in aufgeführt sind:
+
+* https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+* https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
+* https://www.merriam-webster.com/["Merriam-Webster Wörterbuch Online"^]
+
+
+
+
+=== Das (im Gegensatz zu „welches“ oder „wer“)
+
+* Verwenden Sie „das“ (ohne ein nachfolgendes Komma), um Klauseln einzuführen, die für den Satz erforderlich sind, um Sinn zu machen.
+* Verwenden Sie „das“, auch wenn der Satz ohne ihn in Englisch klar ist: „Überprüfen Sie, dass der Computer ausgeschaltet ist.“
+* Verwenden Sie „welche“ (mit einem nachgestellten Komma), um Klauseln einzuführen, die unterstützende Informationen enthalten, aber nicht für den Satz sinnvoll sind.
+* Verwenden Sie „Wer“, um Klauseln zu den Menschen einzuführen.
+
+
+
+
+=== TIPP-Information
+
+Verwenden SIE TIPP nur sparsam, wenn überhaupt, weil es unsere Richtlinie ist, die Informationen zu Best Practices immer standardmäßig zu dokumentieren. Verwenden SIE BEI Bedarf TIPP, um Informationen zu Best Practices zu enthalten, mit denen Benutzer einfach und effizient ein Produkt verwenden oder einen Schritt oder eine Aufgabe durchführen können.
+
+Siehe  Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
+
+
+
+=== Marken
+
+Wir fügen in den meisten unserer technischen Inhalte keine Markensymbole ein, da die rechtlichen Aussagen in unseren Vorlagen ausreichen. Bei der Verwendung befolgen wir jedoch sämtliche Nutzungsregeln https://www.netapp.com/us/legal/netapptmlist.aspx["NetApp geschützte Bedingungen"^]:
+
+* Verwenden Sie geschützte Begriffe (mit oder ohne Symbol) nur als Adjektive, niemals als Substantive, Verben oder verbale.
+* Keine Abkürzungen, Silbentrennung oder kursiv markenspezifischen Begriffe.
+* Pluralisieren Sie nicht die geschützten Bedingungen. Wenn ein Plural-Formular erforderlich ist, verwenden Sie den geschützten Namen als Adjektiv, das ein Plural-Substantiv ändert.
+* Verwenden Sie keine besitzergreifende Form eines geschützten Begriffs. Sie können die Possessive Form von Firmennamen wie NetApp verwenden, wenn die Namen im allgemeinen Sinne verwendet werden, anstatt als geschützte Begriffe.
+
+
+
+
+=== Benutzeroberfläche
+
+Verlassen Sie sich so gut wie möglich auf die Schnittstelle, um den Benutzer zu leiten.
+
+
+
+==== Allgemeine Richtlinien
+
+Unser Stil zur Dokumentation von UIs ist einfach und minimal:
+
+* Angenommen, der Benutzer verwendet die Schnittstelle beim Lesen des Inhalts.
+* Verlassen Sie sich auf die Benutzeroberfläche, um den Benutzer zu leiten:
++
+** Gehen Sie den Benutzer nicht Schritt für Schritt durch einen Assistenten oder Bildschirm. Nennen Sie nur wichtige Dinge, die von der Oberfläche nicht ersichtlich sind.
+** Schließen Sie nicht "Klicken Sie OK" oder "klicken Sie auf Speichern" oder "das Volumen wird erstellt" oder alles andere, was offensichtlich ist, um jemand tun die Aufgabe.
+** Erfolg übernehmen. Wenn Sie nicht erwarten, dass ein Vorgang die meiste Zeit ausfällt, dokumentieren Sie den Fehlerpfad nicht. Angenommen, die Schnittstelle bietet die richtige Orientierung.
+
+
+* Verwenden Sie „Klick“ überhaupt nicht. Verwenden Sie immer „Select“, weil das Wort Maus, Berührung, Tastatur und jede andere Art der Wahl umfasst.
+* Konzentrieren Sie den Inhalt auf einen Workflow, der den Kundenfall anspricht und den Benutzer an die richtige Stelle in der Schnittstelle zum Starten des Workflows bringen soll.
+* Dokumentieren Sie immer den besten Weg, um das Benutzerziel zu erreichen.
+* Wenn der Workflow eine wichtige Entscheidung erfordert, achten Sie darauf, eine Entscheidungsregel zu dokumentieren.
+* Verwenden Sie die Mindestanzahl der für die meisten Benutzer erforderlichen Schritte.
+
+
+
+
+==== Benennen von UI-Elementen
+
+Vermeiden Sie das Dokumentieren des Granularitätsniveaus, der UI-Elemente erfordert. Verlassen Sie sich auf die Schnittstelle, um den Benutzer durch die Besonderheiten der Interaktion zu führen. Wenn Sie diese spezifische Version erhalten müssen, benennen Sie die Bezeichnung auf dem Element. Beispiel: „Wählen Sie das gewünschte Volumen aus“ oder „Wählen Sie ‘vorhandenes Volumen verwenden“.“ Es ist nicht notwendig, Menüs oder Optionsfelder oder Kontrollkästchen zu benennen, nur verwenden Sie die Bezeichnung.
+
+Verwenden Sie für Symbole, die Benutzer auswählen müssen, ein Bild des Symbols. Versuchen Sie nicht, es zu benennen. Diese Regel gilt für Symbole wie Pfeil, Bleistift, Getriebe, Kabob, Hamburger, Und so weiter.
+
+
+
+==== Darstellung der angezeigten Beschriftungen
+
+Befolgen Sie beim Identifizieren von Etiketten die Rechtschreibung und Groß-/Kleinschreibung, die von der Benutzeroberfläche verwendet werden. Wenn Ellipsen auf eine Bezeichnung folgen, nehmen Sie bei der Benennung des Objekts keine Ellipsen ein. Ermuntern Sie Entwickler, die Kapitalisierung im Titelstil für Benutzeroberflächenetiketten zu verwenden, um das Schreiben über sie einfacher zu machen.
+
+
+
+==== Verwenden von Bildschirmaufnahmen
+
+Eine gelegentliche Bildschirmaufnahme („Screenshot“) hilft Benutzern, sich darauf zu verlassen, dass sie sich beim Starten oder Ändern von Schnittstellen während eines Workflows an der richtigen Stelle in einer Schnittstelle befinden. Verwenden Sie keine Bildschirmaufnahmen, um anzuzeigen, welche Daten eingegeben werden sollen oder welcher Wert ausgewählt werden soll.
+
+
+
+=== Während (im Vergleich zu „obwohl“)
+
+* Verwenden Sie „während“, um auf etwas hinzuweisen, das in der Zeit geschieht.
+* Verwenden Sie „Obwohl“, um eine Aktivität darzustellen, die fast zur gleichen Zeit oder kurz nach einer anderen Aktivität auftritt.
+
+
+
+
+=== Workflow
+
+Anwender lesen unsere Inhalte, um ein bestimmtes Ziel zu erreichen. Benutzer möchten die Inhalte finden, die sie benötigen, ihre Ziele erreichen und nach Hause zu ihren Familien gehen. Unsere Aufgabe ist es nicht, Produkte oder Features zu dokumentieren, unsere Aufgabe ist es, die Ziele der Benutzer zu dokumentieren. Workflows können Benutzer am direktesten beim Erreichen ihrer Ziele unterstützen.
+
+Ein Workflow besteht aus mehreren Schritten oder Unteraufgaben, die die Erreichung eines Benutzerziels beschreiben. Der Umfang eines Workflows ist ein komplettes Ziel.
+
+Beispielsweise wären die Schritte zur Erstellung eines Volumes kein Workflow, da die Erstellung eines Volume an sich kein komplettes Ziel ist. Die Schritte, um Speicher einem ESX-Server zur Verfügung zu stellen, können ein Workflow sein. Zu den Schritten gehören nicht nur die Erstellung eines Volumes, sondern auch der Export des Volumes, die Einstellung aller erforderlichen Berechtigungen, die Erstellung einer Netzwerkschnittstelle usw. Workflows stammen aus Anwendungsfällen von Kunden. Ein Workflow zeigt nur die beste Möglichkeit, das Ziel zu erreichen.
