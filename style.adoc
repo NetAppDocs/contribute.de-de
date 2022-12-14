@@ -67,7 +67,7 @@ Kurze, einfache Sätze erleichtern das Lesen oder Scannen von Inhalten. Es ist o
 
 **Do this**: „Die Datenreplikation zwischen Netzwerken erfordert eine Verbindung über ein VPN. Beispielsweise zwischen Amazon VPC und Ihrem Unternehmensnetzwerk oder zwischen AWS und Azure.“
 
-Siehe auch .
+Siehe auch <<Minimalismus>>.
 
 
 
@@ -79,7 +79,7 @@ Die Vermeidung passiver Stimme ist eine Standardregel für das technische Schrei
 
 **Do this**: „Bereitstellen der erforderlichen Berechtigungen, bevor Sie Ihr erstes Cluster bereitstellen.“
 
-Siehe auch  voice (versus “passive voice”).
+Siehe auch <<Aktive Stimme (im Vergleich zu „passiver Stimme“)>>.
 
 
 
@@ -112,7 +112,7 @@ Die meisten Menschen sind visuelle Lernende. Nutzen Sie Videos, Diagramme und Sc
 * https://docs.netapp.com/us-en/occm/task_getting_started_azure.html["Beispiel #2"^]
 
 
-Siehe auch .
+Siehe auch <<Grafik>>.
 
 
 
@@ -291,7 +291,7 @@ Verwenden Sie für fast alles eine Kapitalisierung im Stil von Satz (klein gesch
 
 SEIEN SIE VORSICHTIG, um die Benutzer über Bedingungen oder Verfahren zu warnen, die zu Verletzungen führen können, die nicht tödlich oder extrem gefährlich sind.
 
-Siehe  Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
+Siehe <<Ermahnungen>> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
 
 
 
@@ -301,7 +301,7 @@ Siehe  Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren
 
 * Konzentrieren Sie sich darauf, den Inhalt klar und einfach zu gestalten. Wenn alle Inhalte klar und einfach zu bedienen sind, spielen kleine Inkonsistenzen keine Rolle.
 * Seien Sie in der Seite, die Sie schreiben konsistent.
-* Befolgen Sie immer die Richtlinien unter  for a global audience.
+* Befolgen Sie immer die Richtlinien unter <<Schreiben Sie für ein globales Publikum>>.
 
 
 
@@ -459,7 +459,7 @@ Listen von Informationen sind in der Regel einfacher zu scannen und absorbieren 
 
 === Lokalisierung
 
-Siehe  for a global audience.
+Siehe <<Schreiben Sie für ein globales Publikum>>.
 
 
 
@@ -478,7 +478,7 @@ Siehe  for a global audience.
 
 VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie die Verwendung VON NOTE für „Nice to Know“ Informationen, die für Benutzer nicht erforderlich ist, um über die Aufgabe zu lernen oder die Aufgabe abzuschließen.
 
-Siehe  Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
+Siehe <<Ermahnungen>> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
 
 
 
@@ -588,7 +588,7 @@ Wenn nicht anders angegeben, befolgen Sie die Grammatik-, Zeichensetzung- und Re
 
 Verwenden SIE TIPP nur sparsam, wenn überhaupt, weil es unsere Richtlinie ist, die Informationen zu Best Practices immer standardmäßig zu dokumentieren. Verwenden SIE BEI Bedarf TIPP, um Informationen zu Best Practices zu enthalten, mit denen Benutzer einfach und effizient ein Produkt verwenden oder einen Schritt oder eine Aufgabe durchführen können.
 
-Siehe  Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
+Siehe <<Ermahnungen>> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
 
 
 

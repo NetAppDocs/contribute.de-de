@@ -25,11 +25,11 @@ Sie können über die folgenden Optionen zu unseren Dokumenten beitragen:
 
 * Klicken Sie auf *Dokumentänderungen anfordern*, um allgemeines Feedback zu übermitteln oder um eine Frage zum Inhalt zu stellen. Der NetApp Content Lead überprüft anschließend Ihre Anfrage, um festzustellen, welche Änderungen für die Dokumentation erforderlich sind. Dies ist die am häufigsten verwendete Option.
 +
- doc changes,Zeigen Sie Schritt-für-Schritt-Anweisungen für diese Option an.
+<<Änderungen am Dokument anfordern,Zeigen Sie Schritt-für-Schritt-Anweisungen für diese Option an>>.
 
 * Klicken Sie auf *Bearbeiten Sie diese Seite*, um den Inhalt direkt selbst zu bearbeiten. Der NetApp Content Lead überprüft anschließend Ihre Änderungen und führt diese zusammen.
 +
- edits to the docs,Zeigen Sie Schritt-für-Schritt-Anweisungen für diese Option an.
+<<Bearbeiten Sie die Dokumente,Zeigen Sie Schritt-für-Schritt-Anweisungen für diese Option an>>.
 
 
 
@@ -65,6 +65,7 @@ image:screenshot-submit-new-issue.png["Neues Problem übermitteln"]
 . Klicken Sie auf *Neues Problem einsenden*, um ein Problem für Ihre Anfrage zu erstellen.
 
 
+.Nachdem Sie fertig sind
 Das Öffnen eines Problems ermöglicht die Zusammenarbeit durch GitHub-Kommentare. Sie erhalten E-Mail-Benachrichtigungen basierend auf den Einstellungen, die Sie in Ihren GitHub-Kontoeinstellungen angegeben haben.
 
 Sie können den Status der Anfrage auch anzeigen, indem Sie auf dem oberen Banner neben dem GitHub Suchfeld auf *Issues* klicken:
@@ -120,6 +121,7 @@ image:screenshot-create-pull-request.png["Erstellen einer Pull-Anforderung"]
 
 
 
+.Nachdem Sie fertig sind
 Nachdem Sie die Änderungen vorgeschlagen haben, werden wir sie überprüfen, alle erforderlichen Änderungen vornehmen und die Änderungen anschließend in das GitHub-Repository zusammenführen.
 
 Sie können den Status der Pull-Anfrage anzeigen, indem Sie auf dem oberen Banner neben dem GitHub Suchfeld auf *Pull Requests* klicken:

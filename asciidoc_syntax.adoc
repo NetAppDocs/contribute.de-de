@@ -173,9 +173,9 @@ video::file.mp4
 
 Die Syntax, die Sie verwenden sollten, hängt davon ab, mit welchem Link Sie verbunden sind:
 
-*  to an external site
-*  to a section on the same page
-*  to another page in the docs
+* <<Link zu einer externen Site>>
+* <<Link zu einem Abschnitt auf derselben Seite>>
+* <<Link zur anderen Seite der Dokumentation>>
 
 
 
@@ -281,7 +281,7 @@ Die Suchbegriffe und die Zusammenfassung wirken sich direkt auf die Suchergebnis
 
 TIP: Am besten sollte die Zusammenfassung in Anführungszeichen eingeschlossen werden, da Satzzeichen wie Doppelpunkte die Fähigkeit beeinflussen können, den Inhalt von AsciiDoc in HTML zu transformieren.
 
-Die nächste Kopfzeile geht direkt unter den Dokumenttitel (siehe ). Diese Kopfzeile sollte Folgendes enthalten:
+Die nächste Kopfzeile geht direkt unter den Dokumenttitel (siehe <<Überschriften>>). Diese Kopfzeile sollte Folgendes enthalten:
 
 ....
 :hardbreaks:
@@ -334,12 +334,16 @@ Wenn Sie erklären, wie Sie eine Aufgabe ausführen, können Sie einleitende Inf
 
 Verwenden Sie bei Bedarf die folgenden Überschriften:
 
+.Was Sie benötigen
 _Die Informationen, die der Benutzer benötigt, um die Aufgabe abzuschließen._
 
+.Über diese Aufgabe
 _Einige zusätzliche kontextbezogene Informationen, die der Benutzer über diese Aufgabe wissen muss._
 
+.Schritte
 _Die einzelnen Schritte zum Abschließen der Aufgabe._
 
+.Was kommt als Nächstes?
 _Was der Benutzer als Nächstes tun sollte._
 
 Jede dieser sollte eine enthalten. Direkt vor dem Text, wie so:
