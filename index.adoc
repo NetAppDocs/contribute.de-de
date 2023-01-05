@@ -33,6 +33,9 @@ Sie können über die folgenden Optionen zu unseren Dokumenten beitragen:
 
 
 
+Das folgende Video zeigt, wie Sie diese Beitragsoptionen verwenden können. Sie können auch nach unten blättern, um die schriftlichen Anweisungen zu lesen.
+
+video::0A-xQJaDkco[youtube,width=848,height=480]
 
 
 == Änderungen am Dokument anfordern
