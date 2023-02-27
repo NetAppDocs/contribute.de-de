@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: ai-policy.html 
+---
+= Richtlinie, die die Verwendung von KI-generierten Inhalten in der technischen Dokumentation von NetApp untersagt
+:toc: macro
+:hardbreaks:
+:allow-uri-read: 
+:toc: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+:toc-position: content
+
+
+[role="lead"]
+Die Kreativität und das Know-how unserer Mitarbeiter, Auftragnehmer und Partner bei der Erstellung, Veröffentlichung und Pflege präziser, relevanter und nützlicher technischer Dokumentationen sind für NetApp sehr wichtig. Wir glauben, dass die Verwendung von KI-generierten Inhalten diese Werte gefährden und die Integrität und Genauigkeit unserer Dokumentation untergraben kann. Daher hat NetApp die Richtlinie vor, die Nutzung KI-generierter Inhalte in allen auf docs.netapp.com veröffentlichten technischen Dokumentationen zu untersagen. Diese Richtlinie ähnelt und erweitert die Richtlinie von NetApp, die die Verwendung von Sprachmodellen zum Schreiben von Code für die verkauften Produkte untersagt.
+
+Wir erwarten von allen Beitragenden zu NetAppDocs, dass sie sich an die folgende Richtlinie halten:
+
+. *Verbot der Nutzung von KI-generierten Inhalten:* Wir erlauben die Verwendung von KI-generierten Inhalten in keiner technischen Dokumentation, die wir für unsere Kunden erstellen. Dazu gehören schriftliche Materialien, Grafiken, Multimedia oder andere Materialien, die auf netapp.com veröffentlicht werden. Alle auf docs.netapp.com veröffentlichten Inhalte müssen von unseren Mitarbeitern, Auftragnehmern oder Partnern unter Verwendung ihrer eigenen Kreativität, Expertise und Erfahrung erstellt werden.
+. *Aus- und Weiterbildung:* Wir bieten unseren Mitarbeitern, Auftragnehmern und Partnern regelmäßige Schulungen und Schulungen zur Nutzung von KI-generierten Inhalten und zu den Gründen, warum wir diese in unserer technischen Dokumentation nicht zulassen. Wir bitten alle Mitarbeiter, die mit unserem Unternehmen in Verbindung stehen, über die neuesten Entwicklungen bei KI-generierten Inhalten und ihre Auswirkungen auf die technische Dokumentation von NetApp auf dem Laufenden zu bleiben.
+. *Einhaltung und Berichterstattung:* Alle Mitarbeiter, Auftragnehmer und Partner sind für die Einhaltung dieser Richtlinie verantwortlich. Verstöße oder vermutete Verstöße gegen diese Richtlinie müssen der NetApp Rechtsabteilung zur Untersuchung unverzüglich gemeldet werden.
+
+
+NetAppDocs-Mitarbeiter sollten Folgendes beachten:
+
+* Verwenden Sie KI nicht, um technische Dokumentation für bisher unveröffentlichte Produkte, Produktversionen oder Funktionen innerhalb von Produkten zu generieren oder zu bearbeiten.
+* Das Copyright für neue technische Dokumentationen muss bei NetApp verbleiben und darf vor den offiziellen Produktveröffentlichungen und der entsprechenden Veröffentlichung der technischen Dokumentation nicht mit AIS außerhalb von NetApp geteilt werden.
+* Senden Sie keine vertraulichen Dokumentationen, neuen Inhalte oder Inhalte, die nach 2021 geschrieben wurden, einschließlich URLs, an AI (ChatGPT oder andere Tools). Alle Informationen, die in ChatGPT eingespeist werden, werden Teil des Trainingsdatensatzes, der wiederum Eigentum von OpenAI wird und von ihnen und ihren Nutzern genutzt werden kann. Obwohl ein Großteil dieser Daten öffentlich zugänglich ist, wollen wir das Modell nicht auf unserem eigenen IP trainieren.
+

@@ -15,3 +15,7 @@ sidebar:
     url: "/style.html"
   - title: AsciiDoc Referenz
     url: "/asciidoc_syntax.html"
+  - title: Richtlinie für durch KI generierte Inhalte
+    url: "/ai-policy.html"
+  - title: Rechtliche Hinweise
+    url: "/legal-notices.html"
