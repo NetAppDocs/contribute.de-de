@@ -48,9 +48,9 @@ Wenn der Content Lead damit einverstanden ist, dass Ihr Vorschlag den Inhalt bes
 TIP: Alle Kommentare, die Sie angeben, sind öffentlich sichtbar. Jeder, der sich mit den Problemen im GitHub Repo vertraut, kann Ihre Kommentare sehen.
 
 .Schritte
-. Wenn Sie noch kein GitHub-Konto haben, https://["Erstellen Sie eine aus github.com"^].
+. Wenn Sie noch kein GitHub-Konto haben, https://github.com/join["Erstellen Sie eine aus github.com"^].
 . Melden Sie sich bei Ihrem GitHub-Konto an.
-. Öffnen Sie die Seite über Ihren Webbrowser https://["docs.netapp.com"] Dies hängt von Ihrem Feedback ab.
+. Öffnen Sie die Seite über Ihren Webbrowser https://docs.netapp.com["docs.netapp.com"] Dies hängt von Ihrem Feedback ab.
 . Klicken Sie rechts auf der Seite auf *Dokument Änderungen anfordern*.
 +
 image:screenshot-request-doc-changes.png["Änderungen am Dokument anfordern"]
@@ -90,9 +90,9 @@ Wenn Sie Hilfe bei unserem Schreibstil oder der Quellsyntax benötigen, können 
 
 
 .Schritte
-. Wenn Sie noch kein GitHub-Konto haben, https://["Erstellen Sie eine aus github.com"^].
+. Wenn Sie noch kein GitHub-Konto haben, https://github.com/join["Erstellen Sie eine aus github.com"^].
 . Melden Sie sich bei Ihrem GitHub-Konto an.
-. Öffnen Sie die Seite über Ihren Webbrowser https://["docs.netapp.com"] Die Sie bearbeiten möchten.
+. Öffnen Sie die Seite über Ihren Webbrowser https://docs.netapp.com["docs.netapp.com"] Die Sie bearbeiten möchten.
 . Klicken Sie rechts auf der Seite auf *Diese Seite bearbeiten*.
 +
 image:screenshot-edit-this-page.png["Bearbeiten Sie diese Seite"]

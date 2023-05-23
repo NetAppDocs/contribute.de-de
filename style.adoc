@@ -108,8 +108,8 @@ Beginnen Sie mit dem, was für den Benutzer wichtig ist. Finden Sie heraus, was 
 Die meisten Menschen sind visuelle Lernende. Nutzen Sie Videos, Diagramme und Screenshots, um das Lernen zu verbessern. Außerdem helfen Visualisierungen dabei, Textblöcke aufzubrechen.
 
 .Beispiele
-* https://["Beispiel #1"^]
-* https://["Beispiel #2"^]
+* https://docs.netapp.com/us-en/occm/concept_accounts_aws.html["Beispiel #1"^]
+* https://docs.netapp.com/us-en/occm/task_getting_started_azure.html["Beispiel #2"^]
 
 
 Siehe auch <<Grafik>>.
@@ -121,8 +121,8 @@ Siehe auch <<Grafik>>.
 Verwenden Sie Überschriften, Listen und Tabellen, damit Benutzer nach gewünschten Informationen suchen können.
 
 .Beispiele
-* https://["Beispiel #1"^]
-* https://["Beispiel #2"^]
+* https://docs.netapp.com/us-en/cloud_volumes/aws/task_activating_support_entitlement.html["Beispiel #1"^]
+* https://docs.netapp.com/us-en/cloud_volumes/aws/reference_selecting_service_level_and_quota.html["Beispiel #2"^]
 
 
 
@@ -132,8 +132,8 @@ Verwenden Sie Überschriften, Listen und Tabellen, damit Benutzer nach gewünsch
 Wenn Sie beschreiben, wie Sie eine Reihe von Aufgaben, setzen Sie alles auf einer Seite in einer Reihe von Abschnitten, einschließlich konzeptuellen und referenbasierten Informationen. Zerlegen Sie Ihre Seite nicht in mehrere Mini-Seiten – das erfordert zu viel Klicken. Zur gleichen Zeit, nicht lange erstellen, einschüchternde Seiten. Verwenden Sie nach bestem Ermessen, um zu entscheiden, wann eine Seite zu lang ist.
 
 .Beispiele
-* https://["Beispiel #1"^]
-* https://["Beispiel #2"^]
+* https://docs.netapp.com/us-en/cloud_volumes/aws/task_activating_support_entitlement.html["Beispiel #1"^]
+* https://docs.netapp.com/us-en/occm/concept_ha.html["Beispiel #2"^]
 
 
 
@@ -200,9 +200,9 @@ Passive Stimme verwenden, wenn:
 
 Weitere Verbkonventionen finden Sie unter:
 
-* https://["Microsoft-Schreibstil-Leitfaden"^]
-* https://["Chicago Manual of Style"^]
-* https://["Merriam-Webster Wörterbuch Online"^]
+* https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+* https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
+* https://www.merriam-webster.com/["Merriam-Webster Wörterbuch Online"^]
 
 
 
@@ -375,9 +375,9 @@ Prüfen Sie kontinuierlich Inhalte, um hilfreiche Illustrationen, Diagramme, Flu
 
 Wenn nicht anders angegeben, befolgen Sie die Grammatik-, Zeichensetzung- und Rechtschreibkonventionen, die in aufgeführt sind:
 
-* https://["Microsoft-Schreibstil-Leitfaden"^]
-* https://["Chicago Manual of Style"^]
-* https://["Merriam-Webster Wörterbuch Online"^]
+* https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+* https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
+* https://www.merriam-webster.com/["Merriam-Webster Wörterbuch Online"^]
 
 
 
@@ -494,8 +494,8 @@ Siehe <<Ermahnungen>> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss
 * Wenn ein Satz eine Mischung aus Zahlen kleiner als 10 und größer als 10 enthält, verwenden Sie arabische Ziffern für alle Zahlen.
 * Weitere Zahlenkonventionen finden Sie unter:
 +
-** https://["Microsoft-Schreibstil-Leitfaden"^]
-** https://["Chicago Manual of Style"^]
+** https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+** https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
 
 
 
@@ -548,9 +548,9 @@ Einfach Im Allgemeinen, je mehr Satzzeichen enthalten sind, desto mehr Gehirnzel
 * Beschränken Sie die Verwendung von Semikolons und Doppelpunkte.
 * Wenn nicht anders angegeben, befolgen Sie die Grammatik-, Zeichensetzung- und Rechtschreibkonventionen, die in aufgeführt sind:
 +
-** https://["Microsoft-Schreibstil-Leitfaden"^]
-** https://["Chicago Manual of Style"^]
-** https://["Merriam-Webster Wörterbuch Online"^]
+** https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+** https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
+** https://www.merriam-webster.com/["Merriam-Webster Wörterbuch Online"^]
 
 
 
@@ -567,9 +567,9 @@ Verwenden Sie „seit“, um einen Zeitabgang anzuzeigen. Verwenden Sie nicht "d
 
 Wenn nicht anders angegeben, befolgen Sie die Grammatik-, Zeichensetzung- und Rechtschreibkonventionen, die in aufgeführt sind:
 
-* https://["Microsoft-Schreibstil-Leitfaden"^]
-* https://["Chicago Manual of Style"^]
-* https://["Merriam-Webster Wörterbuch Online"^]
+* https://docs.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^]
+* https://www.chicagomanualofstyle.org/home.html["Chicago Manual of Style"^]
+* https://www.merriam-webster.com/["Merriam-Webster Wörterbuch Online"^]
 
 
 
@@ -594,7 +594,7 @@ Siehe <<Ermahnungen>> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss
 
 === Marken
 
-Wir fügen in den meisten unserer technischen Inhalte keine Markensymbole ein, da die rechtlichen Aussagen in unseren Vorlagen ausreichen. Bei der Verwendung befolgen wir jedoch sämtliche Nutzungsregeln https://["NetApp geschützte Bedingungen"^]:
+Wir fügen in den meisten unserer technischen Inhalte keine Markensymbole ein, da die rechtlichen Aussagen in unseren Vorlagen ausreichen. Bei der Verwendung befolgen wir jedoch sämtliche Nutzungsregeln https://www.netapp.com/us/legal/netapptmlist.aspx["NetApp geschützte Bedingungen"^]:
 
 * Verwenden Sie geschützte Begriffe (mit oder ohne Symbol) nur als Adjektive, niemals als Substantive, Verben oder verbale.
 * Keine Abkürzungen, Silbentrennung oder kursiv markenspezifischen Begriffe.

@@ -17,7 +17,7 @@ permalink: asciidoc_syntax.html
 [role="lead"]
 AsciiDoc ist eine leichte Markup-Sprache, ähnlich wie Markdown. Wir entschieden uns für AsciiDoc gegenüber Standard Markdown, weil es mehr Out-of-Box-Funktionen bietet. Zwar ist es noch leistungsstärker, aber dennoch einfach zu bedienen. Lesen Sie die folgenden Abschnitte, um in AsciiDoc zu schreiben.
 
-Siehe http://["AsciiDoctor Benutzerhandbuch"^] Für weitere Hilfe.
+Siehe http://asciidoctor.org/docs/user-manual/["AsciiDoctor Benutzerhandbuch"^] Für weitere Hilfe.
 
 
 
@@ -147,7 +147,7 @@ _alt-Text_ bedeutet alternativer Text. Es beschreibt das Bild, das auf der Seite
 Zwei Anmerkungen:
 
 . Am besten fügen sie alt-Text in Anführungszeichen ein, weil Satzzeichen wie Kommas die Fähigkeit beeinflussen können, den Inhalt von AsciiDoc in HTML zu transformieren.
-. Der https://["AsciiDoctor docs"^] Geben Sie an, dass _Block Images_ auf ihrer eigenen Zeile mit _zwei_ Doppelpunkte liegen sollte: `image::file.png`
+. Der https://docs.asciidoctor.org/asciidoc/latest/macros/images/["AsciiDoctor docs"^] Geben Sie an, dass _Block Images_ auf ihrer eigenen Zeile mit _zwei_ Doppelpunkte liegen sollte: `image::file.png`
 +
 Aber wir verwenden lieber einen Doppelpunkt, wie oben gezeigt. Mit einem Doppelpunkt hat das gleiche Ergebnis und es funktioniert besser mit unseren internen Tools.
 
@@ -319,12 +319,12 @@ Folgende Syntax ist für eine Basistabelle erforderlich:
 | row 2 column 1 | row 2 column 2
 |===
 ....
-Es gibt _many_ Möglichkeiten, eine Tabelle zu formatieren. Siehe https://["AsciiDoctor Benutzerhandbuch"^] Für weitere Hilfe.
+Es gibt _many_ Möglichkeiten, eine Tabelle zu formatieren. Siehe https://asciidoctor.org/docs/user-manual/#tables["AsciiDoctor Benutzerhandbuch"^] Für weitere Hilfe.
 
 
 TIP: Wenn eine Zelle formatierte Inhalte wie Aufzählungslisten enthält, sollten Sie am besten ein „A“ in die Spaltenüberschrift hinzufügen, um die Formatierung zu aktivieren. Beispiel: [Cols=„2,2,4a“ options=„Header“]
 
-https://["Weitere Tabellenbeispiele finden Sie in der Kurzreferenz AsciiDoc Syntax"^].
+https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/#tables["Weitere Tabellenbeispiele finden Sie in der Kurzreferenz AsciiDoc Syntax"^].
 
 
 
@@ -485,7 +485,7 @@ Wenn Sie einen Teil von Inhalten haben, der auf verschiedenen Seiten wiederholt 
 
 . Erstellen Sie einen Ordner in Ihrem Repository namens_include
 +
-https://["Sehen Sie sich beispielsweise das Cloud Tiering Repository an"^].
+https://github.com/NetAppDocs/cloud-tiering["Sehen Sie sich beispielsweise das Cloud Tiering Repository an"^].
 
 . Fügen Sie eine Adoc-Datei in diesem Ordner hinzu, die den Inhalt enthält, den Sie verwenden möchten.
 +
@@ -512,4 +512,4 @@ Beispiel:
 
 Das ist alles.
 
-Wenn Sie mehr über die Richtlinie einschließlich https://["Sehen Sie sich das AsciiDoctor Benutzerhandbuch an"^].
+Wenn Sie mehr über die Richtlinie einschließlich https://asciidoctor.org/docs/user-manual/#include-directive["Sehen Sie sich das AsciiDoctor Benutzerhandbuch an"^].
