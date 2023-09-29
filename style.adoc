@@ -21,7 +21,7 @@ Unser Stil ist umgangssprachlich und einfühlsam, aber wir bleiben professionell
 
 == Konvergieren
 
-Schreiben Sie so, als würden Sie sprechen, wenn Sie einem professionellen Kollegen etwas erklären. Schreiben in einem Gesprächston hilft Ihnen, mit Ihrem Publikum zu verbinden.
+Schreiben Sie, wie Sie sprechen, wenn Sie einem professionellen Kollegen etwas erklären. Schreiben in einem Gesprächston hilft Ihnen, mit Ihrem Publikum zu verbinden.
 
 
 TIP: Lesen Sie Ihr Schreiben laut. Elmore Leonard, ein amerikanischer Schriftsteller und Drehbuchautor, sagte: „Wenn es wie Schreiben klingt, dann schreibe ich es neu.“
@@ -30,16 +30,16 @@ TIP: Lesen Sie Ihr Schreiben laut. Elmore Leonard, ein amerikanischer Schriftste
 | Zu formell | Zu lässig | Unser Stil 
 
 
-| Wenn bei Cloud Tiering Probleme auftreten, können Sie den Integritätsstatus auf der Cluster Dashboard anzeigen, um festzustellen, warum der Fehler aufgetreten ist. Der Systemzustand gibt den Status des ONTAP-Systems und des Servicesteckers wieder. | Es macht keinen Spaß, wenn Ausfälle passieren. Machen Sie sich keine Sorgen, aber schauen Sie sich einfach das Cluster Dashboard um zu sehen, was passiert ist und was betroffen ist. | Wenn ein Fehler auftritt, zeigt Cloud Tiering auf dem Cluster Dashboard einen „fehlgeschlagenen“ Integritätsstatus an. Zeigen Sie den Status an, um Informationen über den Fehler zu erhalten. 
+| Wenn bei Cloud Tiering Probleme auftreten, können Sie den Integritätsstatus auf der Cluster Dashboard anzeigen, um festzustellen, warum der Fehler aufgetreten ist. Der Systemzustand gibt den Status des ONTAP-Systems und des Servicesteckers wieder. | Es macht keinen Spaß, wenn Ausfälle auftreten. Machen Sie sich keine Sorgen, schauen Sie sich einfach das Cluster Dashboard an, um zu sehen, was passiert ist und was davon betroffen ist. | Wenn ein Fehler auftritt, zeigt Cloud Tiering im Cluster Dashboard den Integritätsstatus „Fehlgeschlagen“ an. Zeigen Sie den Status an, um Informationen über den Fehler zu erhalten. 
 
 
-| Sie können für Cloud Tiering auf unterschiedliche Weise bezahlen. Sie können für Cloud Tiering über ein Pay-as-you-go-Abonnement bezahlen, über eine ONTAP Tiering-Lizenz bezahlen oder über eine Kombination beider Möglichkeiten bezahlen. Sie können keine Lizenzierung in Cloud Manager erhalten, Sie müssen direkt zum Cloud Tiering Service gehen, um ihn einzurichten. | Wir haben drei Möglichkeiten, wie Sie für Cloud Tiering bezahlen können. Natürlich ein Pay-as-you-go-Abonnement, aber auch eine ONTAP Tiering-Lizenz oder sogar eine Kombination von beiden. Aber Sie können nicht die Lizenzierung von Cloud-Manager erhalten, so gehen Sie einfach direkt zum Cloud-Tiering-Service, um es einzurichten. | Sie bezahlen für Cloud Tiering über ein Pay-as-you-go-Abonnement, eine ONTAP Tiering-Lizenz oder eine Kombination aus beidem. Lizenzierung ist nicht verfügbar in Cloud Manager, aber Sie können direkt zu den Cloud Tiering Service gehen, um es einzurichten. 
+| Sie können für Cloud Tiering auf unterschiedliche Weise bezahlen. Sie können für Cloud Tiering über ein Pay-as-you-go-Abonnement bezahlen, über eine ONTAP Tiering-Lizenz bezahlen oder über eine Kombination beider Möglichkeiten bezahlen. Sie können keine Lizenzierung in Cloud Manager erhalten, Sie müssen direkt zum Cloud Tiering Service gehen, um ihn einzurichten. | Wir haben drei Möglichkeiten, wie Sie für Cloud Tiering bezahlen können. Natürlich ein Pay-as-you-go-Abonnement, aber auch eine ONTAP Tiering-Lizenz oder sogar eine Kombination von beiden. Aber Sie können keine Lizenzierung von Cloud Manager erhalten, so gehen Sie einfach direkt zu Cloud Tiering Service, um es einzurichten. | Sie bezahlen für Cloud Tiering über ein Pay-as-you-go-Abonnement, eine ONTAP Tiering-Lizenz oder eine Kombination aus beidem. Lizenzierung ist nicht über Cloud Manager verfügbar, Sie können die Lizenzierung direkt über den Cloud Tiering Service einrichten. 
 
 
 | Bevor Sie Storage bereitstellen können, müssen Sie das ONTAP Cluster aus Cloud Manager erkennen. Nach Abschluss der Bestandsaufnahme müssen Sie die Arbeitsumgebung öffnen, um Storage bereitzustellen. | Erst erkennen Sie den ONTAP Cluster vom Cloud Manager, dann öffnen Sie die Arbeitsumgebung, in der Sie mit dem Bereitstellen von Speicher beginnen können. Ganz Einfach! | Nachdem Sie den ONTAP Cluster von Cloud Manager entdeckt haben, öffnen Sie die Arbeitsumgebung für die Bereitstellung von Storage. 
 
 
-| Die Wellness-Attribute Ihres Speichersystems können je nach Analyse auf zwei Arten analysiert werden: Wählen Sie entweder das Widget „Wellness-Attribut“ auf dem Dashboard oder wählen Sie „Alle anzeigen“, um die gesamte Liste der Wellness-Attribute anzuzeigen. | Sie haben zwei Möglichkeiten, die Wellness-Attribute Ihres Systems zu analysieren: Wählen Sie einfach das Wellness-Attribut-Widget auf dem Dashboard. Oder, wenn Sie lieber die gesamte Liste der Wellness-Attribute in einer Ansicht sehen würden, wählen Sie Alle anzeigen. | Wählen Sie im Dashboard das Widget „Wellness-Attribut“ oder „Alle anzeigen“ aus, um die Liste aller Aktionen und Risiken anzuzeigen. 
+| Die Wellness-Attribute Ihres Speichersystems können je nach Analyse auf zwei Arten analysiert werden: Wählen Sie entweder das Widget „Wellness-Attribut“ auf dem Dashboard oder wählen Sie „Alle anzeigen“, um die gesamte Liste der Wellness-Attribute anzuzeigen. | Sie haben zwei Möglichkeiten, die Wellness-Attribute Ihres Systems zu analysieren: Wählen Sie einfach das Wellness-Attribut-Widget auf dem Dashboard aus. Wenn Sie die gesamte Liste der Wellness-Attribute in einer Ansicht sehen möchten, wählen Sie Alle anzeigen. | Wählen Sie im Dashboard das Widget „Wellness-Attribut“ oder „Alle anzeigen“ aus, um die Liste aller Aktionen und Risiken anzuzeigen. 
 
 
 | Befolgen Sie beim Starten des Setup-Assistenten die Anweisungen im Assistenten, um den Node einzurichten und dem Cluster beizutreten. Die folgenden Schritte führen Sie durch die Schritte im Assistenten. | Der Setup-Assistent wird angezeigt (fast wie Magic), um Sie durch den einfachen Prozess der Einrichtung des Node und der Verbindung mit dem Cluster zu führen. | Befolgen Sie die Anweisungen im Setup-Assistenten, um den Node einzurichten und dem Cluster beizutreten. 
@@ -51,7 +51,7 @@ TIP: Lesen Sie Ihr Schreiben laut. Elmore Leonard, ein amerikanischer Schriftste
 
 == Schreiben Sie einfach
 
-Vermeiden Sie große und verwirrende Worte. Einfach Sie erklären etwas einem professionellen Kollegen, nicht zeigen Sie Ihren Wortschatz.
+Vermeiden Sie große und verwirrende Worte. Einfach Sie erklären einem professionellen Kollegen etwas, ohne Ihr Vokabular zu zeigen.
 
 **Statt dessen**: „Dissoziieren Sie den Benutzer von Ihrem NetApp Cloud Central Konto.“
 
@@ -61,7 +61,7 @@ Vermeiden Sie große und verwirrende Worte. Einfach Sie erklären etwas einem pr
 
 == Minimale Schreibvorgänge
 
-Kurze, einfache Sätze erleichtern das Lesen oder Scannen von Inhalten. Es ist okay, immer einen längeren Satz zu verwenden, aber folgen Sie ihm mit einem kürzeren. So.
+Kurze, einfache Sätze erleichtern das Lesen oder Scannen von Inhalten. Es ist in Ordnung, ab und zu einen längeren Satz zu verwenden, aber folgen Sie ihm mit einem kürzeren. So.
 
 **Statt dessen**: „Um Daten zwischen einem Cloud Volumes ONTAP-System in AWS und ONTAP-Systemen in anderen Netzwerken zu replizieren, benötigen Sie eine VPN-Verbindung zwischen dem Amazon VPC und dem anderen Netzwerk – beispielsweise ein Azure vnet oder Ihr Unternehmensnetzwerk.“
 
@@ -73,7 +73,7 @@ Siehe auch <<Minimalismus>>.
 
 == Aktiv schreiben
 
-Die Vermeidung passiver Stimme ist eine Standardregel für das technische Schreiben, aber es ist besonders wichtig, aktive Stimme zu verwenden, wenn Sie umgangssprachlich klingen wollen.
+Die Vermeidung passiver Stimme ist eine Standardregel für das technische Schreiben, aber es ist besonders wichtig, aktive Stimme zu verwenden, wenn Sie konversationell klingen möchten.
 
 **Statt dessen**: „Vor der Bereitstellung des ersten Clusters müssen die erforderlichen Berechtigungen bereitgestellt werden.“
 
@@ -129,7 +129,7 @@ Verwenden Sie Überschriften, Listen und Tabellen, damit Benutzer nach gewünsch
 
 == Konzentrieren Sie sich auf ein Benutzerziel oder einen bestimmten Aspekt dieses Ziels
 
-Wenn Sie beschreiben, wie Sie eine Reihe von Aufgaben, setzen Sie alles auf einer Seite in einer Reihe von Abschnitten, einschließlich konzeptuellen und referenbasierten Informationen. Zerlegen Sie Ihre Seite nicht in mehrere Mini-Seiten – das erfordert zu viel Klicken. Zur gleichen Zeit, nicht lange erstellen, einschüchternde Seiten. Verwenden Sie nach bestem Ermessen, um zu entscheiden, wann eine Seite zu lang ist.
+Wenn Sie beschreiben, wie eine Reihe von Aufgaben ausgeführt wird, legen Sie alles auf einer Seite in einer Reihe von Abschnitten ab, einschließlich konzeptioneller und referenzbasierter Informationen. Teilen Sie Ihre Seite nicht in mehrere Miniseiten auf – das erfordert zu viel Klicken. Erstellen Sie gleichzeitig keine langen, einschüchternden Seiten. Verwenden Sie nach bestem Ermessen, um zu entscheiden, wann eine Seite zu lang ist.
 
 .Beispiele
 * https://docs.netapp.com/us-en/cloud_volumes/aws/task_activating_support_entitlement.html["Beispiel #1"^]
@@ -138,7 +138,7 @@ Wenn Sie beschreiben, wie Sie eine Reihe von Aufgaben, setzen Sie alles auf eine
 
 
 
-== Organisieren von Inhalten rund um das Ziel des Benutzers
+== Organisieren Sie Inhalte rund um das Ziel des Benutzers
 
 Helfen Sie Benutzern, die benötigten Informationen zu finden, wann sie sie sie benötigen. Sie so schnell wie möglich in und aus den Dokumenten zu bekommen, indem Sie den Inhalt wie folgt organisieren:
 
@@ -164,9 +164,9 @@ Wir schreiben für unsere Kunden und Partner auf der ganzen Welt, und ein Großt
 * Vermeiden Sie Jargon, Kolloquialismen und Metaphern.
 * Vermeiden Sie nicht-technische Beispiele.
 * Verwenden Sie keine harten Rückstände und Abstände.
-* Verwenden Sie keinen Humor oder Ironie.
+* Verwenden Sie weder Humor noch Ironie.
 * Verwenden Sie keine diskriminierenden Inhalte.
-* Verwenden Sie keine geschlechtsspezifische Sprache, es sei denn, Sie schreiben für eine bestimmte Persona.
+* Verwenden Sie keine geschlechtsbezogene Sprache, es sei denn, Sie schreiben für eine bestimmte Persona.
 
 
 
@@ -195,7 +195,7 @@ Passive Stimme verwenden, wenn:
 
 * Sie wissen nicht, wer oder was die Aktion durchgeführt hat.
 * Sie möchten vermeiden, den Benutzern die Schuld für die Ergebnisse einer Aktion zu geben.
-* Man kann nicht um sie schreiben, wie für einige Vorbedingung Informationen.
+* Sie können sich nicht umschreiben, z. B. für einige Informationen zu den Voraussetzungen.
 
 
 Weitere Verbkonventionen finden Sie unter:
@@ -213,7 +213,7 @@ Verwenden Sie die folgenden Beschriftungen, um Inhalte getrennt vom Haupt-Conten
 
 * HINWEIS
 +
-VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie die Verwendung VON NOTE für „Nice to Know“ Informationen, die für Benutzer nicht erforderlich ist, um über die Aufgabe zu lernen oder die Aufgabe abzuschließen.
+VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie HINWEISE für „Nice to Know“-Informationen, die für Benutzer nicht erforderlich sind, um sich über die Aufgabe zu informieren oder die Aufgabe abzuschließen.
 
 * TIPP
 +
@@ -238,7 +238,7 @@ SEIEN SIE VORSICHTIG, um die Benutzer über Bedingungen oder Verfahren zu warnen
 === Außerdem
 
 * Verwenden Sie „auch“, um „zusätzlich“ zu bedeuten.
-* Verwenden Sie nicht "auch", um "alternativ" zu bedeuten.
+* Verwenden Sie nicht „auch“, um „alternativ“ zu bedeuten.
 
 
 
@@ -251,7 +251,7 @@ Wählen Sie den präziseren Begriff aus, wenn es einen gibt. Wenn keiner der Beg
 
 === Als
 
-Verwenden Sie nicht „als“, um „weil“ zu bedeuten.
+Verwenden Sie nicht „As“, um „weil“ zu bedeuten.
 
 
 
@@ -267,9 +267,9 @@ Verwenden Sie nicht „als“, um „weil“ zu bedeuten.
 
 * Verwenden Sie „CAN“, um die Fähigkeit anzuzeigen: „Sie können Ihre Änderungen jederzeit während dieses Verfahrens durchführen.“
 * Verwenden Sie „könnte“, um die Möglichkeit anzuzeigen: „Das Herunterladen mehrerer Programme könnte sich auf die Verarbeitungszeit auswirken.“
-* Verwenden Sie „May“ nicht, was zweideutig ist, weil es entweder die Fähigkeit oder die Erlaubnis bedeuten könnte.
+* Verwenden Sie „may“ nicht, was zweideutig ist, da es entweder Fähigkeit oder Erlaubnis bedeuten könnte.
 * Verwenden Sie „sollte“, um eine empfohlene, aber optionale Aktion anzuzeigen. Ziehen Sie stattdessen die Verwendung eines alternativen Satzes in Betracht, z. B. „Wir empfehlen“.
-* Vermeiden Sie es, „muss“ zu verwenden, weil es passiv ist. Überlegen Sie, den Gedanken als eine Anweisung mit zwingender Stimme zu rerestieren. Wenn Sie „muss“ verwenden, zeigen Sie mit ihr eine erforderliche Aktion oder Bedingung an.
+* Vermeiden Sie es, „muss“ zu verwenden, da es passiv ist. Überlegen Sie, den Gedanken als eine Anweisung mit zwingender Stimme zu rerestieren. Wenn Sie „muss“ verwenden, zeigen Sie mit ihr eine erforderliche Aktion oder Bedingung an.
 
 
 
@@ -297,10 +297,10 @@ Siehe <<Ermahnungen>> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss
 
 === Konsistenz
 
-„Schreiben Sie, wie Sie sprechen, wenn Sie einem professionellen Kollegen etwas erklären“ bedeutet etwas anderes für jeden. Unser professioneller Gesprächsstil hilft uns mit den Nutzern zu verbinden – und erhöht die Häufigkeit kleinerer Inkonsistenzen bei mehreren Autoren:
+„Schreiben Sie, wie Sie sprechen, wenn Sie einem professionellen Kollegen etwas erklären“ bedeutet für jeden etwas anderes. Unser professioneller Gesprächsstil hilft uns mit den Nutzern zu verbinden – und erhöht die Häufigkeit kleinerer Inkonsistenzen bei mehreren Autoren:
 
-* Konzentrieren Sie sich darauf, den Inhalt klar und einfach zu gestalten. Wenn alle Inhalte klar und einfach zu bedienen sind, spielen kleine Inkonsistenzen keine Rolle.
-* Seien Sie in der Seite, die Sie schreiben konsistent.
+* Konzentrieren Sie sich darauf, den Inhalt klar und einfach zu gestalten. Wenn der gesamte Inhalt klar und einfach zu bedienen ist, sind kleinere Unstimmigkeiten nicht von Bedeutung.
+* Seien Sie innerhalb der Seite, die Sie schreiben, konsistent.
 * Befolgen Sie immer die Richtlinien unter <<Schreiben Sie für ein globales Publikum>>.
 
 
@@ -315,7 +315,7 @@ Kontraktionen verstärken einen Gesprächston, und viele Kontraktionen sind leic
 |===
 
 
-| Sind es nicht | Du bist 
+| Das sind sie nicht | Du schon 
 
 
 | Ist nicht | Wir sind 
@@ -327,7 +327,7 @@ Kontraktionen verstärken einen Gesprächston, und viele Kontraktionen sind leic
 | Waren Sie nicht | Lass uns 
 
 
-| Nicht | Wir werden (wenn eine zukünftige Spannung erforderlich ist) 
+| Nicht | Wir werden (wenn die Zukunft angespannt ist) 
 
 
 | Das nicht | Wird nicht (wenn eine zukünftige Spannung erforderlich ist) 
@@ -340,13 +340,13 @@ Kontraktionen verstärken einen Gesprächston, und viele Kontraktionen sind leic
 |===
 
 
-| Das wäre schon | Sollte haben 
+| Das wäre schon | Sollte ich 
 
 
-| Hätte ich nicht | Sollte nicht haben 
+| Das wäre nicht der Fall | Das sollte nicht sein 
 
 
-| Könnte schon | Hätte nicht können 
+| Das könnte ich Ihnen sagen | Hätte nicht sein können 
 |===
 
 
@@ -384,7 +384,7 @@ Wenn nicht anders angegeben, befolgen Sie die Grammatik-, Zeichensetzung- und Re
 
 === Wenn nicht
 
-Verwenden Sie „Wenn nicht“ allein nicht, um sich auf den vorherigen Satz zu beziehen:
+Verwenden Sie „falls nicht“ nicht allein, um auf den vorherigen Satz zu verweisen:
 
 **Statt dessen**: „Der Computer sollte ausgeschaltet sein. Wenn nicht, schalten Sie es aus.“
 
@@ -429,7 +429,7 @@ Für IP-Adressen (einschließlich IPv6) in Beispielen ist es sicher, jede Adress
 
 === Funktionen und Releases werden zukünftig veröffentlicht
 
-Beziehen Sie sich nicht auf den Zeitpunkt oder Inhalt der kommenden Produktversionen oder Funktionen, außer zu sagen, dass eine Funktion oder Funktion „derzeit nicht unterstützt“.
+Beziehen Sie sich nicht auf den Zeitpunkt oder den Inhalt der kommenden Produktveröffentlichungen oder -Funktionen, außer zu sagen, dass eine Funktion oder Funktion „derzeit nicht unterstützt“ wird.
 
 
 
@@ -449,7 +449,7 @@ Listen von Informationen sind in der Regel einfacher zu scannen und absorbieren 
 * Listeneinträge sollten mit einem Großbuchstaben beginnen, und Listeneinträge sollten grammatikalisch parallel sein. Beginnen Sie beispielsweise jeden Eintrag mit einem Substantiv oder einem Verb:
 +
 ** Wenn es sich bei allen Listeneinträgen um vollständige Sätze handelt, beenden Sie diese mit Perioden.
-** Wenn alle Listeneinträge Satzfragmente sind, beenden Sie sie nicht mit Perioden.
+** Wenn es sich bei allen Listeneinträgen um Satzfragmente handelt, sollten Sie diese nicht mit Punkten beenden.
 
 
 * Listeneinträge sollten auf logische Weise geordnet werden, z. B. alphabetisch oder chronologisch.
@@ -476,7 +476,7 @@ Siehe <<Schreiben Sie für ein globales Publikum>>.
 
 === NOTIEREN Sie sich die Informationen
 
-VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie die Verwendung VON NOTE für „Nice to Know“ Informationen, die für Benutzer nicht erforderlich ist, um über die Aufgabe zu lernen oder die Aufgabe abzuschließen.
+VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie HINWEISE für „Nice to Know“-Informationen, die für Benutzer nicht erforderlich sind, um sich über die Aufgabe zu informieren oder die Aufgabe abzuschließen.
 
 Siehe <<Ermahnungen>> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.
 
@@ -533,7 +533,7 @@ Die Voraussetzungen bestimmen die Bedingungen, die vorhanden sein müssen oder d
 === Vorher (gegenüber „vorher“, „früher“ oder „vorher“)
 
 * Ersetzen Sie nach Möglichkeit „vorher“ durch „vorher“.
-* Wenn Sie „vorher“ nicht verwenden können, verwenden Sie „Prior“ als Adjektiv, um sich auf etwas zu beziehen, das früher oder mit einer höheren Reihenfolge von Bedeutung aufgetreten ist.
+* Wenn Sie „vorher“ nicht verwenden können, verwenden Sie „vorher“ als Adjektiv, um auf etwas zu verweisen, das früher in der Zeit oder in einer höheren Reihenfolge aufgetreten ist.
 * Verwenden Sie „Previous“, um etwas anzugeben, das zu einer nicht festgelegten Zeit früher aufgetreten ist.
 * Verwenden Sie „vorhergehende“, um auf etwas hinzuweisen, das unmittelbar zuvor aufgetreten ist.
 
@@ -559,7 +559,7 @@ Einfach Im Allgemeinen, je mehr Satzzeichen enthalten sind, desto mehr Gehirnzel
 
 === Seit
 
-Verwenden Sie „seit“, um einen Zeitabgang anzuzeigen. Verwenden Sie nicht "da", um "weil."
+Verwenden Sie „seit“, um einen Zeitabgang anzuzeigen. Verwenden Sie „Da“ nicht, um „weil“ zu bedeuten.
 
 
 
@@ -594,12 +594,12 @@ Siehe <<Ermahnungen>> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss
 
 === Marken
 
-Wir fügen in den meisten unserer technischen Inhalte keine Markensymbole ein, da die rechtlichen Aussagen in unseren Vorlagen ausreichen. Bei der Verwendung befolgen wir jedoch sämtliche Nutzungsregeln https://www.netapp.com/us/legal/netapptmlist.aspx["NetApp geschützte Bedingungen"^]:
+In den meisten technischen Inhalten enthalten wir keine Markensymbole, da die rechtlichen Aussagen in unseren Vorlagen ausreichend sind. Bei der Verwendung befolgen wir jedoch sämtliche Nutzungsregeln https://www.netapp.com/us/legal/netapptmlist.aspx["NetApp geschützte Bedingungen"^]:
 
 * Verwenden Sie geschützte Begriffe (mit oder ohne Symbol) nur als Adjektive, niemals als Substantive, Verben oder verbale.
-* Keine Abkürzungen, Silbentrennung oder kursiv markenspezifischen Begriffe.
-* Pluralisieren Sie nicht die geschützten Bedingungen. Wenn ein Plural-Formular erforderlich ist, verwenden Sie den geschützten Namen als Adjektiv, das ein Plural-Substantiv ändert.
-* Verwenden Sie keine besitzergreifende Form eines geschützten Begriffs. Sie können die Possessive Form von Firmennamen wie NetApp verwenden, wenn die Namen im allgemeinen Sinne verwendet werden, anstatt als geschützte Begriffe.
+* Verwenden Sie keine Abkürzungen, Silbentrennung oder Kursivierung von Markenbegriffen.
+* Verwenden Sie keine pluralisierenden Markenbegriffe. Wenn ein Plural-Formular erforderlich ist, verwenden Sie den geschützten Namen als Adjektiv, das ein Plural-Substantiv ändert.
+* Verwenden Sie keine besitzergreifende Form eines markengeschützten Begriffs. Sie können die Possessive Form von Firmennamen wie NetApp verwenden, wenn die Namen im allgemeinen Sinne verwendet werden, anstatt als geschützte Begriffe.
 
 
 
@@ -617,12 +617,12 @@ Unser Stil zur Dokumentation von UIs ist einfach und minimal:
 * Angenommen, der Benutzer verwendet die Schnittstelle beim Lesen des Inhalts.
 * Verlassen Sie sich auf die Benutzeroberfläche, um den Benutzer zu leiten:
 +
-** Gehen Sie den Benutzer nicht Schritt für Schritt durch einen Assistenten oder Bildschirm. Nennen Sie nur wichtige Dinge, die von der Oberfläche nicht ersichtlich sind.
-** Schließen Sie nicht "Klicken Sie OK" oder "klicken Sie auf Speichern" oder "das Volumen wird erstellt" oder alles andere, was offensichtlich ist, um jemand tun die Aufgabe.
+** Führen Sie den Benutzer nicht Schritt für Schritt durch einen Assistenten oder einen Bildschirm. Nennen Sie nur wichtige Dinge, die von der Oberfläche nicht ersichtlich sind.
+** Fügen Sie nicht „Klicken Sie auf OK“, „Klicken Sie auf Speichern“ oder „das Volume wird erstellt“ oder irgendetwas anderes, das offensichtlich für jemanden ist, der diese Aufgabe erledigt.
 ** Erfolg übernehmen. Wenn Sie nicht erwarten, dass ein Vorgang die meiste Zeit ausfällt, dokumentieren Sie den Fehlerpfad nicht. Angenommen, die Schnittstelle bietet die richtige Orientierung.
 
 
-* Verwenden Sie „Klick“ überhaupt nicht. Verwenden Sie immer „Select“, weil das Wort Maus, Berührung, Tastatur und jede andere Art der Wahl umfasst.
+* Verwenden Sie gar keinen „Klick“. Verwenden Sie immer „Select“, weil das Wort Maus, Berührung, Tastatur und jede andere Art der Wahl umfasst.
 * Konzentrieren Sie den Inhalt auf einen Workflow, der den Kundenfall anspricht und den Benutzer an die richtige Stelle in der Schnittstelle zum Starten des Workflows bringen soll.
 * Dokumentieren Sie immer den besten Weg, um das Benutzerziel zu erreichen.
 * Wenn der Workflow eine wichtige Entscheidung erfordert, achten Sie darauf, eine Entscheidungsregel zu dokumentieren.
@@ -633,7 +633,7 @@ Unser Stil zur Dokumentation von UIs ist einfach und minimal:
 
 ==== Benennen von UI-Elementen
 
-Vermeiden Sie das Dokumentieren des Granularitätsniveaus, der UI-Elemente erfordert. Verlassen Sie sich auf die Schnittstelle, um den Benutzer durch die Besonderheiten der Interaktion zu führen. Wenn Sie diese spezifische Version erhalten müssen, benennen Sie die Bezeichnung auf dem Element. Beispiel: „Wählen Sie das gewünschte Volumen aus“ oder „Wählen Sie ‘vorhandenes Volumen verwenden“.“ Es ist nicht notwendig, Menüs oder Optionsfelder oder Kontrollkästchen zu benennen, nur verwenden Sie die Bezeichnung.
+Vermeiden Sie das Dokumentieren des Granularitätsniveaus, der UI-Elemente erfordert. Verlassen Sie sich auf die Schnittstelle, um den Benutzer durch die Besonderheiten der Interaktion zu führen. Wenn Sie diese spezifische Version erhalten müssen, benennen Sie die Bezeichnung auf dem Element. Beispiel: „Wählen Sie das gewünschte Volume aus“ oder „Wählen ‘vorhandenes Volume verwenden“. Es ist nicht notwendig, Menüs oder Optionsfelder oder Kontrollkästchen zu benennen, verwenden Sie einfach die Bezeichnung.
 
 Verwenden Sie für Symbole, die Benutzer auswählen müssen, ein Bild des Symbols. Versuchen Sie nicht, es zu benennen. Diese Regel gilt für Symbole wie Pfeil, Bleistift, Getriebe, Kabob, Hamburger, Und so weiter.
 
@@ -647,7 +647,7 @@ Befolgen Sie beim Identifizieren von Etiketten die Rechtschreibung und Groß-/Kl
 
 ==== Verwenden von Bildschirmaufnahmen
 
-Eine gelegentliche Bildschirmaufnahme („Screenshot“) hilft Benutzern, sich darauf zu verlassen, dass sie sich beim Starten oder Ändern von Schnittstellen während eines Workflows an der richtigen Stelle in einer Schnittstelle befinden. Verwenden Sie keine Bildschirmaufnahmen, um anzuzeigen, welche Daten eingegeben werden sollen oder welcher Wert ausgewählt werden soll.
+Eine gelegentliche Bildschirmaufnahme („Screenshot“) hilft Benutzern, sich darauf zu verlassen, dass sie sich beim Starten oder Ändern von Schnittstellen während eines Workflows an der richtigen Stelle in einer Schnittstelle befinden. Verwenden Sie keine Bildschirmaufnahmen, um zu zeigen, welche Daten eingegeben werden sollen oder welcher Wert ausgewählt werden soll.
 
 
 
