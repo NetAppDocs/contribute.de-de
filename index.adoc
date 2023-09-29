@@ -33,7 +33,7 @@ Sie können über die folgenden Optionen zu unseren Dokumenten beitragen:
 
 
 
-Das folgende Video gibt einen kurzen Überblick über diese beiden Optionen:
+Das folgende Video gibt einen kurzen Überblick über diese beiden Optionen.
 
 .Übersicht über Beiträge zu docs.netapp.com
 video::37b6207f-30cd-4517-a80a-b08a0138059b[panopto]
@@ -59,7 +59,7 @@ TIP: Alle Kommentare, die Sie angeben, sind öffentlich sichtbar. Jeder, der sic
 image:screenshot-request-doc-changes.png["Änderungen am Dokument anfordern"]
 
 +
-Ein neuer Browser-Tab öffnet sich mit einem Formular, mit dem Sie Details an unser Dokumentteam senden können.
+Eine neue Browser-Registerkarte wird mit einem GitHub-Formular geöffnet, über das Sie Details an unser Doc-Team übermitteln können.
 
 . Geben Sie einen Titel und eine Zusammenfassung ein, und bestätigen Sie, dass das Problem keine vertraulichen Informationen enthält.
 +
@@ -99,6 +99,9 @@ Wenn Sie Hilfe bei unserem Schreibstil oder der Quellsyntax benötigen, können 
 . Wählen Sie oben auf der Seite *Änderungen vorschlagen > Diese Seite bearbeiten*.
 +
 image:screenshot-edit-this-page.png["Bearbeiten Sie diese Seite"]
+
++
+Eine neue Browser-Registerkarte wird geöffnet und führt Sie zu der Datei im GitHub-Repository für die Dokumentations-Site.
 
 . Wählen Sie das Bleistiftsymbol.
 +
