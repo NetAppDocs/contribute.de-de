@@ -175,9 +175,7 @@
   <block id="3f347890f95ef75c2eacb4f01c622ac9" category="cell">Lass uns</block>
   <block id="db8b923a9180129ba0052fbcd986f8b9" category="cell">Nicht</block>
   <block id="59a7709f7ee8c9dadf75615cbe4a79cf" category="cell">Das nicht</block>
-  <block id="3c2bb9e95fa5b8a7d4e0a0d41ad5b86f" category="cell">Wird nicht (wenn eine zukünftige Spannung erforderlich ist)</block>
   <block id="5970929a425637241abb7a44591e32b3" category="cell">Nicht</block>
-  <block id="a4b1e16e36a349a9247d2137cac483f8" category="cell">Sie werden (wenn eine ZukunftspInfrastruktur erforderlich ist)</block>
   <block id="fa4dcd229606d27eb80b780e6fb39231" category="list-text">Verwenden Sie keine Kontraktionen wie diese, die schwer zu verstehen und zu übersetzen sind:</block>
   <block id="ab3eb88106f999d04a740ab008a0767b" category="section-title">Stellen Sie sicher (im Vergleich zur „Bestätigung“ oder „Überprüfung“)</block>
   <block id="164762d67b4e5fe97d86d9a9f282ea25" category="list-text">Verwenden Sie „Sicherstellen“, um „sicher zu machen“. Fügen Sie „das“ hinzu, wenn es angebracht ist: „Stellen Sie sicher, dass genügend weißer Raum um Illustrationen herum vorhanden ist.“</block>
@@ -487,7 +485,6 @@
   <block id="e298d7e5e24682a3c8bdbb35a4fe032b" category="list-text">Seien Sie innerhalb der Seite, die Sie schreiben, konsistent.</block>
   <block id="5759b7c5715d057d5710c3f672f2fa6b" category="cell">Das sind sie nicht</block>
   <block id="56de9219979795654f00a462f479b92d" category="cell">Du schon</block>
-  <block id="284097c621ee43e2ed3a2212d29102f5" category="cell">Wir werden (wenn die Zukunft angespannt ist)</block>
   <block id="d90e297e46a1967fdcc50b1b348bfb6d" category="cell">Das wäre schon</block>
   <block id="80d265e5e803c6d25656a0342dfe9058" category="cell">Sollte ich</block>
   <block id="0eab61dbc3e8ad63324f3382baf86ac7" category="cell">Das wäre nicht der Fall</block>
@@ -514,4 +511,9 @@
   <block id="d2a6bdb03847dd26c195e27066ccdb58" category="paragraph">Eine neue Browser-Registerkarte wird mit einem GitHub-Formular geöffnet, über das Sie Details an unser Doc-Team übermitteln können.</block>
   <block id="60a186f1a1bf3949fd214cb8c41bc66f" category="paragraph">Eine neue Browser-Registerkarte wird geöffnet und führt Sie zu der Datei im GitHub-Repository für die Dokumentations-Site.</block>
   <block id="864a308d9063db9563fd2862dc533628" category="list-text">Senden Sie keine vertraulichen Dokumente oder neu geschriebene Inhalte an KI (ChatGPT oder andere Tools). Alle Informationen, die in ChatGPT eingespeist werden, werden Teil des Trainingsdatensatzes, der wiederum Eigentum von OpenAI wird und von ihnen und ihren Nutzern genutzt werden kann. Obwohl ein Großteil dieser Daten öffentlich zugänglich ist, wollen wir das Modell nicht auf unserem eigenen IP trainieren.</block>
+  <block id="733e053a02d21c4877d499d0fbb4c11d" category="list-text">Kann nicht</block>
+  <block id="19aac40a7d990d8b8aa21091fd07466d" category="list-title">Verwenden Sie diese Kontraktionen nicht, wenn eine Future Tense erforderlich ist:</block>
+  <block id="fc8b507a72b6956dbc043bfe0002b248" category="list-text">Wir</block>
+  <block id="b7a61cf5d29e4ad809c301c74229b078" category="list-text">Das ist nicht der Fall</block>
+  <block id="fa6c9d5de251d2da13b9f81db8da0ca6" category="list-text">Das werden Sie</block>
 </blocks>

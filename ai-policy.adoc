@@ -3,15 +3,12 @@ sidebar: sidebar
 permalink: ai-policy.html 
 ---
 = Richtlinie, die die Verwendung von KI-generierten Inhalten in der technischen Dokumentation von NetApp untersagt
-:toc: macro
 :hardbreaks:
 :allow-uri-read: 
-:toc: 
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]

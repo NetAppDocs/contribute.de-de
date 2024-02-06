@@ -3,15 +3,12 @@ sidebar: sidebar
 permalink: style.html 
 ---
 = Style Guide für NetApp Dokumentationen
-:toc: macro
 :hardbreaks:
 :allow-uri-read: 
-:toc: 
 :nofooter: 
 :icons: font
 :linkattrs: 
 :imagesdir: ./media/
-:toc-position: content
 
 
 [role="lead"]
@@ -310,44 +307,34 @@ Siehe <<Ermahnungen>> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss
 
 Kontraktionen verstärken einen Gesprächston, und viele Kontraktionen sind leicht zu verstehen und zu übersetzen.
 
-* Verwenden Sie Kontraktionen wie diese, die leicht zu verstehen und zu übersetzen sind:
-+
-|===
+.Verwenden Sie Kontraktionen wie diese, die leicht zu verstehen und zu übersetzen sind:
+* Das sind sie nicht
+* Kann nicht
+* Nicht
+* Das nicht
+* Nicht
+* Ist nicht
+* Es ist
+* Lass uns
+* War nicht
+* Wir sind
+* Waren Sie nicht
+* Du schon
 
 
-| Das sind sie nicht | Du schon 
+.Verwenden Sie diese Kontraktionen nicht, wenn eine Future Tense erforderlich ist:
+* Wir
+* Das ist nicht der Fall
+* Das werden Sie
 
 
-| Ist nicht | Wir sind 
-
-
-| War nicht | Es ist 
-
-
-| Waren Sie nicht | Lass uns 
-
-
-| Nicht | Wir werden (wenn die Zukunft angespannt ist) 
-
-
-| Das nicht | Wird nicht (wenn eine zukünftige Spannung erforderlich ist) 
-
-
-| Nicht | Sie werden (wenn eine ZukunftspInfrastruktur erforderlich ist) 
-|===
-* Verwenden Sie keine Kontraktionen wie diese, die schwer zu verstehen und zu übersetzen sind:
-+
-|===
-
-
-| Das wäre schon | Sollte ich 
-
-
-| Das wäre nicht der Fall | Das sollte nicht sein 
-
-
-| Das könnte ich Ihnen sagen | Hätte nicht sein können 
-|===
+.Verwenden Sie keine Kontraktionen wie diese, die schwer zu verstehen und zu übersetzen sind:
+* Das könnte ich Ihnen sagen
+* Hätte nicht sein können
+* Sollte ich
+* Das sollte nicht sein
+* Das wäre schon
+* Das wäre nicht der Fall
 
 
 
