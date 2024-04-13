@@ -43,17 +43,9 @@
   <block id="179de754e52640d4cfddf43d10964d76" category="paragraph"><block ref="179de754e52640d4cfddf43d10964d76" category="inline-image-macro-rx" type="image"></block></block>
   <block id="e2d0dae9d76032e451e39d8e99304566" category="paragraph">Unser Stil ist umgangssprachlich und einfühlsam, aber wir bleiben professionell und kommen zum Punkt. Folgen Sie beim Schreiben der Inhalte für NetApp Dokumentationen diesen Richtlinien.</block>
   <block id="99cadf0b9e522abf385884bbba7ba292" category="section-title">Konvergieren</block>
-  <block id="7d0edd1178aac4fd80f275d473a2bbba" category="admonition">Lesen Sie Ihr Schreiben laut. Elmore Leonard, ein amerikanischer Schriftsteller und Drehbuchautor, sagte: „Wenn es wie Schreiben klingt, dann schreibe ich es neu.“</block>
   <block id="14162950f27b607637ed0c3681ea338c" category="cell">Zu formell</block>
   <block id="706ee9fc99a081223cc401929741a52a" category="cell">Zu lässig</block>
   <block id="e3d632fe289ec28c552b21075d04a8fc" category="cell">Unser Stil</block>
-  <block id="e79230b3b0562e674e6294e0554d48d4" category="cell">Wenn bei Cloud Tiering Probleme auftreten, können Sie den Integritätsstatus auf der Cluster Dashboard anzeigen, um festzustellen, warum der Fehler aufgetreten ist. Der Systemzustand gibt den Status des ONTAP-Systems und des Servicesteckers wieder.</block>
-  <block id="09083b2e235c493fdbe1bd76c4fc1759" category="cell">Sie können für Cloud Tiering auf unterschiedliche Weise bezahlen. Sie können für Cloud Tiering über ein Pay-as-you-go-Abonnement bezahlen, über eine ONTAP Tiering-Lizenz bezahlen oder über eine Kombination beider Möglichkeiten bezahlen. Sie können keine Lizenzierung in Cloud Manager erhalten, Sie müssen direkt zum Cloud Tiering Service gehen, um ihn einzurichten.</block>
-  <block id="d610c8ffc37561f4634a190387a5f3b6" category="cell">Bevor Sie Storage bereitstellen können, müssen Sie das ONTAP Cluster aus Cloud Manager erkennen. Nach Abschluss der Bestandsaufnahme müssen Sie die Arbeitsumgebung öffnen, um Storage bereitzustellen.</block>
-  <block id="17b767c95630dcda77217ed5b3e18485" category="cell">Erst erkennen Sie den ONTAP Cluster vom Cloud Manager, dann öffnen Sie die Arbeitsumgebung, in der Sie mit dem Bereitstellen von Speicher beginnen können. Ganz Einfach!</block>
-  <block id="a8e0043a624da44dc1444007f03701d9" category="cell">Nachdem Sie den ONTAP Cluster von Cloud Manager entdeckt haben, öffnen Sie die Arbeitsumgebung für die Bereitstellung von Storage.</block>
-  <block id="e7d907ab95696d826dd2c779e9e54c9f" category="cell">Die Wellness-Attribute Ihres Speichersystems können je nach Analyse auf zwei Arten analysiert werden: Wählen Sie entweder das Widget „Wellness-Attribut“ auf dem Dashboard oder wählen Sie „Alle anzeigen“, um die gesamte Liste der Wellness-Attribute anzuzeigen.</block>
-  <block id="75ab0e119891809d63bcc8c56b8c2793" category="cell">Wählen Sie im Dashboard das Widget „Wellness-Attribut“ oder „Alle anzeigen“ aus, um die Liste aller Aktionen und Risiken anzuzeigen.</block>
   <block id="7a8e71d910db3b72c9392f6de16c626b" category="cell">Befolgen Sie beim Starten des Setup-Assistenten die Anweisungen im Assistenten, um den Node einzurichten und dem Cluster beizutreten. Die folgenden Schritte führen Sie durch die Schritte im Assistenten.</block>
   <block id="1a06075f56c7d5e9e311fe51b475db66" category="cell">Der Setup-Assistent wird angezeigt (fast wie Magic), um Sie durch den einfachen Prozess der Einrichtung des Node und der Verbindung mit dem Cluster zu führen.</block>
   <block id="8792ee5d1e83c1d33d5410776949cde4" category="cell">Befolgen Sie die Anweisungen im Setup-Assistenten, um den Node einzurichten und dem Cluster beizutreten.</block>
@@ -61,47 +53,21 @@
   <block id="512c554de100f0a0303aff43a4938548" category="cell">Wie möchten Sie Ihr System einrichten und installieren? Wir stellen Anweisungen in verschiedenen Inhaltstypen zur Verfügung, aber nur Sie wissen, wie Sie lernen möchten.</block>
   <block id="5c95199f716f82b32872292114a229c6" category="cell">Wählen Sie einen Inhaltstyp aus, der Sie bei der Installation und Einrichtung des Systems unterstützt.</block>
   <block id="a6cf0a00702e536a363628733d5213a4" category="section-title">Schreiben Sie einfach</block>
-  <block id="724de70f821b15b77c199ba6c3c78a52" category="paragraph">**Statt dessen**: „Dissoziieren Sie den Benutzer von Ihrem NetApp Cloud Central Konto.“</block>
-  <block id="4ce32d6ad30ddad687a9afb502393612" category="paragraph">**Do this**: „Entfernen Sie den Benutzer aus Ihrem NetApp Cloud Central Konto.“</block>
   <block id="33d3bee5bdc5b545c2ff65c8aae964bc" category="section-title">Minimale Schreibvorgänge</block>
-  <block id="277b7e6928cc03b89a034957458a45da" category="paragraph">**Statt dessen**: „Um Daten zwischen einem Cloud Volumes ONTAP-System in AWS und ONTAP-Systemen in anderen Netzwerken zu replizieren, benötigen Sie eine VPN-Verbindung zwischen dem Amazon VPC und dem anderen Netzwerk – beispielsweise ein Azure vnet oder Ihr Unternehmensnetzwerk.“</block>
-  <block id="82cbaceb5cc1b3b8f540b9fdf3f6ce57" category="paragraph">**Do this**: „Die Datenreplikation zwischen Netzwerken erfordert eine Verbindung über ein VPN. Beispielsweise zwischen Amazon VPC und Ihrem Unternehmensnetzwerk oder zwischen AWS und Azure.“</block>
   <block id="d41d8cd98f00b204e9800998ecf8427e" category="inline-xref"></block>
-  <block id="d96895205deeecea5fd74faa492c18cc" category="paragraph">Siehe auch <block ref="8cb72eb8cdc2204aae415c32d9befda5" category="inline-xref-macro-rx"></block>.</block>
   <block id="8e7628e7047272997974cb838b8802bb" category="section-title">Aktiv schreiben</block>
-  <block id="e7f1238ab8b35c783b4369d921ea7697" category="paragraph">**Statt dessen**: „Vor der Bereitstellung des ersten Clusters müssen die erforderlichen Berechtigungen bereitgestellt werden.“</block>
-  <block id="de3a57bf9669fa7f4f6095f285c91a30" category="paragraph">**Do this**: „Bereitstellen der erforderlichen Berechtigungen, bevor Sie Ihr erstes Cluster bereitstellen.“</block>
-  <block id="24cceca19bc255113b993d523dbb1606" category="paragraph">Siehe auch <block ref="7bec9538d082ed3ef031877eda02f047" category="inline-xref-macro-rx"></block>.</block>
   <block id="8218b70694b9a19d40ad23d53669958f" category="section-title">Verwenden Sie eine inklusiv Sprache</block>
   <block id="6b779f3ec24824723334061dfbc337ce" category="paragraph">NetApp ist der Ansicht, dass die Produktdokumentation nicht diskriminierende, exklusive Inhalte enthalten sollte. Die Worte, die wir benutzen, können einen Unterschied machen zwischen einer positiven Beziehung zu unseren Kunden oder ihrer Entfremdung. Vor allem bei geschriebenen Worten ist die Wirkung wichtiger als die Absicht.</block>
   <block id="d658c6f2741d4739bd62749a7c146725" category="paragraph">Beim Erstellen von Inhalten für NetApp Produkte vermeiden Sie eine Sprache, die als entniedrigend, rassistisch, sexistisch oder anderweitig bedrückend interpretiert werden kann. Verwenden Sie stattdessen Sprache, die allen zugänglich ist und die die Dokumentation verwenden müssen. Verwenden Sie zum Beispiel anstelle von „Master/Slave“ „Primary/Secondary“.</block>
-  <block id="c0453e84074ee6c764cfff4036e7a5c6" category="paragraph">Wir wissen, dass wir zu tun haben, um alle nicht-inklusiven Sprachen aus unserer Dokumentation und unseren Produkten zu entfernen. Wir arbeiten aktiv an unseren Standards und Best Practices und erwarten, dass wir diesen Abschnitt zukünftig mit weiteren Anleitungen aktualisieren werden.</block>
   <block id="4b836daed67a5f68f01caa4387d2997b" category="section-title">Kommen Sie zum Punkt</block>
-  <block id="32c2a7211a973f6ee77acc3d1be224e6" category="paragraph">**Statt dessen**: „Cloud Sync kann Daten von einem NFS-Server mit Data-in-Flight-Verschlüsselung auf einen anderen NFS-Server synchronisieren. Die Verschlüsselung der Daten kann bei strengen Sicherheitsrichtlinien für die Datenübertragung über Netzwerke hilfreich sein.“</block>
-  <block id="1aa40d7589b9dc222cf6a6724ee49913" category="paragraph">**Do this**: „Wenn Ihr Unternehmen strenge Sicherheitsrichtlinien hat, verwenden Sie die Data-in-Flight-Verschlüsselung, um Daten zwischen NFS-Servern in verschiedenen Netzwerken zu synchronisieren.“</block>
   <block id="a361775444b7090a1bfe12fd4cbcfa6d" category="section-title">Verwenden Sie viele Visuals</block>
-  <block id="c99c9a6aa69b2c5aaca314b276ebac5b" category="paragraph">Die meisten Menschen sind visuelle Lernende. Nutzen Sie Videos, Diagramme und Screenshots, um das Lernen zu verbessern. Außerdem helfen Visualisierungen dabei, Textblöcke aufzubrechen.</block>
   <block id="ff7c0fcd6a31e735a61c001f75426961" category="list-title">Beispiele</block>
   <block id="2c1f35f6a2d89783cc4e3cb5dddbf13e" category="inline-link">Beispiel #1</block>
-  <block id="8043907a5143d799b67c701bade9898a" category="list-text"><block ref="8043907a5143d799b67c701bade9898a" category="inline-link-rx"></block></block>
   <block id="f878cf0dd42dc4c0fea1e3d46b29bd65" category="inline-link">Beispiel #2</block>
-  <block id="fed62f795a2ddbdf2038c39203acda7d" category="list-text"><block ref="fed62f795a2ddbdf2038c39203acda7d" category="inline-link-rx"></block></block>
-  <block id="de3f6bdf0d88db0d3f3b57dee5cb654a" category="paragraph">Siehe auch <block ref="f9b158fd04b8fe385dbf8b00d9130e6c" category="inline-xref-macro-rx"></block>.</block>
   <block id="e03e1e7d88cf65f2b375e60b53e89c18" category="section-title">Erstellen Sie scannbare Inhalte</block>
-  <block id="ed05a72d1291aded6dd57c79ca2e07b6" category="paragraph">Verwenden Sie Überschriften, Listen und Tabellen, damit Benutzer nach gewünschten Informationen suchen können.</block>
-  <block id="7aa31077b5ec51459df6b7f159c11f4a" category="list-text"><block ref="7aa31077b5ec51459df6b7f159c11f4a" category="inline-link-rx"></block></block>
-  <block id="47945a33d278a568329ca94149c9de10" category="list-text"><block ref="47945a33d278a568329ca94149c9de10" category="inline-link-rx"></block></block>
-  <block id="48b0365b286aecd7e2fa7fad18b782c3" category="section-title">Konzentrieren Sie sich auf ein Benutzerziel oder einen bestimmten Aspekt dieses Ziels</block>
-  <block id="bbd886ca20f28831914094c490a3750a" category="list-text"><block ref="bbd886ca20f28831914094c490a3750a" category="inline-link-rx"></block></block>
-  <block id="efec69bedd6bf6180648cc5205533500" category="paragraph">Helfen Sie Benutzern, die benötigten Informationen zu finden, wann sie sie sie benötigen. Sie so schnell wie möglich in und aus den Dokumenten zu bekommen, indem Sie den Inhalt wie folgt organisieren:</block>
   <block id="c7c09212616a4a2622a565139e7747b4" category="list-text">Der erste Eintrag in der linken Navigation (High Level)</block>
-  <block id="5897a788a4b61495b4004511efbbbdca" category="list-text">Organisieren von Inhalten rund um die Ziele, die der Benutzer zu erreichen versucht. Beispielsweise sind erste Schritte oder die Sicherung von Daten.</block>
-  <block id="0862b4c88f63f656355d7b3f3ce05c73" category="list-text">Die zweiten Einträge in der Navigation (mittlere Ebene)</block>
-  <block id="a5417562df9594ebe395cb67838f9ded" category="list-text">Organisieren Sie Inhalte rund um die umfassenden Aufgaben, die die Ziele bilden. Beispielsweise Einrichtung von Disaster Recovery oder Einrichtung von Datensicherung.</block>
   <block id="7cc3e492c1345524ee2effcd59abda63" category="list-text">Einzelne Seiten (detaillierte Ebene)</block>
-  <block id="d29a200a927c5ca27c22c1bf95b654d7" category="list-text">Organisieren Sie Inhalte rund um die einzelnen Aufgaben, die die umfassenden Aufgaben bilden, wobei jeder sich auf ein einzelnes Lernen oder einen Aspekt dieser breiten Aufgabe konzentriert. Beispielsweise sind die Aufgaben, die zum Einrichten der Disaster Recovery erforderlich sind.</block>
   <block id="ec826192fccf8be31a46bdad89b15a35" category="section-title">Schreiben Sie für ein globales Publikum</block>
-  <block id="24b0f763196d87cb8d056e2b1e6e0cd6" category="paragraph">Wir schreiben für unsere Kunden und Partner auf der ganzen Welt, und ein Großteil unserer Inhalte wird mit Neural Machine Translation Tools oder Human Translation übersetzt. Beachten Sie die folgenden Richtlinien, um ein übersichtliches Schreiben und eine einfachere Übersetzung zu erstellen:</block>
   <block id="f0f9c60e1d1c38e5a9282af65e27df3e" category="list-text">Schreiben Sie kurze, einfache Sätze.</block>
   <block id="ddcc68ade0c576c92ac92ba06b373fce" category="list-text">Verwenden Sie die Standardgrammatik und Satzzeichen.</block>
   <block id="909018b5da2bdfa309a623714b4abce2" category="list-text">Verwenden Sie ein Wort für eine Bedeutung und eine Bedeutung für ein Wort.</block>
@@ -114,11 +80,7 @@
   <block id="57767c4e6018050031f1ad01a5fb80c4" category="list-text">Vermeiden Sie nicht-technische Beispiele.</block>
   <block id="dd13126a02977b1e5fa5494f561a633f" category="list-text">Verwenden Sie keine harten Rückstände und Abstände.</block>
   <block id="16d11ee29f6f290bcb8babae3728286f" category="section-title">Richtlinien von A bis Z</block>
-  <block id="9fdb82acade07b9103cacdcaa0d9ab74" category="section-title">Aktive Stimme (im Vergleich zu „passiver Stimme“)</block>
-  <block id="b9a359c8e1d57c92c8c83c4735d269c7" category="paragraph">In aktiver Stimme ist das Thema des Satzes der Täter der Aktion:</block>
-  <block id="8db698ad8aeb9763624e91a10127e5fa" category="list-text">Wenn Sie das System nicht ordnungsgemäß herunterfahren, wird auf der Schnittstelle eine Warnmeldung angezeigt.</block>
   <block id="2eb27342533224892a3e4726bf3cd1da" category="list-text">NetApp hat den Vertrag erhalten.</block>
-  <block id="6b26c1f8278342b21ad858e1629f4a14" category="paragraph">Aktive Stimme hält das Schreiben scharf und klar. Verwenden Sie aktive sprach- und Adressbenutzer direkt als „Sie“, es sei denn, Sie haben einen bestimmten Grund, passive Stimme zu verwenden.</block>
   <block id="62d0f31f6dc46df87f32e1ce19fec535" category="paragraph">In passiver Stimme ist der Täter der Aktion unklar:</block>
   <block id="e43565b3dce418b9df37a2f9ccbcc4bd" category="list-text">Wenn das System nicht ordnungsgemäß heruntergefahren wird, wird eine Warnmeldung angezeigt.</block>
   <block id="2c8e117631c6f08c9039f90314fd8195" category="list-text">NetApp erhielt den Auftrag.</block>
@@ -127,8 +89,6 @@
   <block id="af64200956f4064e1a823bf61e40dff2" category="paragraph">Weitere Verbkonventionen finden Sie unter:</block>
   <block id="00c1d9795bac737a221ed9550c76fa9c" category="inline-link">Microsoft-Schreibstil-Leitfaden</block>
   <block id="028b46cc7b75d3506f83fd48efbdd6ec" category="list-text"><block ref="028b46cc7b75d3506f83fd48efbdd6ec" category="inline-link-rx"></block></block>
-  <block id="aac49a8fdd48cdfb3fd4114a867ff924" category="inline-link">Chicago Manual of Style</block>
-  <block id="b9f358df2e687572d0c0748eae52b586" category="list-text"><block ref="b9f358df2e687572d0c0748eae52b586" category="inline-link-rx"></block></block>
   <block id="97aba9ddd85fa7db3ab0975897188664" category="inline-link">Merriam-Webster Wörterbuch Online</block>
   <block id="a5c0a6970afaed0f8993e80f0367d714" category="list-text"><block ref="a5c0a6970afaed0f8993e80f0367d714" category="inline-link-rx"></block></block>
   <block id="33f6518588649a99a675cf3b6920a297" category="section-title">Ermahnungen</block>
@@ -138,21 +98,10 @@
   <block id="80de2a8faacb1711bb579e0ee9293a10" category="paragraph">Verwenden SIE TIPP nur sparsam, wenn überhaupt, weil es unsere Richtlinie ist, die Informationen zu Best Practices immer standardmäßig zu dokumentieren. Verwenden SIE BEI Bedarf TIPP, um Informationen zu Best Practices zu enthalten, mit denen Benutzer einfach und effizient ein Produkt verwenden oder einen Schritt oder eine Aufgabe durchführen können.</block>
   <block id="18a970540d05e11964e25e6c04e72b53" category="list-text">ACHTUNG</block>
   <block id="acf7e64aba7071e147e493ba4b62b706" category="paragraph">SEIEN SIE VORSICHTIG, um die Benutzer über Bedingungen oder Verfahren zu warnen, die zu Verletzungen führen können, die nicht tödlich oder extrem gefährlich sind.</block>
-  <block id="4730fb9af1d7470a4eda365c5957916c" category="section-title">Nachher (im Vergleich zu „einmal“)</block>
-  <block id="5b576504ca4429405c2bde1e6261e5d6" category="list-text">Verwenden Sie „nach“, um eine Chronologie anzuzeigen: „Schalten Sie Ihren Computer ein, nachdem Sie ihn angeschlossen haben.“</block>
-  <block id="5a3a871d7d2309eb3e1156a1b1feab07" category="list-text">Verwenden Sie „einmal“ nur um „ein Mal“ zu bedeuten.</block>
   <block id="07ccfe360dce69b84595428e2ec1c1cc" category="section-title">Außerdem</block>
   <block id="06957db97049767f064edfa829e41728" category="list-text">Verwenden Sie „auch“, um „zusätzlich“ zu bedeuten.</block>
   <block id="db9cdfa0cd758f90d8341ab3a5f4ff2b" category="section-title">Und/oder</block>
-  <block id="5b2f3b950d84523641b7e094eeec8e24" category="paragraph">Wählen Sie den präziseren Begriff aus, wenn es einen gibt. Wenn keiner der Begriffe präziser ist als der andere, verwenden Sie „und/oder“.</block>
   <block id="f970e2767d0cfe75876ea857f92e319b" category="section-title">Als</block>
-  <block id="1bc7acda049c903a563634db1454818a" category="section-title">Durch Verwendung (im Vergleich zu „Verwendung“ oder „mit“)</block>
-  <block id="c8142131cc29833653036fdf1342fc5f" category="list-text">Verwenden Sie „mit“, wenn das Element, das die Verwendung tut, das Thema ist: „Sie können neue Komponenten zum Repository hinzufügen, indem Sie das Menü Komponenten verwenden.“</block>
-  <block id="a677e1f957506ca7882c7b477cfba6d5" category="list-text">Sie können einen Satz mit „Verwenden“ oder „mit“ beginnen, der manchmal mit Produktnamen akzeptabel ist: „Mit SnapDrive können Sie virtuelle Festplatten und Snapshot-Kopien in einer Windows-Umgebung verwalten.“</block>
-  <block id="209aa0af78a1d2f904e56e0c68cea78f" category="section-title">Can (im Gegensatz zu „könnte“, „darf“, „sollte“ oder „muss“)</block>
-  <block id="cb220724d35d1167bbd7aefdac36544d" category="list-text">Verwenden Sie „CAN“, um die Fähigkeit anzuzeigen: „Sie können Ihre Änderungen jederzeit während dieses Verfahrens durchführen.“</block>
-  <block id="eb8d13d99bb47a62875974eabf7f17a2" category="list-text">Verwenden Sie „könnte“, um die Möglichkeit anzuzeigen: „Das Herunterladen mehrerer Programme könnte sich auf die Verarbeitungszeit auswirken.“</block>
-  <block id="2cc35eb381bb87884eea68b6830e3f6f" category="list-text">Verwenden Sie „sollte“, um eine empfohlene, aber optionale Aktion anzuzeigen. Ziehen Sie stattdessen die Verwendung eines alternativen Satzes in Betracht, z. B. „Wir empfehlen“.</block>
   <block id="0e18a46a2b02489fafa6c6df3df6cd0e" category="section-title">Großschreibung</block>
   <block id="b63f5554f4f480aa1ef79652ec27ee13" category="paragraph">Verwenden Sie für fast alles eine Kapitalisierung im Stil von Satz (klein geschrieben). Nur Kapital:</block>
   <block id="9dee471d50e8b5fed02a8a6cbbb90cea" category="list-text">Das erste Wort aus Sätzen und Überschriften, einschließlich Tabellenüberschriften</block>
@@ -160,13 +109,8 @@
   <block id="9eb4dcddf6980c19c68d5273a13b86c5" category="list-text">Richtige Substantive</block>
   <block id="eddba1fe20f91ded5ec182b32682e6c7" category="list-text">DOC-Titel und Untertitel (Kapitalisierung aller wichtigsten Wörter und Präpositionen von fünf oder mehr Buchstaben)</block>
   <block id="48d8af07449dc749dcbfeb9a6c1885b4" category="list-text">UI-Elemente, aber nur, wenn sie in der Schnittstelle groß geschrieben werden. Verwenden Sie andernfalls Kleinbuchstaben.</block>
-  <block id="b6dea776027677497d9ec4e6845882fb" category="section-title">WARNHINWEISE</block>
-  <block id="4ad5d623c472c8819c4f6851ac9feb1a" category="paragraph">Siehe <block ref="8b099210f8d5e10883a9054cab340bdd" category="inline-xref-macro-rx"></block> Bei anderen Etiketten, die Inhalte getrennt vom Hauptfluss identifizieren.</block>
-  <block id="6ae8e6245174ea624fcc4a1336dd05af" category="section-title">Konsistenz</block>
   <block id="abd401c81b52a092eef7f29c422e5a5d" category="list-text">Befolgen Sie immer die Richtlinien unter <block ref="e6bf2b437b43648d4b736f107bb67511" category="inline-xref-macro-rx"></block>.</block>
   <block id="322669f84f436ca5d7fcc2d36731876a" category="section-title">Kontraktionen</block>
-  <block id="0667b9338a10390acafe32ae7c3b1521" category="paragraph">Kontraktionen verstärken einen Gesprächston, und viele Kontraktionen sind leicht zu verstehen und zu übersetzen.</block>
-  <block id="8d4dafc6ad003b14fa5e30dbddf58fa2" category="list-text">Verwenden Sie Kontraktionen wie diese, die leicht zu verstehen und zu übersetzen sind:</block>
   <block id="4de6581944a6bd25ecc90a52947add4c" category="cell">Ist nicht</block>
   <block id="075a959179a3ff15345c5865a10c5435" category="cell">Wir sind</block>
   <block id="f8291da3d6882dd7a1c80846efe60c1c" category="cell">War nicht</block>
@@ -177,30 +121,14 @@
   <block id="59a7709f7ee8c9dadf75615cbe4a79cf" category="cell">Das nicht</block>
   <block id="5970929a425637241abb7a44591e32b3" category="cell">Nicht</block>
   <block id="fa4dcd229606d27eb80b780e6fb39231" category="list-text">Verwenden Sie keine Kontraktionen wie diese, die schwer zu verstehen und zu übersetzen sind:</block>
-  <block id="ab3eb88106f999d04a740ab008a0767b" category="section-title">Stellen Sie sicher (im Vergleich zur „Bestätigung“ oder „Überprüfung“)</block>
-  <block id="164762d67b4e5fe97d86d9a9f282ea25" category="list-text">Verwenden Sie „Sicherstellen“, um „sicher zu machen“. Fügen Sie „das“ hinzu, wenn es angebracht ist: „Stellen Sie sicher, dass genügend weißer Raum um Illustrationen herum vorhanden ist.“</block>
-  <block id="3676fe680dc352d532d7e7d2de7067e9" category="list-text">Niemals „sicherstellen“ verwenden, um ein Versprechen oder eine Garantie zu implizieren: „Verwenden Sie Cloud Manager, um sicherzustellen, dass Sie NFS- und CIFS-Volumes auf ONTAP-Clustern bereitstellen können.“</block>
-  <block id="a897a6b4bb270d7a82cbbed2b633f8c5" category="list-text">Verwenden Sie „Bestätigen“ oder „Verifizieren“, wenn Sie meinen, dass der Benutzer etwas überprüfen sollte, das bereits existiert oder bereits geschehen ist: „Überprüfen Sie, ob NFS auf dem Cluster eingerichtet ist.“</block>
   <block id="73b0472d43069103642ffa07997ff20a" category="section-title">Grafik</block>
-  <block id="ffe2862494e45f01f343a9146ec2b078" category="paragraph">Prüfen Sie kontinuierlich Inhalte, um hilfreiche Illustrationen, Diagramme, Flussdiagramme, Bildschirmaufnahmen oder andere visuelle Referenzen zu erhalten. Grafiken vermitteln oft komplexe Konzepte und Schritte deutlicher als Text.</block>
-  <block id="3edd0ecd98cebbebd5ce49aac831ddf8" category="list-text">Fügen Sie eine Beschreibung ein, was die Abbildung soll kommunizieren: „Die folgende Abbildung zeigt die Netzteil-LEDs auf der Rückseite.</block>
-  <block id="95682870d988f7bc53efabc2c36e9e40" category="list-text">Beziehen Sie sich auf die Position der Abbildung als „folgt“ oder „vorstehend“, nicht „oben“ oder „darunter“.</block>
   <block id="b3d1bd6a249a6a85c42bc5762cec6e1f" category="section-title">Grammatik</block>
   <block id="6d327be841a032bf5396053a09819082" category="paragraph">Wenn nicht anders angegeben, befolgen Sie die Grammatik-, Zeichensetzung- und Rechtschreibkonventionen, die in aufgeführt sind:</block>
   <block id="edddbccf5720c62aea76f84134446e73" category="section-title">Wenn nicht</block>
-  <block id="5d057fbef3fbf1f4ea61254d664eb909" category="paragraph">**Statt dessen**: „Der Computer sollte ausgeschaltet sein. Wenn nicht, schalten Sie es aus.“</block>
   <block id="f7374e56bb0693536626afe622146018" category="paragraph">**Do this**: "Stellen Sie sicher, dass der Computer ausgeschaltet ist."</block>
-  <block id="41306d987ed3cbd9c35fe26b8ad29056" category="section-title">Wenn (im Vergleich zu „ob“ oder „Wann“)</block>
-  <block id="e75cb199a23a6fda0f508191e295846c" category="list-text">Verwenden Sie „ob“, um eine Bedingung anzugeben, wie in „wenn dies, dann das“ Konstruktionen.</block>
-  <block id="ba94d314308b8ce720d1e63b1a7de711" category="list-text">Verwenden Sie „ob“, wenn eine angegebene oder implizite „oder nicht“ Bedingung vorhanden ist. Um die Übersetzung zu erleichtern, ist es oft am besten, „ob“ oder „nicht“ mit „ob“ allein zu ersetzen.</block>
-  <block id="18daca6427f1eda051e5bb57e116a538" category="list-text">Verwenden Sie „Wann“, um einen Zeitdurchgang anzuzeigen.</block>
   <block id="935a47d77d7a3c44e0c0b52932eed24b" category="section-title">Eine zwingende Stimme</block>
-  <block id="41a33c483fe196269f1300c300eaacb9" category="list-text">Verwenden Sie Imperativ Voice für Schritte, Direktiven, Anforderungen und Überschriften für Listen von Benutzeraktionen:</block>
-  <block id="9a1897915c6216afb353fcabd9524ea4" category="list-text">„Klicken Sie auf der Seite Arbeitsumgebungen auf Entdecken und wählen Sie ONTAP Cluster.“</block>
-  <block id="4ebd966121850efc9b5eaee86c22f215" category="list-text">„Drehen Sie den Nockengriff so, dass er gegen die Stromversorgung bündig ist.“</block>
   <block id="b3ea8b01998e78b3c2e70cc88ad4b0d5" category="list-text">Ziehen Sie in Betracht, die passive Stimme durch eine zwingende Stimme zu ersetzen:</block>
   <block id="84509c9c0ef2e15f9f3c90a682fb0f76" category="list-text">Vermeiden Sie die Verwendung von Imperativ Voice, um Schritte in konzeptionelle und Referenzinformationen einzubetten.</block>
-  <block id="c797af56551596c24b34d61ad167502b" category="section-title">IP- und IPv6-Adressen</block>
   <block id="cb277327ff86def837ef04f0405c226e" category="section-title">Funktionen und Releases werden zukünftig veröffentlicht</block>
   <block id="e843eeb69636fc6020ca63dad53b5ffb" category="section-title">KB-Artikel: Verweisen auf</block>
   <block id="8aacbd721ee842f62c002641bc604a42" category="paragraph">Greifen Sie gegebenenfalls auf Inhalte in KB (NetApp Knowledgebase)-Artikeln zu. Für Ressourcen-Seiten und GitHub-Inhalte, setzen Sie den Link in Running Text.</block>
@@ -213,58 +141,34 @@
   <block id="17de64fcb1f9b55eb373463234c451ae" category="list-text">Wenn es sich bei allen Listeneinträgen um vollständige Sätze handelt, beenden Sie diese mit Perioden.</block>
   <block id="a5b9dd23d74280fb7ba58e82cac098a5" category="list-text">Listeneinträge sollten auf logische Weise geordnet werden, z. B. alphabetisch oder chronologisch.</block>
   <block id="0662a73e1733968abaea58a21d0e7d99" category="section-title">Lokalisierung</block>
-  <block id="b3d4c2782746a809f3e060ca4df45342" category="paragraph">Siehe <block ref="e6bf2b437b43648d4b736f107bb67511" category="inline-xref-macro-rx"></block>.</block>
   <block id="6a02ad2d520b51e6b2e6392b2a25afe6" category="section-title">Minimalismus</block>
   <block id="a8deee35ded32ce6132adf7972bcf9f2" category="list-text">Benötigen die Benutzer diese Inhalte zur Zeit an diesem Ort?</block>
   <block id="20bcf054830ff9c3e53c74382e6823c6" category="list-text">Kann ich den Inhalt in weniger Worten darstellen, ohne zu formell oder zu lässig zu klingen?</block>
   <block id="eb56305480f1800f960d7fe6af51ceac" category="list-text">Kann ich einen langen Satz verkürzen oder vereinfachen oder in zwei oder mehr Sätze unterteilen?</block>
   <block id="bb012a61ae1699900a94d563de53cdc2" category="list-text">Kann ich eine Liste verwenden, um den Inhalt scannbarer zu machen?</block>
   <block id="973abe3339e6e5539f176843c11014ae" category="list-text">Kann ich eine Grafik verwenden, um einen Textblock zu erweitern oder zu ersetzen?</block>
-  <block id="eb1d221f6cdc8988e11a42b341cd2d49" category="section-title">NOTIEREN Sie sich die Informationen</block>
   <block id="ee5c35ce3d081da90622a10d2272ed5e" category="section-title">Ziffern enthalten</block>
   <block id="8f9a17dd774590a49d5e848c91e50b86" category="list-text">Verwenden Sie arabische Ziffern für 10 und alle Zahlen größer als 10, mit folgenden Ausnahmen:</block>
   <block id="9a1af7b5c8f5004b90fb140665279371" category="list-text">Wenn Sie einen Satz mit einer Zahl beginnen, verwenden Sie ein Wort, nicht eine arabische Zahl.</block>
   <block id="077368b9c970c37dc92a6bb335fbad3e" category="list-text">Verwenden Sie Wörter (keine Ziffern) für ungefähre Zahlen.</block>
   <block id="43446036c64aba99682872d1891efb4d" category="list-text">Verwenden Sie Wörter für Zahlen, die weniger als 10 sind.</block>
   <block id="870854ebb49996ac2172874853907e94" category="list-text">Wenn ein Satz eine Mischung aus Zahlen kleiner als 10 und größer als 10 enthält, verwenden Sie arabische Ziffern für alle Zahlen.</block>
-  <block id="f6645263ec51957cc6f3ae3443a954b3" category="list-text">Weitere Zahlenkonventionen finden Sie unter:</block>
   <block id="5287f067bd9e6eb8a91e2a9832344b13" category="section-title">Plagiat</block>
   <block id="936f98f41233816dff46138972fa2953" category="paragraph">Wir dokumentieren NetApp Produkte und die Interaktion von NetApp Produkten mit Produkten von Drittanbietern. Wir dokumentieren keine Produkte von Drittanbietern. Niemals sollten wir Inhalte von Drittanbietern in unsere Dokumentation kopieren und einfügen müssen, und das sollten wir niemals tun.</block>
   <block id="b5b8e67d6a37d24ad73c89e4c7ac8c9e" category="section-title">Voraussetzungen</block>
   <block id="a34da8c268ec527e1d5925059a96861c" category="paragraph">Die Voraussetzungen bestimmen die Bedingungen, die vorhanden sein müssen oder die Aktionen, die Benutzer vor dem Start der aktuellen Aufgabe abgeschlossen haben müssen.</block>
-  <block id="fe7bd79e9d7c3bcb220bb04b774bb4d5" category="list-text">Identifizieren Sie die Art des Inhalts mit einer Überschrift, wie z. B. „Voraussetzungen“, „bevor Sie beginnen“ oder „bevor Sie beginnen“.</block>
   <block id="8394944633693445cf2a40752c8f6416" category="list-text">Verwenden Sie passive Stimme als Vorformulierung, wenn es sinnvoll ist, dies zu tun:</block>
-  <block id="5c46f1d39cb0f638e92780edbcca3698" category="list-text">„NFS oder CIFS muss auf dem Cluster eingerichtet werden.“</block>
-  <block id="c5a33603fcb1ad31b67856b6cec8e903" category="list-text">„Sie müssen über die Cluster-Management-IP-Adresse und das Passwort verfügen, damit das Admin-Benutzerkonto den Cluster zu Cloud Manager hinzufügen kann.“</block>
-  <block id="9a2c90cf0ed0c5fc39129c0806e5da67" category="list-text">Klärung der Voraussetzung nach Bedarf: „NFS oder CIFS muss auf dem Cluster eingerichtet werden. Sie können NFS und CIFS mit System Manager oder der CLI einrichten.“</block>
   <block id="528a1008a1221d32453075e9ca6eb4f9" category="list-text">Überlegen Sie andere Möglichkeiten, um die Informationen zu präsentieren, zum Beispiel, ob es sinnvoll wäre, den Inhalt als ersten Schritt in der aktuellen Aufgabe zu resagen:</block>
-  <block id="80afa3b693dea7d0c73497249d7a1c3c" category="list-text">Voraussetzung: „Vor der Bereitstellung des ersten Clusters müssen Sie über die erforderlichen Berechtigungen verfügen.“</block>
-  <block id="12b631fee9688baf4ba19b15eb1b9c4a" category="list-text">Schritt: "Stellen Sie die erforderlichen Berechtigungen für die Bereitstellung Ihres ersten Clusters."</block>
-  <block id="af3162878fb6cb3441b612fc24d1b4c9" category="section-title">Vorher (gegenüber „vorher“, „früher“ oder „vorher“)</block>
-  <block id="9758d401c21b103ae3b3d6a0298a62b1" category="list-text">Ersetzen Sie nach Möglichkeit „vorher“ durch „vorher“.</block>
-  <block id="c96fcf3c64cb5227a1879dda06698dd6" category="list-text">Verwenden Sie „Previous“, um etwas anzugeben, das zu einer nicht festgelegten Zeit früher aufgetreten ist.</block>
-  <block id="883ff354ec6bc47d0be7d29cb8c8423c" category="list-text">Verwenden Sie „vorhergehende“, um auf etwas hinzuweisen, das unmittelbar zuvor aufgetreten ist.</block>
   <block id="9ac6d441030eb0844ffb83ba4f100c94" category="section-title">Satzzeichen</block>
   <block id="397121b9a7d73a380fe1920cf1a977f4" category="paragraph">Einfach Im Allgemeinen, je mehr Satzzeichen enthalten sind, desto mehr Gehirnzellen, die es braucht, um zu verstehen.</block>
-  <block id="2182d64dc233fbc158d44298889d9f56" category="list-text">Verwenden Sie vor der Verbindung („und“ oder „oder“) ein serielles Komma (Oxford Komma) in einer Erzählliste mit drei oder mehr Elementen.</block>
   <block id="0d04ba12e7e714d951125d0424b0ff70" category="list-text">Beschränken Sie die Verwendung von Semikolons und Doppelpunkte.</block>
   <block id="50324905c471f3d4d61f7d3f723f3644" category="section-title">Seit</block>
   <block id="fe8ec90a5524db5c338d82b17517dcdb" category="section-title">Rechtschreibung</block>
-  <block id="da01f0261195de207a317ade84c7ce2a" category="section-title">Das (im Gegensatz zu „welches“ oder „wer“)</block>
-  <block id="9901f54d0e3e057debd17f5d8f8e5c04" category="list-text">Verwenden Sie „das“ (ohne ein nachfolgendes Komma), um Klauseln einzuführen, die für den Satz erforderlich sind, um Sinn zu machen.</block>
-  <block id="151dfd91fc447e29cf21cf0cb5ff6cdd" category="list-text">Verwenden Sie „das“, auch wenn der Satz ohne ihn in Englisch klar ist: „Überprüfen Sie, dass der Computer ausgeschaltet ist.“</block>
-  <block id="daf44f3bca464829ecd99cbbbdbf7d5e" category="list-text">Verwenden Sie „welche“ (mit einem nachgestellten Komma), um Klauseln einzuführen, die unterstützende Informationen enthalten, aber nicht für den Satz sinnvoll sind.</block>
-  <block id="c33b68c4c7251717a35aeaca0e47bce9" category="list-text">Verwenden Sie „Wer“, um Klauseln zu den Menschen einzuführen.</block>
-  <block id="bf611303b2be9960071c292c79b44a34" category="section-title">TIPP-Information</block>
   <block id="3d5cfd3d5e627e33b27fadb6b405a1dd" category="section-title">Marken</block>
   <block id="e273e00cc1e1e5b94a098e24137cf85e" category="inline-link">NetApp geschützte Bedingungen</block>
   <block id="20771c4637e265828d5e2a091ea4c61b" category="list-text">Verwenden Sie geschützte Begriffe (mit oder ohne Symbol) nur als Adjektive, niemals als Substantive, Verben oder verbale.</block>
   <block id="41d8e72b4f5f3cc4857e431dec4e269c" category="section-title">Benutzeroberfläche</block>
-  <block id="9d82d4741b1969a54d01e8bf171afc7e" category="paragraph">Verlassen Sie sich so gut wie möglich auf die Schnittstelle, um den Benutzer zu leiten.</block>
   <block id="d82cb0209a5722e763aa8eb79a8868f1" category="section-title">Allgemeine Richtlinien</block>
-  <block id="5355febad7711fb3953aa0a70799f4a3" category="paragraph">Unser Stil zur Dokumentation von UIs ist einfach und minimal:</block>
-  <block id="b8b563f55b69e0abca0d50aa6d8fdcc5" category="list-text">Angenommen, der Benutzer verwendet die Schnittstelle beim Lesen des Inhalts.</block>
-  <block id="9b63f1e2091c52c7e2a1cdd189e7a586" category="list-text">Verlassen Sie sich auf die Benutzeroberfläche, um den Benutzer zu leiten:</block>
   <block id="1b8d1f910b382b0cc9563c9a6075268d" category="list-text">Erfolg übernehmen. Wenn Sie nicht erwarten, dass ein Vorgang die meiste Zeit ausfällt, dokumentieren Sie den Fehlerpfad nicht. Angenommen, die Schnittstelle bietet die richtige Orientierung.</block>
   <block id="cfb6729137a6d954b8da252581dd2b3a" category="list-text">Konzentrieren Sie den Inhalt auf einen Workflow, der den Kundenfall anspricht und den Benutzer an die richtige Stelle in der Schnittstelle zum Starten des Workflows bringen soll.</block>
   <block id="678db84be7d1b3a0571d0bd4777deb5b" category="list-text">Dokumentieren Sie immer den besten Weg, um das Benutzerziel zu erreichen.</block>
@@ -272,15 +176,8 @@
   <block id="a69f6b92d1b2cc6e712a2bb8ae42b9ce" category="list-text">Verwenden Sie die Mindestanzahl der für die meisten Benutzer erforderlichen Schritte.</block>
   <block id="c8ac8ac544647d0524755cbe9b3c4f13" category="section-title">Benennen von UI-Elementen</block>
   <block id="ea403515c7449c382f3a20bd19ddbd50" category="section-title">Darstellung der angezeigten Beschriftungen</block>
-  <block id="5b078359de5ea1377775cc2c12b42a23" category="paragraph">Befolgen Sie beim Identifizieren von Etiketten die Rechtschreibung und Groß-/Kleinschreibung, die von der Benutzeroberfläche verwendet werden. Wenn Ellipsen auf eine Bezeichnung folgen, nehmen Sie bei der Benennung des Objekts keine Ellipsen ein. Ermuntern Sie Entwickler, die Kapitalisierung im Titelstil für Benutzeroberflächenetiketten zu verwenden, um das Schreiben über sie einfacher zu machen.</block>
   <block id="4ef516ca2cc08cdcd670e074e779540e" category="section-title">Verwenden von Bildschirmaufnahmen</block>
-  <block id="7e98c78138dbc7722a43f387f4052b09" category="section-title">Während (im Vergleich zu „obwohl“)</block>
-  <block id="feb46c67d37a04caac252d715c9e4613" category="list-text">Verwenden Sie „während“, um auf etwas hinzuweisen, das in der Zeit geschieht.</block>
-  <block id="21356e57c78537682c670e8c101a558f" category="list-text">Verwenden Sie „Obwohl“, um eine Aktivität darzustellen, die fast zur gleichen Zeit oder kurz nach einer anderen Aktivität auftritt.</block>
-  <block id="2e2e2d35a15a6146a9bbbc246a9ea4cd" category="section-title">Workflow</block>
-  <block id="af96c6e9b9d96508f00139a0731a545a" category="paragraph">Anwender lesen unsere Inhalte, um ein bestimmtes Ziel zu erreichen. Benutzer möchten die Inhalte finden, die sie benötigen, ihre Ziele erreichen und nach Hause zu ihren Familien gehen. Unsere Aufgabe ist es nicht, Produkte oder Features zu dokumentieren, unsere Aufgabe ist es, die Ziele der Benutzer zu dokumentieren. Workflows können Benutzer am direktesten beim Erreichen ihrer Ziele unterstützen.</block>
   <block id="26bcf216756ee1aebfeb7431d225e3c4" category="paragraph">Ein Workflow besteht aus mehreren Schritten oder Unteraufgaben, die die Erreichung eines Benutzerziels beschreiben. Der Umfang eines Workflows ist ein komplettes Ziel.</block>
-  <block id="36da226eb3fe17950978138e8ad49367" category="paragraph">Beispielsweise wären die Schritte zur Erstellung eines Volumes kein Workflow, da die Erstellung eines Volume an sich kein komplettes Ziel ist. Die Schritte, um Speicher einem ESX-Server zur Verfügung zu stellen, können ein Workflow sein. Zu den Schritten gehören nicht nur die Erstellung eines Volumes, sondern auch der Export des Volumes, die Einstellung aller erforderlichen Berechtigungen, die Erstellung einer Netzwerkschnittstelle usw. Workflows stammen aus Anwendungsfällen von Kunden. Ein Workflow zeigt nur die beste Möglichkeit, das Ziel zu erreichen.</block>
   <block id="de2149b178d59ac3e76c6bf02f61f3c7" category="doc">AsciiDoc Referenz</block>
   <block id="6eb1807d4fa2bdda156d7a90de391552" category="paragraph">AsciiDoc ist eine leichte Markup-Sprache, ähnlich wie Markdown. Wir entschieden uns für AsciiDoc gegenüber Standard Markdown, weil es mehr Out-of-Box-Funktionen bietet. Zwar ist es noch leistungsstärker, aber dennoch einfach zu bedienen. Lesen Sie die folgenden Abschnitte, um in AsciiDoc zu schreiben.</block>
   <block id="f9ad3e2b82cfd8da0b3369fed741706c" category="inline-link">AsciiDoctor Benutzerhandbuch</block>
@@ -460,27 +357,14 @@
   <block id="fc6c6e20ee1801385613951d198838c6" category="paragraph">Sie können den Status der Pull-Anfrage anzeigen, indem Sie *Pull Requests* aus dem GitHub-Banner auswählen:</block>
   <block id="a0bc5d64ea914c22438ad9b10a8d2bca" category="paragraph">Schreiben Sie, wie Sie sprechen, wenn Sie einem professionellen Kollegen etwas erklären. Schreiben in einem Gesprächston hilft Ihnen, mit Ihrem Publikum zu verbinden.</block>
   <block id="3564fc274e19607926c43722a0d4037c" category="cell">Es macht keinen Spaß, wenn Ausfälle auftreten. Machen Sie sich keine Sorgen, schauen Sie sich einfach das Cluster Dashboard an, um zu sehen, was passiert ist und was davon betroffen ist.</block>
-  <block id="42638156b2d0e0647061b81fe0d27503" category="cell">Wenn ein Fehler auftritt, zeigt Cloud Tiering im Cluster Dashboard den Integritätsstatus „Fehlgeschlagen“ an. Zeigen Sie den Status an, um Informationen über den Fehler zu erhalten.</block>
-  <block id="4ddc5daa3f6952d24c7f1e44afc7da05" category="cell">Wir haben drei Möglichkeiten, wie Sie für Cloud Tiering bezahlen können. Natürlich ein Pay-as-you-go-Abonnement, aber auch eine ONTAP Tiering-Lizenz oder sogar eine Kombination von beiden. Aber Sie können keine Lizenzierung von Cloud Manager erhalten, so gehen Sie einfach direkt zu Cloud Tiering Service, um es einzurichten.</block>
-  <block id="bd99dd6ef2e014ae56a7f23c577742dc" category="cell">Sie bezahlen für Cloud Tiering über ein Pay-as-you-go-Abonnement, eine ONTAP Tiering-Lizenz oder eine Kombination aus beidem. Lizenzierung ist nicht über Cloud Manager verfügbar, Sie können die Lizenzierung direkt über den Cloud Tiering Service einrichten.</block>
-  <block id="c972f122e78507c540f344a4e61ce1c7" category="cell">Sie haben zwei Möglichkeiten, die Wellness-Attribute Ihres Systems zu analysieren: Wählen Sie einfach das Wellness-Attribut-Widget auf dem Dashboard aus. Wenn Sie die gesamte Liste der Wellness-Attribute in einer Ansicht sehen möchten, wählen Sie Alle anzeigen.</block>
   <block id="419e062b0a0e2775c1a54691ccef8b1b" category="paragraph">Vermeiden Sie große und verwirrende Worte. Einfach Sie erklären einem professionellen Kollegen etwas, ohne Ihr Vokabular zu zeigen.</block>
   <block id="5d943fe7d088fe2acb6eb914be0e07b9" category="paragraph">Kurze, einfache Sätze erleichtern das Lesen oder Scannen von Inhalten. Es ist in Ordnung, ab und zu einen längeren Satz zu verwenden, aber folgen Sie ihm mit einem kürzeren. So.</block>
   <block id="34adf8b022c7b72afa623dd7ec748764" category="paragraph">Die Vermeidung passiver Stimme ist eine Standardregel für das technische Schreiben, aber es ist besonders wichtig, aktive Stimme zu verwenden, wenn Sie konversationell klingen möchten.</block>
-  <block id="337aec4bab6bfffa105b941993954ccd" category="paragraph">Beginnen Sie mit dem, was für den Benutzer wichtig ist. Finden Sie heraus, was der Benutzer zu tun versucht, und konzentrieren Sie sich darauf, ihm dabei zu helfen, dieses Ziel zu erreichen.</block>
-  <block id="87a0e0ee70915382c17e655bd3ffa9dd" category="paragraph">Wenn Sie beschreiben, wie eine Reihe von Aufgaben ausgeführt wird, legen Sie alles auf einer Seite in einer Reihe von Abschnitten ab, einschließlich konzeptioneller und referenzbasierter Informationen. Teilen Sie Ihre Seite nicht in mehrere Miniseiten auf – das erfordert zu viel Klicken. Erstellen Sie gleichzeitig keine langen, einschüchternden Seiten. Verwenden Sie nach bestem Ermessen, um zu entscheiden, wann eine Seite zu lang ist.</block>
-  <block id="72a758f7515c20caaea0a45f816c6112" category="section-title">Organisieren Sie Inhalte rund um das Ziel des Benutzers</block>
   <block id="05a5f50f88982e6ed8b6a3f52aeebdf2" category="list-text">Verwenden Sie weder Humor noch Ironie.</block>
   <block id="8af7fc9385a3720c928df0ca6e942892" category="list-text">Verwenden Sie keine diskriminierenden Inhalte.</block>
   <block id="ca82ee793e3056ec4d0835ae2473a598" category="list-text">Verwenden Sie keine geschlechtsbezogene Sprache, es sei denn, Sie schreiben für eine bestimmte Persona.</block>
   <block id="2d26cccc873ac9d1cdacdf8bb797d5db" category="list-text">Sie wissen nicht, wer oder was die Aktion durchgeführt hat.</block>
   <block id="5f5cba4ea52fa838a05e1f2d89ad6656" category="list-text">Sie können sich nicht umschreiben, z. B. für einige Informationen zu den Voraussetzungen.</block>
-  <block id="2abbe335946d2b00acf396cf266f79e5" category="paragraph">VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie HINWEISE für „Nice to Know“-Informationen, die für Benutzer nicht erforderlich sind, um sich über die Aufgabe zu informieren oder die Aufgabe abzuschließen.</block>
-  <block id="ba499125a72ffd5b8b1e00177f718b36" category="list-text">Verwenden Sie nicht „auch“, um „alternativ“ zu bedeuten.</block>
-  <block id="f4023bffe0a0ebb018f9db72a2d2a6d7" category="paragraph">Verwenden Sie nicht „As“, um „weil“ zu bedeuten.</block>
-  <block id="22fa855460a1fecec0585fd7a19bc5e7" category="list-text">Verwenden Sie „may“ nicht, was zweideutig ist, da es entweder Fähigkeit oder Erlaubnis bedeuten könnte.</block>
-  <block id="3af0e91d720edbe50472dc244089ac4d" category="list-text">Vermeiden Sie es, „muss“ zu verwenden, da es passiv ist. Überlegen Sie, den Gedanken als eine Anweisung mit zwingender Stimme zu rerestieren. Wenn Sie „muss“ verwenden, zeigen Sie mit ihr eine erforderliche Aktion oder Bedingung an.</block>
-  <block id="e9582246b9c9dc3ba33ceb6cefb5ef42" category="paragraph">„Schreiben Sie, wie Sie sprechen, wenn Sie einem professionellen Kollegen etwas erklären“ bedeutet für jeden etwas anderes. Unser professioneller Gesprächsstil hilft uns mit den Nutzern zu verbinden – und erhöht die Häufigkeit kleinerer Inkonsistenzen bei mehreren Autoren:</block>
   <block id="945c6682875eec566264ce79cbd2ad0d" category="list-text">Konzentrieren Sie sich darauf, den Inhalt klar und einfach zu gestalten. Wenn der gesamte Inhalt klar und einfach zu bedienen ist, sind kleinere Unstimmigkeiten nicht von Bedeutung.</block>
   <block id="e298d7e5e24682a3c8bdbb35a4fe032b" category="list-text">Seien Sie innerhalb der Seite, die Sie schreiben, konsistent.</block>
   <block id="5759b7c5715d057d5710c3f672f2fa6b" category="cell">Das sind sie nicht</block>
@@ -491,29 +375,203 @@
   <block id="368ae8075df4c346356ccb30d7017e0f" category="cell">Das sollte nicht sein</block>
   <block id="f53d2e2b9d5955df6129edc300678d0e" category="cell">Das könnte ich Ihnen sagen</block>
   <block id="4f6cd60d5fc734e269d47ea283663717" category="cell">Hätte nicht sein können</block>
-  <block id="735bfdc7bbc42ed734cb31f537471349" category="paragraph">Verwenden Sie „falls nicht“ nicht allein, um auf den vorherigen Satz zu verweisen:</block>
-  <block id="2bbd53c30d55211887b496ed8d655501" category="paragraph">Für IP-Adressen (einschließlich IPv6) in Beispielen ist es sicher, jede Adresse, die mit „10.x“ beginnt, einzuschließen.</block>
-  <block id="d921ee7449d1cc46bad312a669fc1dfc" category="paragraph">Beziehen Sie sich nicht auf den Zeitpunkt oder den Inhalt der kommenden Produktveröffentlichungen oder -Funktionen, außer zu sagen, dass eine Funktion oder Funktion „derzeit nicht unterstützt“ wird.</block>
   <block id="a2aa669690daf70aa345dc242196842e" category="list-text">Wenn es sich bei allen Listeneinträgen um Satzfragmente handelt, sollten Sie diese nicht mit Punkten beenden.</block>
-  <block id="25cbf556f141e0456fc4754e98765063" category="list-text">Wenn Sie „vorher“ nicht verwenden können, verwenden Sie „vorher“ als Adjektiv, um auf etwas zu verweisen, das früher in der Zeit oder in einer höheren Reihenfolge aufgetreten ist.</block>
-  <block id="9bc4b7e8f51eb64e4d558ca5a59a7ddc" category="paragraph">Verwenden Sie „seit“, um einen Zeitabgang anzuzeigen. Verwenden Sie „Da“ nicht, um „weil“ zu bedeuten.</block>
   <block id="ab9b9e78a26798d3eaa0db4706f384d3" category="paragraph">In den meisten technischen Inhalten enthalten wir keine Markensymbole, da die rechtlichen Aussagen in unseren Vorlagen ausreichend sind. Bei der Verwendung befolgen wir jedoch sämtliche Nutzungsregeln<block ref="2e2a247b84825e1844201424214689d3" category="inline-link-rx"></block>:</block>
   <block id="ff559a115ec6086ff7a0014b09a7628a" category="list-text">Verwenden Sie keine Abkürzungen, Silbentrennung oder Kursivierung von Markenbegriffen.</block>
   <block id="10705c28baf7efc3b2835cbefb6f4e3a" category="list-text">Verwenden Sie keine pluralisierenden Markenbegriffe. Wenn ein Plural-Formular erforderlich ist, verwenden Sie den geschützten Namen als Adjektiv, das ein Plural-Substantiv ändert.</block>
   <block id="760515d763f215ba568e0df111ef068c" category="list-text">Verwenden Sie keine besitzergreifende Form eines markengeschützten Begriffs. Sie können die Possessive Form von Firmennamen wie NetApp verwenden, wenn die Namen im allgemeinen Sinne verwendet werden, anstatt als geschützte Begriffe.</block>
   <block id="aaa67196f34f17bf807576a3879d2ae0" category="list-text">Führen Sie den Benutzer nicht Schritt für Schritt durch einen Assistenten oder einen Bildschirm. Nennen Sie nur wichtige Dinge, die von der Oberfläche nicht ersichtlich sind.</block>
-  <block id="38833712b2d186bf03b201fea01c856b" category="list-text">Fügen Sie nicht „Klicken Sie auf OK“, „Klicken Sie auf Speichern“ oder „das Volume wird erstellt“ oder irgendetwas anderes, das offensichtlich für jemanden ist, der diese Aufgabe erledigt.</block>
-  <block id="20fa4a924392561a86abe95d269610bd" category="list-text">Verwenden Sie gar keinen „Klick“. Verwenden Sie immer „Select“, weil das Wort Maus, Berührung, Tastatur und jede andere Art der Wahl umfasst.</block>
-  <block id="bd62ac2d873965d23f9623cfb0176399" category="paragraph">Vermeiden Sie das Dokumentieren des Granularitätsniveaus, der UI-Elemente erfordert. Verlassen Sie sich auf die Schnittstelle, um den Benutzer durch die Besonderheiten der Interaktion zu führen. Wenn Sie diese spezifische Version erhalten müssen, benennen Sie die Bezeichnung auf dem Element. Beispiel: „Wählen Sie das gewünschte Volume aus“ oder „Wählen ‘vorhandenes Volume verwenden“. Es ist nicht notwendig, Menüs oder Optionsfelder oder Kontrollkästchen zu benennen, verwenden Sie einfach die Bezeichnung.</block>
   <block id="bf9c7e854a6c302d5349d2128c75933d" category="paragraph">Verwenden Sie für Symbole, die Benutzer auswählen müssen, ein Bild des Symbols. Versuchen Sie nicht, es zu benennen. Diese Regel gilt für Symbole wie Pfeil, Bleistift, Getriebe, Kabob, Hamburger, Und so weiter.</block>
-  <block id="3d053f543ceb20e8d9a54ccac1275a6f" category="paragraph">Eine gelegentliche Bildschirmaufnahme („Screenshot“) hilft Benutzern, sich darauf zu verlassen, dass sie sich beim Starten oder Ändern von Schnittstellen während eines Workflows an der richtigen Stelle in einer Schnittstelle befinden. Verwenden Sie keine Bildschirmaufnahmen, um zu zeigen, welche Daten eingegeben werden sollen oder welcher Wert ausgewählt werden soll.</block>
   <block id="aa475deb1febd97e43051f4cd6e0e03c" category="paragraph">Das folgende Video gibt einen kurzen Überblick über diese beiden Optionen.</block>
   <block id="d2a6bdb03847dd26c195e27066ccdb58" category="paragraph">Eine neue Browser-Registerkarte wird mit einem GitHub-Formular geöffnet, über das Sie Details an unser Doc-Team übermitteln können.</block>
   <block id="60a186f1a1bf3949fd214cb8c41bc66f" category="paragraph">Eine neue Browser-Registerkarte wird geöffnet und führt Sie zu der Datei im GitHub-Repository für die Dokumentations-Site.</block>
   <block id="864a308d9063db9563fd2862dc533628" category="list-text">Senden Sie keine vertraulichen Dokumente oder neu geschriebene Inhalte an KI (ChatGPT oder andere Tools). Alle Informationen, die in ChatGPT eingespeist werden, werden Teil des Trainingsdatensatzes, der wiederum Eigentum von OpenAI wird und von ihnen und ihren Nutzern genutzt werden kann. Obwohl ein Großteil dieser Daten öffentlich zugänglich ist, wollen wir das Modell nicht auf unserem eigenen IP trainieren.</block>
-  <block id="733e053a02d21c4877d499d0fbb4c11d" category="list-text">Kann nicht</block>
-  <block id="19aac40a7d990d8b8aa21091fd07466d" category="list-title">Verwenden Sie diese Kontraktionen nicht, wenn eine Future Tense erforderlich ist:</block>
-  <block id="fc8b507a72b6956dbc043bfe0002b248" category="list-text">Wir</block>
-  <block id="b7a61cf5d29e4ad809c301c74229b078" category="list-text">Das ist nicht der Fall</block>
-  <block id="fa6c9d5de251d2da13b9f81db8da0ca6" category="list-text">Das werden Sie</block>
+  <block id="6001ad801f9374c95cd6e5159d3ca554" category="cell">Wenn Probleme mit BlueXP Tiering auftreten, können Sie im Cluster Dashboard den Integritätsstatus anzeigen und ermitteln, warum der Fehler aufgetreten ist. Der Systemzustand gibt den Status des ONTAP-Systems und des Servicesteckers wieder.</block>
+  <block id="3d13de22585f7c90feb3af32fb6255e3" category="cell">Wenn ein Fehler auftritt, zeigt BlueXP Tiering im Cluster Dashboard den Integritätsstatus „Fehlgeschlagen“ an. Zeigen Sie den Status an, um Informationen über den Fehler zu erhalten.</block>
+  <block id="4aceae741b6dd0da0c4af2d6f9999125" category="cell">Bevor Sie Storage bereitstellen können, müssen Sie Ihr ONTAP-Cluster aus BlueXP erkennen. Nach Abschluss der Bestandsaufnahme müssen Sie die Arbeitsumgebung öffnen, um Storage bereitzustellen.</block>
+  <block id="a359d239071c811073a8090adc7d2869" category="cell">Zunächst müssen Sie nur Ihr ONTAP Cluster aus BlueXP erkennen und dann die Arbeitsumgebung öffnen, um mit der Storage-Bereitstellung zu beginnen. Ganz Einfach!</block>
+  <block id="72b0a15f6dc7f75a391b8f2deb80eada" category="cell">Nachdem Sie das ONTAP Cluster aus BlueXP erkannt haben, öffnen Sie die Arbeitsumgebung für die Bereitstellung von Storage.</block>
+  <block id="eeb97b72bcb04cbd8d8e08ff9fd0ab1e" category="section-title">Verwenden Sie Kontraktionen</block>
+  <block id="dcb43d00e586f1a5b0a455d4c42911a3" category="inline-xref">Gesprächston</block>
+  <block id="aed4cc72dbafe70c1659fca7aaf48fc5" category="paragraph">Kontraktionen verstärken A <block ref="e5dc0ddf6053ca851efc9fc29efec6f8" category="inline-xref-macro-rx"></block>, Und viele Kontraktionen sind leicht zu verstehen und zu übersetzen.</block>
+  <block id="22a9cd16fbcd63280c29272ce4f6f4f4" category="example-title">Erweitern, um mehr zu erfahren</block>
+  <block id="4e8f541c93e50f21ff3ed4936a4d83b2" category="list-text">Verwenden Sie Kontraktionen wie diese, die leicht zu verstehen und zu übersetzen sind:</block>
+  <block id="284097c621ee43e2ed3a2212d29102f5" category="cell">Wir werden (wenn die Zukunft angespannt ist)</block>
+  <block id="3c2bb9e95fa5b8a7d4e0a0d41ad5b86f" category="cell">Wird nicht (wenn eine zukünftige Spannung erforderlich ist)</block>
+  <block id="a4b1e16e36a349a9247d2137cac483f8" category="cell">Sie werden (wenn eine ZukunftspInfrastruktur erforderlich ist)</block>
+  <block id="82dad67d8806110a136a6a9600650fb6" category="paragraph">**Anstatt dies**: "Distanzieren Sie den Benutzer von Ihrem NetApp Cloud Central-Konto."</block>
+  <block id="6a33be9f6f0a79bf8672d096460da953" category="paragraph">**Do this**: "Entfernen Sie den Benutzer aus Ihrem NetApp Cloud Central-Konto."</block>
+  <block id="d03e3b3315dec359ee190696d4c8fea4" category="paragraph">**Anstatt dies**: "Um Daten zwischen einem Cloud Volumes ONTAP-System in AWS und ONTAP-Systemen in anderen Netzwerken zu replizieren, müssen Sie über eine VPN-Verbindung zwischen der Amazon VPC und dem anderen Netzwerk verfügen, zum Beispiel einem Azure vnet oder Ihrem Firmennetzwerk."</block>
+  <block id="fb9660af12bf79398c26a55f35753c8c" category="paragraph">**Do this**: "Die Datenreplikation zwischen Netzwerken erfordert eine Verbindung über ein VPN. Beispielsweise zwischen Ihrer Amazon VPC und Ihrem Unternehmensnetzwerk oder zwischen AWS und Azure.“</block>
+  <block id="5b72a9011d8b03de8f68b8e22728980e" category="paragraph">Stellen Sie sich folgende Fragen:</block>
+  <block id="0acb624cdc21050020228a5c1b2d0e12" category="list-text">Führt die Benutzeroberfläche den Anwender bereits gut genug? Falls nicht, welche zusätzliche Anleitung kann kurz und bündig hinzugefügt werden?</block>
+  <block id="f5c4358a30b11e4d51f1b70da59a1e4f" category="section-title">Aktive Stimme</block>
+  <block id="94f4580af34642dca5602d20328864c6" category="paragraph">Verwenden Sie aktive Stimme, damit der Gegenstand des Satzes die Aktion des Verbs ausführt. Dies bedeutet in der Regel, dass das Verb dem Thema des Satzes folgt. Aktive Stimme hält das Schreiben scharf und klar. Verwenden Sie aktive Stimme und sprechen Sie Benutzer direkt als „Sie“ an, es sei denn, Sie haben einen bestimmten Grund, passive Stimme zu verwenden.</block>
+  <block id="05726c0b25584edfbbeb54bbd42743a4" category="paragraph">Hier sind einige Beispiele für gute aktive Stimme schreiben. So schreiben:</block>
+  <block id="641eb1e93e5d30befeffc406c18468f0" category="list-text">Geben Sie die erforderlichen Berechtigungen an, bevor Sie das erste Cluster bereitstellen.</block>
+  <block id="3f005421948d646b44ec122316154b68" category="list-text">Wenn Sie das System nicht ordnungsgemäß herunterfahren, zeigt die Schnittstelle eine Warnmeldung an.</block>
+  <block id="1a303c5f4eed3b77a97d8862ea467f56" category="section-title">Passive Stimme</block>
+  <block id="a652699ef60f4419b461c63059111c2c" category="section-title">Grundstimmung</block>
+  <block id="4ae2240fd55c51892cf9aeb3660b592d" category="paragraph">Verwenden Sie die Grundstimmung für Schritte, Anweisungen, Anforderungen und Überschriften für Listen von Benutzeraktionen:</block>
+  <block id="73cfa7195e4bda4f2eb88c5590b1c78a" category="list-text">„Klicken Sie auf der Seite Arbeitsumgebungen auf ermitteln, und wählen Sie ONTAP-Cluster aus.“</block>
+  <block id="62adb2c93dd55a3ad3d8889df0be24b3" category="list-text">„Drehen Sie den Nockengriff so, dass er bündig an der Stromversorgung anliegt.“</block>
+  <block id="3a698e7c782f0bc63fada32b2af47ac7" category="paragraph">**Anstatt dies**: "Die erforderlichen Berechtigungen müssen vor der Bereitstellung des ersten Clusters gegeben werden."</block>
+  <block id="c1b2c901a32fc9ec6b28212940de0c42" category="paragraph">**Do this**: "Geben Sie die erforderlichen Berechtigungen, bevor Sie Ihren ersten Cluster bereitstellen."</block>
+  <block id="1acf3eec4bf44f260077b611735cda38" category="section-title">Schreiben Sie konsistente Inhalte</block>
+  <block id="dbcb6b42cd14c232d7ba50d192e5a676" category="paragraph">„Schreiben Sie, wie Sie sprechen, wenn Sie einem professionellen Kollegen etwas erklären“ bedeutet für jeden etwas anderes. Unser professioneller, aber konversationeller Stil hilft uns, uns mit Benutzern in Verbindung zu bringen und erhöht die Häufigkeit kleinerer Inkonsistenzen zwischen mehreren Autoren:</block>
+  <block id="9d3ffae4c41a85389531314f29cbb6fc" category="paragraph">Verwenden Sie die Menschen-erste Sprache, in der wir zuerst auf die Person, gefolgt von der Behinderung beziehen.</block>
+  <block id="f40469276f47411b50d930362b052a73" category="paragraph">Benutzt nicht er, ihn, seine, sie, sie, sie, oder in allgemeinen Referenzen. Stattdessen:</block>
+  <block id="5ff4845e38d566597471f0c55b3c56b4" category="list-text">Schreiben Sie den Satz um, um die zweite Person (Sie) zu verwenden.</block>
+  <block id="3b7382d0392195ff5c72babf13c5cf26" category="list-text">Schreiben Sie den Satz neu, um ein PluralSubstantiv und Pronomen zu haben.</block>
+  <block id="7debda40c8efdcb08c862026722356d0" category="list-text">Verwenden Sie anstelle eines Pronomen „das“ oder „A“ (z. B. „das Dokument“).</block>
+  <block id="5f4ea7f4d410f288d581eb32bcc82714" category="list-text">Beziehen Sie sich auf die Rolle einer Person (z. B. Leser, Mitarbeiter, Kunde oder Kunde).</block>
+  <block id="1e19c25122029513475dcaf5c704fe75" category="list-text">Verwenden Sie den Begriff „Person“ oder „Einzelperson“.</block>
+  <block id="456eaa81df236414c4dd5c77f177c4ad" category="paragraph">*Beispiele für Wörter und Sätze, die als inklusiv oder exklusiv gelten*</block>
+  <block id="80f338cfee2680507ee19b3229199a35" category="cell">Inklusive Beispiele</block>
+  <block id="5d00480bffe867508198b6b890ebccdb" category="cell">Exklusive Beispiele</block>
+  <block id="b750282d4f8d85fff2417b2aa976154d" category="cell">Primär/sekundär</block>
+  <block id="62f583432cdb74cef18f62e64b49e3d5" category="cell">Master/Slave</block>
+  <block id="c7157221c998aef6193793b125d2da94" category="cell">Liste zulässig</block>
+  <block id="778f0a4cbdc7e22f17964daa6ebee02a" category="cell">Whitelist</block>
+  <block id="00452d60508111f10d9c8db7e0b3d947" category="cell">Blockierte Liste</block>
+  <block id="85fffe8f5074d606fa202fa5ae90d8bb" category="cell">Schwarze Liste</block>
+  <block id="11a755d598c0c417f9a36758c3da7481" category="cell">Hör Auf</block>
+  <block id="292ed5e525d66c64f13a3bf54a17c06a" category="cell">Töten</block>
+  <block id="689b1be69fae5828e6c823a30a18abfe" category="cell">Reagiert nicht mehr</block>
+  <block id="ab2455e33b8ddb6a9d2d41107a2ed4f6" category="cell">Bitte Bleiben Sie Dran</block>
+  <block id="bf82d72fec9844cf01ba4336fc5f8581" category="cell">Ende oder Abbrechen</block>
+  <block id="727b63583e01fa2b3952dab580c84dc2" category="cell">Abbrechen</block>
+  <block id="85921137ab0e8ba55b5a95ab295eba9a" category="cell">Personstunde</block>
+  <block id="26eecafda11f3c1376eb5128760a1dfd" category="cell">Arbeitsstunde</block>
+  <block id="debbc9acb80d94bb6e3d641aec77c5bd" category="cell">Entwickler benötigen Zugriff auf die Server in ihrer Entwicklungsumgebung, benötigen aber keinen Zugriff auf die Server in Azure.</block>
+  <block id="9e172cc5e7bee49d581c45bcd2da3976" category="cell">Ein Entwickler benötigt Zugriff auf die Server in seiner Entwicklungsumgebung, benötigt aber keinen Zugriff auf die Server in Azure.</block>
+  <block id="4376869978c1dabbd66bba6af23f9b40" category="cell">Person, die blind ist</block>
+  <block id="8981aeed5f3f47d00b8b8c84caf07b30" category="cell">Sehbeeinträchtigung</block>
+  <block id="a975729e202349117c6c1f43f8d0f45b" category="cell">Person mit niedrigem Sehvermögen</block>
+  <block id="3bd892e6666bfd00ac5f39832e9776c7" category="cell">Sehbeeinträchtigung</block>
+  <block id="9082d6a2f8de143afa954fe0c4cf6945" category="paragraph">Jede Seite sollte mit dem beginnen, was für den Benutzer am wichtigsten ist. Wir müssen herausfinden, was der Benutzer zu tun versucht, und uns darauf konzentrieren, ihm dabei zu helfen, dieses Ziel zu erreichen. Wir sollten auch Schlüsselwörter am Anfang des Satzes hinzufügen, um die Scanfähigkeit zu verbessern.</block>
+  <block id="8c29cb528c9acdb9c999cb34aee5b7e9" category="paragraph">Befolgen Sie die folgenden allgemeinen Satzrichtlinien:</block>
+  <block id="d5f2fccfddda581beb53a2459722b9b6" category="list-text">Seien Sie präzise.</block>
+  <block id="541dbc00c41c24cf98300f33bd67cd32" category="list-text">Vermeiden Sie Füllwörter.</block>
+  <block id="d98ae29b67b990f903f5bb2f40097624" category="list-text">Sei kurz.</block>
+  <block id="e67a5e22d1a07b7e8eabbc9f49ecb5f6" category="list-text">Verwenden Sie formatierten Text oder Aufzählungslisten, um wichtige Punkte hervorzuheben.</block>
+  <block id="dceb6717054666676ad0df601a567926" category="paragraph">*Beispiele für den Weg zum Punkt*</block>
+  <block id="7a55da0ef1d91f39c5ff520e50c0b66d" category="cell">Gute Beispiele</block>
+  <block id="4a8f14c4a239ddaa4ad56f019d8b630c" category="cell">Schlechte Beispiele</block>
+  <block id="cca610b37e5c92d570af0565fb168d75" category="cell">Wenn Ihr Unternehmen über strenge Sicherheitsrichtlinien verfügt, verwenden Sie die Verschlüsselung von Daten während der Übertragung, um Daten zwischen NFS-Servern in unterschiedlichen Netzwerken zu synchronisieren.</block>
+  <block id="984d4c6b2ffa73254b0fd5fde862ae55" category="cell">Cloud Sync kann Daten mithilfe der Verschlüsselung der aktiven Daten von einem NFS-Server auf einen anderen NFS-Server synchronisieren. Die Verschlüsselung der Daten kann bei strengen Sicherheitsrichtlinien für die Übertragung von Daten über Netzwerke hilfreich sein.</block>
+  <block id="7f4b4a408e18cd38029cc949851f32ef" category="cell">Sparen Sie Zeit, indem Sie eine Dokumentvorlage erstellen, die die Formate, Formate und Seitenlayouts enthält, die Sie am häufigsten verwenden. Verwenden Sie dann die Vorlage, wenn Sie ein neues Dokument erstellen.</block>
+  <block id="91a8e43b996744967bcbdeeeae9903f2" category="cell">Vorlagen bieten einen Ausgangspunkt für die Erstellung neuer Dokumente. Eine Vorlage kann die Formate, Formate und Seitenlayouts enthalten, die Sie häufig verwenden. Wenn Sie häufig dasselbe Seitenlayout und dieselbe Formatvorlage für Dokumente verwenden, sollten Sie eine Vorlage erstellen.</block>
+  <block id="2015850df67c84dacc3aded964cb89e7" category="cell">Astra Control bietet drei Betriebsmodi, die Ihren Benutzern zugewiesen werden können, um den Zugriff zwischen Astra Control und Ihrer Cloud-Umgebung sorgfältig zu kontrollieren.</block>
+  <block id="89f398ff00a32f170adf2b0fc2218064" category="cell">Astra Control ermöglicht es Ihnen, einen von drei Betriebsmodi für Benutzer in Ihren AWS Konten zuzuweisen. Sie können den Zugriff zwischen Astra Control und Ihrem Cloud-Bestand anhand Ihrer IT-Richtlinien sorgfältig steuern.</block>
+  <block id="1864c222f58633821b22c7218a8549db" category="paragraph">Die meisten Menschen sind visuelle Lernende. Verwenden Sie Videos, Diagramme und Screenshots, um das Lernen zu verbessern, Textblöcke aufzubrechen und Benutzern einen visuellen Hinweis darauf zu geben, wo sie sich in den Aufgabenanweisungen befinden.</block>
+  <block id="51ef9ea48493941bc576dd6d603525a6" category="list-text">Fügen Sie einen Einleitungssatz ein, der das folgende Bild beschreibt: „Die folgende Abbildung zeigt die NetzteilLEDs auf der Rückseite.“</block>
+  <block id="4347bfb9354591c0efb77ea5675a9917" category="list-text">Beziehen Sie sich auf die Position der Abbildung als „folgt“ oder „vorausgehend“, nicht „oben“ oder „unten“.</block>
+  <block id="ab633aa0c21a92c34cac65602b26f6c2" category="list-text">Verwenden Sie alt-Text auf integrierten Grafikfunktionen.</block>
+  <block id="a6738e6aa310d5b98c7ca42b747b84c5" category="list-text">Wenn das visuelle einen Schritt betrifft, fügen Sie das visuelle direkt nach dem Schritt ein und eingerückt, um es an der Schrittnummer auszurichten.</block>
+  <block id="09615f545d6349275c0de10801b43fec" category="paragraph">Best Practices auf Screenshots:</block>
+  <block id="5a0431aaf7896c50656adc50e0906685" category="list-text">Fügen Sie nicht mehr als 5 Screenshots pro Aufgabe ein.</block>
+  <block id="ce7c67e7dcecd0f49b902ed57e692a2c" category="list-text">Fügen Sie keinen Text in einen Screenshot ein. Verwenden Sie stattdessen nummerierte Beschriftungen.</block>
+  <block id="e4a1c3066b57e220d58f713fba1ecd59" category="list-text">Seien Sie vernünftig mit den Screenshots, die Sie einschließen möchten. Screenshots können schnell veraltet sein.</block>
+  <block id="b6e33f8ec09a06fa6546129739b40a58" category="paragraph">Best Practices für Videos oder Animationen:</block>
+  <block id="d995b1f252e6594c2cc511b74f0db877" category="list-text">Videos sollten weniger als 5 Minuten lang sein.</block>
+  <block id="16087e77bb97f85e464276292accdc6f" category="inline-link">Beispiel #1 Erfahren Sie mehr über AWS Zugangsdaten und Berechtigungen</block>
+  <block id="4e301c300a2eac21077308b32d6701f2" category="list-text"><block ref="4e301c300a2eac21077308b32d6701f2" category="inline-link-rx"></block></block>
+  <block id="25e00dbf7007dccc0edce40a044c779f" category="inline-link">Beispiel #2 zum Schutz Ihrer ONTAP Volume-Daten mit BlueXP Backup und Recovery</block>
+  <block id="a0b3bbdf77af26ed1c7f5d247698d537" category="list-text"><block ref="a0b3bbdf77af26ed1c7f5d247698d537" category="inline-link-rx"></block></block>
+  <block id="25db87514589f0d1fda20a16eb47d9e3" category="inline-link">Beispiel #3 Erstellen eines Replikationsplans (zeigt Screenshots in einer Aufgabe)</block>
+  <block id="656f88bccb854bfe1dde64118314bc1f" category="list-text"><block ref="656f88bccb854bfe1dde64118314bc1f" category="inline-link-rx"></block></block>
+  <block id="05dca879cba3ee232764be79b43635cd" category="inline-link">Beispiel #4 Anmeldedaten in BlueXP Video managen</block>
+  <block id="fac3f782f8cfaef69bbf66d0ddc3eff9" category="list-text"><block ref="fac3f782f8cfaef69bbf66d0ddc3eff9" category="inline-link-rx"></block></block>
+  <block id="9d96cde19a8d0003c078bf6b180c53ba" category="paragraph">Erleichtern Sie Lesern das schnelle Auffinden von Inhalten, indem Sie Text unter Abschnittsüberschriften organisieren und Listen und Tabellen verwenden. Überschriften, Sätze und Absätze sollten kurz und leicht lesbar sein. Die wichtigsten Informationen sollten zuerst zur Verfügung gestellt werden.</block>
+  <block id="dcae47ba844f0d6d2a40917b4973f29b" category="list-text"><block ref="dcae47ba844f0d6d2a40917b4973f29b" category="inline-link-rx"></block></block>
+  <block id="1cb758c099dd7ebd99ee1aa7e2310d01" category="list-text"><block ref="1cb758c099dd7ebd99ee1aa7e2310d01" category="inline-link-rx"></block></block>
+  <block id="92cd82f697902b78aca5db471cd8c67b" category="section-title">Erstellen Sie Workflows, mit denen Benutzer ihre Ziele erreichen</block>
+  <block id="993fcd038b6183bc6e97ccc62f5f1abd" category="paragraph">Anwender lesen unsere Inhalte, um ein bestimmtes Ziel zu erreichen. Benutzer möchten die Inhalte finden, die sie benötigen, ihre Ziele erreichen und nach Hause zu ihren Familien gehen. Unsere Aufgabe ist es nicht, Produkte oder Funktionen zu dokumentieren. Unsere Aufgabe ist es, die Ziele der Benutzer zu dokumentieren. Workflows können Benutzer am direktesten beim Erreichen ihrer Ziele unterstützen.</block>
+  <block id="4f8439580cde85d7bf0bd20007ca537a" category="paragraph">Beispielsweise wären die Schritte zur Erstellung eines Volumes kein Workflow, da die Erstellung eines Volume an sich kein komplettes Ziel ist. Die Schritte, um Speicher einem ESX-Server zur Verfügung zu stellen, können ein Workflow sein. Zu den Schritten gehören nicht nur die Erstellung eines Volumes, sondern auch der Export des Volumes, die Einstellung aller erforderlichen Berechtigungen, die Erstellung einer Netzwerkschnittstelle usw.</block>
+  <block id="05e22cb91d07b3617eaef49d2b614040" category="paragraph">Workflows stammen aus Anwendungsfällen von Kunden. Ein Workflow zeigt nur die beste Möglichkeit, das Ziel zu erreichen.</block>
+  <block id="98bdfab35b28541738e294c787d2d326" category="section-title">Organisieren Sie Inhalte basierend auf dem Ziel des Benutzers</block>
+  <block id="ac8ea0814363a901ce108dc1061489b1" category="paragraph">Helfen Sie Benutzern, Informationen schnell zu finden, indem Sie Inhalte auf der Grundlage des Ziels organisieren, das der Benutzer erreichen möchte. Diese Norm gilt für das Inhaltsverzeichnis (Navigation) einer Dokumentations-Site sowie für die einzelnen Seiten, die auf der Website erscheinen.</block>
+  <block id="5178596f33051639e4edb27f4b7d9e26" category="paragraph">Organisieren Sie den Inhalt wie folgt:</block>
+  <block id="f05ce9ddbc589e513e72ad5ab78dcfa0" category="list-text">Organisieren Sie Inhalte, um die Ziele zu erreichen, die der Benutzer erreichen möchte. Beispielsweise könnte der erste Eintrag in der Navigation für die Website „erste Schritte“ oder „Daten schützen“ sein.</block>
+  <block id="c7ed614b9c8d85ef8360668f4e44930d" category="list-text">Die Einträge der zweiten Ebene in der Navigation der Dokumentations-Site (mittlere Ebene)</block>
+  <block id="c2b0b88a28e350016be32f2565ae2334" category="list-text">Organisieren Sie Inhalte rund um die umfassenden Aufgaben, die die Ziele bilden.</block>
+  <block id="0dfa5a4ae580d127570193f6547719f3" category="paragraph">Der Abschnitt „erste Schritte“ kann beispielsweise die folgenden Seiten umfassen:</block>
+  <block id="67f289221dc2b8315be57c85a28e0619" category="list-text">Installation vorbereiten</block>
+  <block id="53bd62bb5aae1139e8b0a414528697bc" category="list-text">Installieren und Einrichten von &lt;product name&gt;</block>
+  <block id="e907b41f5f3d7332bee5a43fbbf78a08" category="list-text">Lizenzierung einrichten</block>
+  <block id="d0a7edff5cd82c23f3d1c18e0779ccbc" category="list-text">Was Sie als Nächstes tun können</block>
+  <block id="fcc5f8a22c33b5532eade25555182fa6" category="list-text">Organisieren Sie auf jeder Seite den Inhalt um die einzelnen Aufgaben, aus denen sich die breit angelegten Aufgaben zusammensetzen. Zum Beispiel die Inhalte, die Benutzer für die Installation vorbereiten oder die Disaster Recovery einrichten müssen.</block>
+  <block id="847cfc3e08fb4a887f64577b54937889" category="paragraph">Eine Seite kann eine einzelne Aufgabe oder mehrere Aufgaben beschreiben. Wenn mehrere Aufgaben vorhanden sind, sollten sie in separaten Abschnitten auf der Seite beschrieben werden. Jeder Abschnitt sollte sich auf einen einzelnen Lern- oder Doing-Aspekt der breiten Aufgabe konzentrieren. Dazu können einige konzeptionelle und referenzbasierte Informationen gehören, die für die Durchführung der Aufgabe erforderlich sind.</block>
+  <block id="789479b6a331f03724677e1f733505d0" category="paragraph">Unsere Dokumentation wird von vielen Benutzern gelesen, deren primäre Sprache nicht Englisch ist. Wir übersetzen unsere Inhalte in andere Sprachen mit Hilfe von maschinellen Übersetzungstools oder menschlicher Übersetzung. Um unsere globale Zielgruppe zu unterstützen, schreiben wir leicht lesbare und leicht zu übersetzende Inhalte.</block>
+  <block id="955abac4e6854335582815280aaf36b4" category="paragraph">Befolgen Sie diese Richtlinien, um für eine globale Zielgruppe zu schreiben:</block>
+  <block id="09fe3985f91385714baf11e8ccf88305" category="section-title">Aktive Stimme (im Vergleich zu passiver Stimme)</block>
+  <block id="9f9f2635eab2378cac8b309f14376108" category="paragraph">Siehe <block ref="0c285b154ac93c1540ae9e5281017dec" category="inline-xref-macro-rx"></block>.</block>
+  <block id="9a7a2c05bfc68a16b33bc5aeb9281db6" category="paragraph">VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie die Verwendung von NOTIZEN für Informationen, die für Benutzer nicht erforderlich sind, um sich über die Aufgabe zu informieren oder die Aufgabe abzuschließen.</block>
+  <block id="6647a0d8ddca3a32764030eaa8d33eaf" category="section-title">Nach (im Vergleich zu „einmal“)</block>
+  <block id="dbb3ad88bf35c794d6f4916649c3a5f9" category="list-text">Verwenden Sie "nach", um eine Chronologie anzuzeigen: "Schalten Sie Ihren Computer ein, nachdem Sie ihn angeschlossen haben."</block>
+  <block id="c2173ab81c2076af318b1e50b4c92d38" category="list-text">Verwenden Sie „einmalig“, um „einmalig“ zu bedeuten.</block>
+  <block id="8208198b3f48adf43fc4f69bd282936d" category="list-text">Verwenden Sie nicht „auch“, um „alternativ“ zu bedeuten.</block>
+  <block id="ea84c9cf2753148ded71d53a83400571" category="paragraph">Wählen Sie den präziseren Begriff aus, wenn es einen gibt. Wenn keiner der beiden Begriffe präziser ist als der andere, verwenden Sie „und/oder“.</block>
+  <block id="ba8c59349702c086e7df3ebe3ea4277e" category="paragraph">Verwenden Sie „As“ nicht, um „weil“ zu bedeuten.</block>
+  <block id="637ae8221997308dd8fcc110e2e5e27f" category="section-title">Mit (im Gegensatz zu „mit“ oder „mit“)</block>
+  <block id="8dee1cec1a6e9725cc1fcf446045983f" category="list-text">Verwenden Sie "by using", wenn die Entität, die die Verwendung macht, der Betreff ist: "Sie können neue Komponenten zum Repository hinzufügen, indem Sie das Komponenten-Menü verwenden."</block>
+  <block id="dbd86f25365feb9a486d0f31a5a0dfab" category="list-text">Sie können einen Satz entweder mit „Verwenden“ oder „mit“ beginnen, was bei Produktnamen manchmal akzeptabel ist: „Mit SnapDrive können Sie virtuelle Festplatten und Snapshot-Kopien in einer Windows-Umgebung verwalten.“</block>
+  <block id="f8ba8b49b8c4978a384020d13afd11f2" category="section-title">Can (versus „könnte“, „darf“, „sollte“ oder „muss“)</block>
+  <block id="4b4a3499f36083e10cb9d086cd9eb415" category="list-text">Verwenden Sie "CAN", um die Fähigkeit anzuzeigen: "Sie können Ihre Änderungen jederzeit während dieses Verfahrens festlegen."</block>
+  <block id="2ee145f807ac8dfcf172a52c952ba48b" category="list-text">Verwenden Sie „Might“, um die Möglichkeit anzuzeigen: „Das Herunterladen mehrerer Programme kann sich auf die Verarbeitungszeit auswirken.“</block>
+  <block id="88fb0be320034bd283425d99592c0b2a" category="list-text">Verwenden Sie „may“ nicht, was zweideutig ist, da es entweder Fähigkeit oder Erlaubnis bedeuten könnte.</block>
+  <block id="a2cef3d007a6cf67bffcd8a1119a1ee8" category="list-text">Verwenden Sie „sollte“, um eine empfohlene, aber optionale Aktion anzuzeigen. Ziehen Sie stattdessen eine alternative Phrase in Betracht, z. B. „Wir empfehlen“.</block>
+  <block id="831996cebc6c9bf7687e922c3437be69" category="inline-xref">Passiv</block>
+  <block id="c4dc5ac1800b6f6c71705d2383606ca1" category="list-text">Vermeiden Sie es, "muss" zu verwenden, weil es ist <block ref="67063d8c0eb567d1f8340ca4c020375f" category="inline-xref-macro-rx"></block>. Überlegen Sie, den Gedanken als eine Anweisung mit zwingender Stimme zu rerestieren. Wenn Sie „Must“ verwenden, können Sie damit eine erforderliche Aktion oder Bedingung angeben.</block>
+  <block id="757e3dc7acca7a7f9b54d3c4f0d5c504" category="section-title">Warnhinweise</block>
+  <block id="c1b968c395ac7490714efb8fd0a63007" category="paragraph">Siehe <block ref="8b099210f8d5e10883a9054cab340bdd" category="inline-xref-macro-rx"></block>.</block>
+  <block id="00eb1a63407a4e68c59607bea7412054" category="paragraph">Nutzung <block ref="171d7b9bec085f3a21cae919f826841f" category="inline-xref-macro-rx"></block> Als Teil des Schreibens im Gespräch.</block>
+  <block id="8ef442456d62d61063c596f5dc44927c" category="section-title">Sicherstellen (im Gegensatz zu „bestätigen“ oder „überprüfen“)</block>
+  <block id="9aeb76015c15a0d23324929c5980901e" category="list-text">Verwenden Sie „Sicherstellen“, um „um sicher zu sein“. Fügen Sie gegebenenfalls „das“ hinzu: „Stellen Sie sicher, dass genügend Freiraum um die Abbildungen herum vorhanden ist.“</block>
+  <block id="c9d8607fa16c3a714c0c2f8559ab65e4" category="list-text">Verwenden Sie niemals „Sicherstellen“, um ein Versprechen oder eine Garantie einzulegen: „Verwenden Sie Cloud Manager, um sicherzustellen, dass Sie NFS und CIFS Volumes auf ONTAP Clustern bereitstellen können.“</block>
+  <block id="ea3427d6c6f74deb8784719dca08ebab" category="list-text">Verwenden Sie „confirm“ oder „verify“, wenn Sie meinen, dass der Benutzer etwas überprüfen sollte, das bereits existiert oder bereits geschehen ist: „Verifizieren Sie, dass NFS auf dem Cluster eingerichtet ist.“</block>
+  <block id="f662ce9a504b91d302ba6eeeb8d4171e" category="paragraph">Siehe <block ref="9a0e14fb1289de2d3cff01148f57284f" category="inline-xref-macro-rx"></block>.</block>
+  <block id="91317769d501c864c691b74f6f5e18be" category="paragraph">Verwenden Sie nicht „wenn nicht“, um sich auf den vorherigen Satz zu beziehen:</block>
+  <block id="e5363ac9cf61667b8b89d463f10f2181" category="list-text">**Anstatt dies**: "Der Computer sollte ausgeschaltet sein. Wenn nicht, schalten Sie es aus.“</block>
+  <block id="314ac7c923658bd32bd8cfe5b8f31f03" category="section-title">If (versus „ob“ oder „Wann“)</block>
+  <block id="57cea60e898baad9c19780409b1f720a" category="list-text">Verwenden Sie „if“, um eine Bedingung anzuzeigen, z. B. in „if this, then that“-Konstruktionen.</block>
+  <block id="4fde9f415cfd38c4ac4b8c19eeb346b5" category="list-text">Verwenden Sie „ob“, wenn eine angegebene oder implizierte „oder nicht“-Bedingung vorliegt. Um die Übersetzung zu erleichtern, ist es oft am besten, „ob“ oder „nicht“ mit „ob“ allein zu ersetzen.</block>
+  <block id="482a815dda5cae3562f040a54b311368" category="list-text">Verwenden Sie „Wann“, um einen Verlauf der Zeit anzuzeigen.</block>
+  <block id="af53d25413a7125a35f1e589763c4cdb" category="paragraph">Beziehen Sie sich nicht auf den Zeitpunkt oder den Inhalt der kommenden Produktveröffentlichungen oder -Funktionen, außer zu sagen, dass eine Funktion oder Funktion „derzeit nicht unterstützt“ wird.</block>
+  <block id="96a49d1c99ca2a13ba02195d3ec5c3a1" category="paragraph">Siehe <block ref="e6bf2b437b43648d4b736f107bb67511" category="inline-xref-macro-rx"></block>.</block>
+  <block id="a5fff28a31e710f1992d186b2d7fc799" category="paragraph">Siehe <block ref="0ef7c8822f1ba28949b862da7815a111" category="inline-xref-macro-rx"></block>.</block>
+  <block id="4caf5ad146ee22283dbdf0209ac460f8" category="list-text">Weitere Konventionen für Nummern finden Sie unter<block ref="1959342221a46bb956c369d76f7bb821" category="inline-link-rx"></block>.</block>
+  <block id="fd826dfe5f5f6157612b1b0680fd88d2" category="list-text">Identifizieren Sie die Art des Inhalts mithilfe einer Überschrift, z. B. „Voraussetzungen“, „bevor Sie beginnen“ oder „bevor Sie beginnen“.</block>
+  <block id="c2159f5cfdf68b7ab4a868ea44b857c7" category="list-text">„NFS oder CIFS müssen auf dem Cluster eingerichtet werden.“</block>
+  <block id="45361464d379c94ba6f235d2b85b29ca" category="list-text">„Um den Cluster zu Cloud Manager hinzuzufügen, müssen Sie die Cluster-Management-IP-Adresse und das Passwort für das Admin-Benutzerkonto besitzen.“</block>
+  <block id="925f58fabde93eb0ac1a9c6c2a6cf788" category="list-text">Klären Sie bei Bedarf die Voraussetzung: „NFS oder CIFS müssen auf dem Cluster eingerichtet werden. Sie können NFS und CIFS mit System Manager oder der CLI einrichten.“</block>
+  <block id="a2c7987a7c5c85f719477427b45a7fc4" category="list-text">Voraussetzung: „Sie müssen über die erforderlichen Berechtigungen verfügen, bevor Sie Ihren ersten Cluster bereitstellen.“</block>
+  <block id="f761526d1757127301e7e53215be1ac6" category="list-text">Schritt: „Bereitstellen der erforderlichen Berechtigungen für die Bereitstellung des ersten Clusters“</block>
+  <block id="0abcbc68c9feac3ead2c933795aa6f5a" category="section-title">Vorher (versus „vorher“, „vorher“ oder „vorher“)</block>
+  <block id="47ab3a85d304ea1361826a0e729ab661" category="list-text">Wenn möglich, ersetzen Sie „prior“ durch „before“.</block>
+  <block id="82c06dcc336effe8819346a3d3e0e35c" category="list-text">Wenn Sie „vorher“ nicht verwenden können, verwenden Sie „vorher“ als Adjektiv, um auf etwas zu verweisen, das früher oder in einer höheren Reihenfolge aufgetreten ist.</block>
+  <block id="aef01257c22641929055ed2b510e5557" category="list-text">Verwenden Sie „previous“, um etwas anzuzeigen, das zu einem nicht festgelegten Zeitpunkt früher aufgetreten ist.</block>
+  <block id="d3bf1889bfe2a6d3f1e58461e673b5ef" category="list-text">Verwenden Sie „vorhergehend“, um etwas anzuzeigen, das unmittelbar vorher aufgetreten ist.</block>
+  <block id="06b0552284df3fe59e1ab143cd975490" category="list-text">Verwenden Sie ein serielles Komma (Oxford-Komma) vor der Verbindung („and“ oder „or“) in einer Narrativliste mit mindestens drei Elementen.</block>
+  <block id="843771bfb2bc1277bdddc4bb40bba2ea" category="paragraph">Verwenden Sie „seit“, um einen Verlauf der Zeit anzuzeigen. Verwenden Sie „Da“ nicht, um „weil“ zu bedeuten.</block>
+  <block id="5c43b9308575617af1d87b2502a8c287" category="section-title">Das (im Vergleich zu „welches“ oder „wer“)</block>
+  <block id="a57ceb2b83b685ed105c9e7cbf2973c5" category="list-text">Verwenden Sie „das“ (ohne nachfolgendes Komma), um Klauseln einzuführen, die für den Satz erforderlich sind, um Sinn zu machen.</block>
+  <block id="0aec03c873caef13ddd0cee0dfdf3d18" category="list-text">Verwenden Sie "das", auch wenn der Satz in Englisch ohne es klar ist: "Überprüfen Sie, ob der Computer ausgeschaltet ist."</block>
+  <block id="d5337fb842fe71fde2a04361e0eb5cc6" category="list-text">Verwenden Sie „which“ (mit nachhängenden Kommas), um Klauseln einzuführen, die unterstützende Informationen hinzufügen, aber nicht erforderlich sind, damit der Satz sinnvoll ist.</block>
+  <block id="468654d210e6315b69e22fee2ee1c328" category="list-text">Verwenden Sie „Wer“, um Klauseln einzuführen, die sich auf Personen beziehen.</block>
+  <block id="36ccb1973b9666c02706fecb8d9f7cb2" category="paragraph">Wenn Sie eine Benutzeroberfläche dokumentieren, verlassen Sie sich so weit wie möglich auf die Benutzeroberfläche, um den Benutzer zu führen.</block>
+  <block id="04c24915e042645166a2b76326d8a15a" category="paragraph">Verwenden Sie beim Dokumentieren von UIs einen einfachen und minimalen Stil.</block>
+  <block id="5beef609e4101c55ac8830b63e85edc0" category="list-text">Gehen Sie davon aus, dass der Benutzer die Benutzeroberfläche beim Lesen des Inhalts verwendet:</block>
+  <block id="ce4c23bc75196cfbe2f4b044894abee8" category="list-text">Fügen Sie nicht „Klicken Sie auf OK“, „Klicken Sie auf Speichern“ oder „das Volume wird erstellt“ oder irgendetwas anderes, das für jemanden, der diese Aufgabe ausführt, offensichtlich ist, bei.</block>
+  <block id="2a055491bf64f58be8d6a52e1e609f44" category="list-text">Verwenden Sie überhaupt keinen „Klick“. Verwenden Sie immer „Auswählen“, da dieses Wort Maus, Berührung, Tastatur und jede andere Art der Auswahl umfasst.</block>
+  <block id="6b251846895fc039be2285f540503e56" category="paragraph">Vermeiden Sie das Dokumentieren des Granularitätsniveaus, der UI-Elemente erfordert.</block>
+  <block id="9a7c394be2b102aff7633d176cb2cfb0" category="paragraph">Verlassen Sie sich auf die Schnittstelle, um den Benutzer durch die Besonderheiten der Interaktion zu führen. Wenn Sie diese spezifische Version erhalten müssen, benennen Sie die Bezeichnung auf dem Element. Beispiel: „Wählen Sie das gewünschte Volume aus“ oder „Wählen Sie „vorhandenes Volume verwenden“.“ Es ist nicht notwendig, Menüs oder Optionsfelder oder Kontrollkästchen zu benennen, verwenden Sie einfach die Bezeichnung.</block>
+  <block id="94ec525bb462edb85b697091fe1a12d1" category="paragraph">Befolgen Sie beim Identifizieren von Etiketten die Rechtschreibung und Groß-/Kleinschreibung, die von der Benutzeroberfläche verwendet werden.</block>
+  <block id="39db270edb01c9004ca1d5b138b6e0d8" category="paragraph">Wenn Ellipsen auf eine Bezeichnung folgen, nehmen Sie bei der Benennung des Objekts keine Ellipsen ein. Ermuntern Sie Entwickler, die Kapitalisierung im Titelstil für Benutzeroberflächenetiketten zu verwenden, um das Schreiben über sie einfacher zu machen.</block>
+  <block id="a99f27f311a50b3ea0b276b124c916d6" category="paragraph">Verwenden Sie Bildschirmaufnahmen sparsam.</block>
+  <block id="32610c4bd36ad36baee38e14539246c7" category="paragraph">Eine gelegentliche Bildschirmaufzeichnung („Screenshot“) gibt Benutzern die Gewissheit, dass sie sich am richtigen Ort in einer Benutzeroberfläche befinden, wenn sie während eines Workflows Schnittstellen starten oder ändern. Verwenden Sie keine Bildschirmaufnahmen, um zu zeigen, welche Daten eingegeben werden sollen oder welcher Wert ausgewählt werden soll.</block>
+  <block id="b82c2c6f8dedbeb3f2192242dfb244ce" category="section-title">Während (im Vergleich zu „obwohl“)</block>
+  <block id="a8725be5130c5015f50f29026862358e" category="list-text">Verwenden Sie „while“, um ein zeitliches Auftreten anzuzeigen.</block>
+  <block id="1f9e771dea99b07dbcdbe2912dc1adb2" category="list-text">Verwenden Sie „Obwohl“, um eine Aktivität darzustellen, die fast zur gleichen Zeit oder kurz nach einer anderen Aktivität stattfindet.</block>
 </blocks>
