@@ -382,6 +382,12 @@ Befolgen Sie diese Richtlinien, um für eine globale Zielgruppe zu schreiben:
 
 
 
+=== Akronyme und Abkürzungen
+
+Verwenden Sie bekannte Akronyme und Abkürzungen, um sich vertraut zu machen, vermeiden Sie jedoch obskure Akronyme, die sich negativ auf die Klarheit und die Befindbarkeit auswirken könnten. Weitere Konventionen für Akronyme und Abkürzungen finden Sie im https://learn.microsoft.com/en-us/style-guide/welcome/["Microsoft-Schreibstil-Leitfaden"^].
+
+
+
 === Aktive Stimme (im Vergleich zu passiver Stimme)
 
 Siehe <<Aktiv schreiben>>.
@@ -390,20 +396,21 @@ Siehe <<Aktiv schreiben>>.
 
 === Ermahnungen
 
-Verwenden Sie die folgenden Beschriftungen, um Inhalte getrennt vom Haupt-Content-Flow zu identifizieren:
+Ermahnungen sind ein mächtiges Werkzeug, wenn sie richtig verwendet werden. Sie können auf wichtige Informationen aufmerksam machen, hilfreiche Tipps geben oder Benutzer vor potenziellen Gefahren warnen. Bei Überbeanspruchungen verlieren sie ihre Auswirkungen und können zu Ermüdung des Benutzers führen. Hier sind einige Richtlinien, um die effektive Verwendung von Ermahnungen zu gewährleisten.
 
-* HINWEIS
-+
-VERWENDEN Sie HINWEIS für wichtige Informationen, die sich vom Rest des Textes unterscheiden müssen. Vermeiden Sie die Verwendung von NOTIZEN für Informationen, die für Benutzer nicht erforderlich sind, um sich über die Aufgabe zu informieren oder die Aufgabe abzuschließen.
+Verwenden Sie die folgenden Bezeichnungen, um Ermahnungen vom Hauptinhaltsfluss zu trennen:
 
-* TIPP
-+
-Verwenden SIE TIPP nur sparsam, wenn überhaupt, weil es unsere Richtlinie ist, die Informationen zu Best Practices immer standardmäßig zu dokumentieren. Verwenden SIE BEI Bedarf TIPP, um Informationen zu Best Practices zu enthalten, mit denen Benutzer einfach und effizient ein Produkt verwenden oder einen Schritt oder eine Aufgabe durchführen können.
+* HINWEIS: Verwenden Sie den HINWEIS, um wichtige Informationen hervorzuheben, die sich vom Rest des Textes abheben müssen. Verwenden Sie jedoch keine HINWEISE für „gut zu wissen“-Informationen, die für Benutzer nicht unbedingt erforderlich sind, um eine Aufgabe zu verstehen oder abzuschließen. Der Zweck einer NOTIZ besteht darin, die Aufmerksamkeit des Lesers auf kritische Punkte zu lenken, die er sonst übersehen könnte.
+* TIPP-Tipps sollten sparsam, wenn überhaupt, verwendet werden, da unsere Richtlinie ist, Best-Practice-Informationen standardmäßig zu dokumentieren. Verwenden Sie bei Bedarf den TIPP, um Best-Practice-Informationen hervorzuheben, die Benutzern helfen, ein Produkt zu verwenden oder einen Schritt oder eine Aufgabe einfacher und effizienter durchzuführen. Ein TIPP sollte nützliche Ratschläge oder Verknüpfungen geben, die das Benutzererlebnis verbessern können.
+* VORSICHT VORSICHT VORSICHT Verwenden Sie VORSICHT, um den Benutzer vor Bedingungen oder Maßnahmen zu warnen, die zu unerwünschten Ergebnissen führen können, einschließlich Verletzungen oder Schäden an Geräten. VORSICHT ist geboten, um auf potenzielle Gefahren aufmerksam zu machen, die der Benutzer vermeiden muss, um Schäden oder Störungen zu vermeiden.
 
-* ACHTUNG
-+
-SEIEN SIE VORSICHTIG, um die Benutzer über Bedingungen oder Verfahren zu warnen, die zu Verletzungen führen können, die nicht tödlich oder extrem gefährlich sind.
 
+.Zusätzliche Richtlinien
+* Verwenden Sie nur unterstützte Ermahnungen. Jede andere Art von Formatierung wird nicht unterstützt.
+* Vermeiden Sie eine Überbeanspruchung von Ermahnungen. Überbeanspruchung kann dazu führen, dass Benutzer diese wichtigen Abschnitte überspringen, da sie sie als „Junk-Schublade“ unserer Dokumente sehen.
+* Als Faustregel gilt, die Anzahl der Ermahnungen auf maximal 3 pro Seite zu begrenzen.
+* Geben Sie klare und präzise Informationen innerhalb der Mahnung. Die Botschaft sollte kurz und bündig sein, so dass die Benutzer schnell die Bedeutung der bereitgestellten Informationen verstehen können.
+* Vermeiden Sie AsciiDoc-Ermahnungen in einer Tabelle. Wenn der Inhalt als Hinweis, Tipp oder Vorsicht gekennzeichnet werden muss, verwenden Sie Hinweis:, Tipp:, oder Achtung: als Inline-Einleitung in den Text.
 
 
 
