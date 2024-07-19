@@ -554,7 +554,8 @@ Greifen Sie gegebenenfalls auf Inhalte in KB (NetApp Knowledgebase)-Artikeln zu.
 Listen von Informationen sind in der Regel einfacher zu scannen und absorbieren als Textblöcke. Überlegen Sie, wie Sie komplexe Informationen vereinfachen können, indem Sie sie in Listenform präsentieren. Hier sind einige allgemeine Richtlinien, aber nutzen Sie Ihr Urteil:
 
 * Stellen Sie sicher, dass der Grund für die Liste klar ist. Führen Sie die Liste mit einem vollständigen Satz, einem Satzfragment mit einem Doppelpunkt oder einer Überschrift ein.
-* Listen sollten zwei bis sieben Einträge enthalten. Im Allgemeinen, je kürzer die Informationen in jedem Eintrag, desto mehr Einträge können Sie hinzufügen, während die Liste scannable.
+* Wenn Sie eine Liste in einer Liste verwenden, begrenzen Sie die Struktur auf maximal zwei Tiefenebenen, um Klarheit und Lesbarkeit zu erhalten. Wenn Sie mehr Ebenen benötigen, sollten Sie die Inhalte neu organisieren, damit Benutzer leichter navigieren und verstehen können.
+* Jede Liste, einschließlich verschachtelter Listen, sollte zwischen zwei und sieben Einträge enthalten. Im Allgemeinen, je kürzer die Informationen in jedem Eintrag, desto mehr Einträge können Sie hinzufügen, während die Liste scannable. Wenn eine Liste mehrere Einträge enthält, die verschachtelte Listen enthalten, sollten Sie Abschnitte oder Blocktitel verwenden, um das gesamte Element in verbrauchsstärkere Teile zu unterteilen.
 * Listeneinträge sollten so scannbar wie möglich sein. Vermeiden Sie Textblöcke, die in der Art und Weise, Listen Einträge scannable erhalten.
 * Listeneinträge sollten mit einem Großbuchstaben beginnen, und Listeneinträge sollten grammatikalisch parallel sein. Beginnen Sie beispielsweise jeden Eintrag mit einem Substantiv oder einem Verb:
 +
