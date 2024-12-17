@@ -403,6 +403,13 @@ Verwenden Sie die folgenden Bezeichnungen, um Ermahnungen vom Hauptinhaltsfluss 
 * HINWEIS: Verwenden Sie den HINWEIS, um wichtige Informationen hervorzuheben, die sich vom Rest des Textes abheben müssen. Verwenden Sie jedoch keine HINWEISE für „gut zu wissen“-Informationen, die für Benutzer nicht unbedingt erforderlich sind, um eine Aufgabe zu verstehen oder abzuschließen. Der Zweck einer NOTIZ besteht darin, die Aufmerksamkeit des Lesers auf kritische Punkte zu lenken, die er sonst übersehen könnte.
 * TIPP-Tipps sollten sparsam, wenn überhaupt, verwendet werden, da unsere Richtlinie ist, Best-Practice-Informationen standardmäßig zu dokumentieren. Verwenden Sie bei Bedarf den TIPP, um Best-Practice-Informationen hervorzuheben, die Benutzern helfen, ein Produkt zu verwenden oder einen Schritt oder eine Aufgabe einfacher und effizienter durchzuführen. Ein TIPP sollte nützliche Ratschläge oder Verknüpfungen geben, die das Benutzererlebnis verbessern können.
 * VORSICHT VORSICHT VORSICHT Verwenden Sie VORSICHT, um den Benutzer vor Bedingungen oder Maßnahmen zu warnen, die zu unerwünschten Ergebnissen führen können, einschließlich Verletzungen oder Schäden an Geräten. VORSICHT ist geboten, um auf potenzielle Gefahren aufmerksam zu machen, die der Benutzer vermeiden muss, um Schäden oder Störungen zu vermeiden.
+* BEST PRACTICES Nutzen Sie BEST PRACTICES, um optimale Methoden zum Abschließen von Aufgaben oder zur Verwendung eines Produkts hervorzuheben. Es handelt sich dabei nicht um bloße Vorschläge, sondern um Strategien, die von Experten oder Branchenstandards validiert wurden.
++
+** *Was macht eine BEST PRACTICE aus?* Es handelt sich um eine umsetzbare, aufgabenspezifische Strategie, die klare Vorteile bietet und von zuverlässigen Quellen unterstützt wird.
+** *Wann kann ich sie verwenden?* Sie können BEST PRACTICES für alle Inhaltstypen und alle Zielgruppen anwenden. Wie TIPPS, verwenden Sie sie sparsam, um ihre Bedeutung zu erhalten.
+** *Wie formatige ich sie?* Präsentieren Sie BEST PRACTICES in einem konsistenten, benutzerfreundlichen Format. Dies kann je nach Kontext eine Aufzählungsliste, eine nummerierte Liste oder ein Absatz sein.
+
+
 
 
 .Zusätzliche Richtlinien
