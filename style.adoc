@@ -398,17 +398,31 @@ Siehe <<Aktiv schreiben>>.
 
 Ermahnungen sind ein mächtiges Werkzeug, wenn sie richtig verwendet werden. Sie können auf wichtige Informationen aufmerksam machen, hilfreiche Tipps geben oder Benutzer vor potenziellen Gefahren warnen. Bei Überbeanspruchungen verlieren sie ihre Auswirkungen und können zu Ermüdung des Benutzers führen. Hier sind einige Richtlinien, um die effektive Verwendung von Ermahnungen zu gewährleisten.
 
-Verwenden Sie die folgenden Bezeichnungen, um Ermahnungen vom Hauptinhaltsfluss zu trennen:
+.Standardermahnungen
+Drei Standard-Ermahnungen verwenden benutzerdefinierte Beschriftungen. Die Etiketten sind HINWEIS, SPITZE und VORSICHT. Diese drei Standard-Ermahnungen sind deutlich vom normalen Text formatiert, und ihre Beschriftungen werden immer in Großbuchstaben in der AsciiDoc-Quelle geschrieben.
 
 * HINWEIS: Verwenden Sie den HINWEIS, um wichtige Informationen hervorzuheben, die sich vom Rest des Textes abheben müssen. Verwenden Sie jedoch keine HINWEISE für „gut zu wissen“-Informationen, die für Benutzer nicht unbedingt erforderlich sind, um eine Aufgabe zu verstehen oder abzuschließen. Der Zweck einer NOTIZ besteht darin, die Aufmerksamkeit des Lesers auf kritische Punkte zu lenken, die er sonst übersehen könnte.
-* TIPP-Tipps sollten sparsam, wenn überhaupt, verwendet werden, da unsere Richtlinie ist, Best-Practice-Informationen standardmäßig zu dokumentieren. Verwenden Sie bei Bedarf den TIPP, um Best-Practice-Informationen hervorzuheben, die Benutzern helfen, ein Produkt zu verwenden oder einen Schritt oder eine Aufgabe einfacher und effizienter durchzuführen. Ein TIPP sollte nützliche Ratschläge oder Verknüpfungen geben, die das Benutzererlebnis verbessern können.
+* TIPP Verwenden Sie TIPP, um nützliche Ratschläge oder Verknüpfungen zu geben, die das Benutzererlebnis verbessern können. Ein TIPP kann beispielsweise dazu beitragen, dass ein Benutzer einen Schritt oder eine Aufgabe einfacher und effizienter abwickeln kann. Ein TIPP sollte, wenn überhaupt, sparsam verwendet werden, da unsere Richtlinie ist, die beste Methode zu dokumentieren, um eine Aufgabe standardmäßig abzuschließen.
 * VORSICHT VORSICHT VORSICHT Verwenden Sie VORSICHT, um den Benutzer vor Bedingungen oder Maßnahmen zu warnen, die zu unerwünschten Ergebnissen führen können, einschließlich Verletzungen oder Schäden an Geräten. VORSICHT ist geboten, um auf potenzielle Gefahren aufmerksam zu machen, die der Benutzer vermeiden muss, um Schäden oder Störungen zu vermeiden.
-* BEST PRACTICES Nutzen Sie BEST PRACTICES, um optimale Methoden zum Abschließen von Aufgaben oder zur Verwendung eines Produkts hervorzuheben. Es handelt sich dabei nicht um bloße Vorschläge, sondern um Strategien, die von Experten oder Branchenstandards validiert wurden.
-+
-** *Was macht eine BEST PRACTICE aus?* Es handelt sich um eine umsetzbare, aufgabenspezifische Strategie, die klare Vorteile bietet und von zuverlässigen Quellen unterstützt wird.
-** *Wann kann ich sie verwenden?* Sie können BEST PRACTICES für alle Inhaltstypen und alle Zielgruppen anwenden. Wie TIPPS, verwenden Sie sie sparsam, um ihre Bedeutung zu erhalten.
-** *Wie formatige ich sie?* Präsentieren Sie BEST PRACTICES in einem konsistenten, benutzerfreundlichen Format. Dies kann je nach Kontext eine Aufzählungsliste, eine nummerierte Liste oder ein Absatz sein.
 
+
+.Best Practice Ermahnung
+Die Best Practice-Warnung ist keine benutzerdefinierte Ermahnung, sondern kann als eigenständige Formatierungskonvention verwendet werden. Verwenden Sie Best Practice, um optimale Methoden zum Abschließen von Aufgaben oder zur Verwendung eines Produkts hervorzuheben. Es handelt sich dabei nicht um bloße Vorschläge, sondern um Strategien, die von Experten oder Branchenstandards validiert wurden.
+
+* *Was macht eine Best Practice aus?*
++
+Es handelt sich um eine umsetzbare, aufgabenspezifische Strategie, die klare Vorteile bietet und von zuverlässigen Quellen unterstützt wird.
+
+* *Wann kann ich Best Practice anwenden?*
++
+Sie können Best Practice für alle Inhaltstypen und alle Zielgruppen verwenden. Wie TIPPS, verwenden Sie sie sparsam, um ihre Bedeutung zu erhalten.
+
+* *Wie kann ich Best Practice formatieren?*
++
+Wenn Sie das Format „Best Practice“ verwenden möchten, wenden Sie die Groß-/Kleinschreibung des Satzes an, und stellen Sie den Begriff „Best Practice“ fett dar, gefolgt von einem Doppelpunkt und einem Leerzeichen.
+
++
+Präsentieren Sie Best Practice in einem konsistenten, benutzerfreundlichen Format. Dies kann je nach Kontext eine Aufzählung, eine nummerierte Liste oder ein Absatz sein. Beispiel: *Best Practice*: Testen Sie Ihre Konfigurationsänderungen immer in einer Staging-Umgebung, bevor Sie sie auf die Produktion anwenden.
 
 
 
