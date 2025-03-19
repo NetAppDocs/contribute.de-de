@@ -1,6 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: asciidoc_syntax.html 
+keywords: AsciiDoc, syntax, markup, documentation, NetApp 
+summary: Lernen Sie die AsciiDoc-Syntax kennen, um zur NetApp-Dokumentation beizutragen. 
 ---
 = AsciiDoc Referenz
 :hardbreaks:

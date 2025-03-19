@@ -1,6 +1,8 @@
 ---
 sidebar: sidebar 
 permalink: ai-policy.html 
+keywords: AI, artificial intelligence, generated content, NetApp, technical documentation 
+summary: NetApp hat es sich zum Ziel gesetzt, die Veröffentlichung von durch KI erstellten Inhalten zu untersagen, die nicht durch einen Menschen verifiziert und validiert wurden. 
 ---
 = Richtlinie, die die Verwendung von KI-generierten Inhalten in der technischen Dokumentation von NetApp untersagt
 :hardbreaks:
