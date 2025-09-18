@@ -483,9 +483,6 @@ curl -s https:///v1/ \
 Wenn Sie einen Teil von Inhalten haben, der auf verschiedenen Seiten wiederholt wird, können Sie ihn einfach einmal schreiben und auf diesen Seiten wiederverwenden. Eine Wiederverwendung ist aus demselben Repository und über mehrere Repositorys hinweg möglich. Und so funktioniert's.
 
 . Erstellen Sie einen Ordner in Ihrem Repository namens_include
-+
-https://github.com/NetAppDocs/cloud-tiering["Sehen Sie sich beispielsweise das Cloud Tiering Repository an"^].
-
 . Fügen Sie eine Adoc-Datei in diesem Ordner hinzu, die den Inhalt enthält, den Sie verwenden möchten.
 +
 Es kann sich um einen Satz, eine Liste, eine Tabelle, einen oder mehrere Abschnitte usw. handelt. Fügen Sie nichts anderes in die Datei ein - keine Kopfzeilen oder irgendetwas.
@@ -503,12 +500,8 @@ Beispiel:
 +
  include::https://raw.githubusercontent.com/NetAppDocs/<reponame>/main/_include/<filename>.adoc[]
 +
-Beispiel:
-
-+
- include::https://raw.githubusercontent.com/NetAppDocs/cloud-tiering/main/_include/s3regions.adoc[]
-
-
 Das ist alles.
+
+
 
 Wenn Sie mehr über die Richtlinie einschließlich https://asciidoctor.org/docs/user-manual/#include-directive["Sehen Sie sich das AsciiDoctor Benutzerhandbuch an"^].

@@ -85,11 +85,7 @@ Wenn Sie den Inhalt selbst bearbeiten möchten, können Sie die genauen Dokument
 
 Als externer Mitarbeiter können Sie die Änderung nicht direkt veröffentlichen. Der Content Lead überprüft die Änderungen, nimmt alle erforderlichen Änderungen vor und führt die Änderungen anschließend zusammen. Wenn dies geschieht, erhalten Sie eine E-Mail-Benachrichtigung von GitHub.
 
-Wenn Sie Hilfe bei unserem Schreibstil oder der Quellsyntax benötigen, können Sie die folgenden Ressourcen verwenden:
-
-* link:style.html["Style Guide für NetApp Dokumentationen"]
-* link:asciidoc_syntax.html["AsciiDoc-Syntax"]
-
+Wenn Sie Hilfe beim Bearbeiten der Quelldatei benötigen, können Sielink:asciidoc_syntax.html["Erfahren Sie mehr über die AsciiDoc-Syntax"] .
 
 .Schritte
 . Wenn Sie noch kein GitHub-Konto haben, https://github.com/join["Erstellen Sie eine aus github.com"^]
